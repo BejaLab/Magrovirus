@@ -1,0 +1,128 @@
+chr,orf_name,start,end,length,strand,orf_annotation,conserved_proteins,col,gene_type,cex,lty,lwd,pch
+SAMEA2620879_23,gene_1_SAMEA2620879_23,2,4957,1652_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_2_SAMEA2620879_23,4957,6072,371_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_3_SAMEA2620879_23,6082,7098,338_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_4_SAMEA2620879_23,7098,8891,597_aa,-,Primosomal replication  priC-like protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_5_SAMEA2620879_23,8896,9009,37_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_6_SAMEA2620879_23,9102,9467,121_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_7_SAMEA2620879_23,9498,10085,195_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_8_SAMEA2620879_23,10111,10503,130_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_9_SAMEA2620879_23,10509,12836,775_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_10_SAMEA2620879_23,12859,13491,210_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_11_SAMEA2620879_23,13484,13717,77_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_12_SAMEA2620879_23,13714,13971,85_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_13_SAMEA2620879_23,13964,15064,366_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_14_SAMEA2620879_23,15064,17997,977_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_15_SAMEA2620879_23,18008,18427,139_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_16_SAMEA2620879_23,18449,18739,96_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_17_SAMEA2620879_23,18817,19176,119_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_18_SAMEA2620879_23,19209,20513,434_aa,-,major capsid protein,major capsid protein,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_19_SAMEA2620879_23,20536,21834,432_aa,-,phage prohead protease,phage prohead protease,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_20_SAMEA2620879_23,21877,24639,920_aa,-,ATP-dependent DNA ligase,ATP-dependent DNA ligase,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_21_SAMEA2620879_23,24701,25492,263_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_22_SAMEA2620879_23,25492,25734,80_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_23_SAMEA2620879_23,25731,28919,1062_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_24_SAMEA2620879_23,28928,29143,71_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_25_SAMEA2620879_23,29148,30791,547_aa,-,phage portal protein,phage portal protein,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_26_SAMEA2620879_23,30791,32338,515_aa,-,UvrD-like helicase/homing endonuclease,UvrD-like helicase/homing endonuclease,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_27_SAMEA2620879_23,32325,33746,473_aa,-,terminase,terminase,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_28_SAMEA2620879_23,33746,34405,219_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_29_SAMEA2620879_23,34407,35276,289_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_30_SAMEA2620879_23,35276,35518,80_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_31_SAMEA2620879_23,35515,38109,864_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_32_SAMEA2620879_23,38106,40385,759_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_33_SAMEA2620879_23,40382,40597,71_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_34_SAMEA2620879_23,40599,40880,93_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_35_SAMEA2620879_23,40892,41074,60_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_36_SAMEA2620879_23,41080,41400,106_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_37_SAMEA2620879_23,41400,41636,78_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_38_SAMEA2620879_23,41633,42022,129_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_39_SAMEA2620879_23,42027,42230,67_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_40_SAMEA2620879_23,42227,42889,220_aa,-,DUF1804 Protein of unknown function (DUF1804) ??,DUF1804 Protein of unknown function (DUF1804) ??,grey35,arrows,1,1,1,8
+SAMEA2620879_23,gene_41_SAMEA2620879_23,42879,43970,363_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_42_SAMEA2620879_23,43967,44278,103_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_43_SAMEA2620879_23,44275,45126,283_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_44_SAMEA2620879_23,45123,45563,146_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_45_SAMEA2620879_23,45568,45909,113_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_46_SAMEA2620879_23,45912,46178,88_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_47_SAMEA2620879_23,46249,46449,66_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_48_SAMEA2620879_23,46449,47594,381_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_49_SAMEA2620879_23,47596,47865,89_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_50_SAMEA2620879_23,47862,48221,119_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_51_SAMEA2620879_23,48203,48481,92_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_52_SAMEA2620879_23,48487,48648,53_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_53_SAMEA2620879_23,48653,49072,139_aa,-,Acetyltransferase (GNAT) domain,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_54_SAMEA2620879_23,49074,49481,135_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_55_SAMEA2620879_23,49478,50005,175_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_56_SAMEA2620879_23,50002,50415,137_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_57_SAMEA2620879_23,50412,50735,107_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_58_SAMEA2620879_23,50735,51139,134_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_59_SAMEA2620879_23,51260,51652,130_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_60_SAMEA2620879_23,52084,52371,95_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_61_SAMEA2620879_23,52368,52649,93_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_62_SAMEA2620879_23,52650,52766,38_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_63_SAMEA2620879_23,52855,53082,75_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_64_SAMEA2620879_23,53072,53269,65_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_65_SAMEA2620879_23,53404,53982,192_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_66_SAMEA2620879_23,54229,54807,192_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_67_SAMEA2620879_23,55869,56468,199_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_68_SAMEA2620879_23,57489,57755,88_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_69_SAMEA2620879_23,57752,57913,53_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_70_SAMEA2620879_23,57910,58158,82_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_71_SAMEA2620879_23,58158,58268,36_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_72_SAMEA2620879_23,58268,58456,62_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_73_SAMEA2620879_23,58440,58742,100_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_74_SAMEA2620879_23,58723,58965,80_aa,+,Domain of Unknown Function with PDB structure (DUF3860),,grey35,arrows,1,1,1,8
+SAMEA2620879_23,gene_75_SAMEA2620879_23,58958,59065,35_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_76_SAMEA2620879_23,59154,59525,123_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_77_SAMEA2620879_23,59531,59737,68_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_78_SAMEA2620879_23,59753,60190,145_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_79_SAMEA2620879_23,60215,60535,106_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_80_SAMEA2620879_23,60766,61236,156_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_81_SAMEA2620879_23,61236,63095,619_aa,+,ribonucleoside-triphosphate reductase,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_82_SAMEA2620879_23,63101,63328,75_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_83_SAMEA2620879_23,63329,63580,83_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_84_SAMEA2620879_23,63582,64808,408_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_85_SAMEA2620879_23,64795,66054,419_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_86_SAMEA2620879_23,66077,66670,197_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_87_SAMEA2620879_23,66672,67235,187_aa,+,ThiF family protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_88_SAMEA2620879_23,67240,67767,175_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_89_SAMEA2620879_23,67764,67940,58_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_90_SAMEA2620879_23,68086,68562,158_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_91_SAMEA2620879_23,68559,68921,120_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_92_SAMEA2620879_23,68909,69145,78_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_93_SAMEA2620879_23,69138,69263,41_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_94_SAMEA2620879_23,69260,70777,505_aa,+,ATP-dependent DNA ligase,ATP-dependent DNA ligase,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_95_SAMEA2620879_23,70779,71024,81_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_96_SAMEA2620879_23,71021,71155,44_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_97_SAMEA2620879_23,71168,71395,75_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_98_SAMEA2620879_23,71395,71829,144_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_99_SAMEA2620879_23,71786,72625,279_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_100_SAMEA2620879_23,72622,72777,51_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_101_SAMEA2620879_23,72779,73111,110_aa,+,DnaJ central domain,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_102_SAMEA2620879_23,73089,74000,303_aa,+,"Replication factor C small subunit, “gene30”","Replication factor C small subunit, “gene30”",whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_103_SAMEA2620879_23,74006,75250,414_aa,+,"putative DNA-binding protein, ""gene29""","putative DNA-binding protein, ""gene29""",whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_104_SAMEA2620879_23,75347,75589,80_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_105_SAMEA2620879_23,75591,76505,304_aa,+,radB-like recombinase,radB-like recombinase,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_106_SAMEA2620879_23,76621,77403,260_aa,+,"DNA polymerase sliding clamp, ""gene27""","DNA polymerase sliding clamp, ""gene27""",whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_107_SAMEA2620879_23,77400,77600,66_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_108_SAMEA2620879_23,77597,77770,57_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_109_SAMEA2620879_23,77780,77950,56_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_110_SAMEA2620879_23,77947,78102,51_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_111_SAMEA2620879_23,78095,78313,72_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_112_SAMEA2620879_23,78419,78700,93_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_113_SAMEA2620879_23,78700,79758,352_aa,+,IMP dehydrogenase / GMP reductase domain,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_114_SAMEA2620879_23,79755,82193,812_aa,+,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8
+SAMEA2620879_23,gene_115_SAMEA2620879_23,82196,82687,163_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_116_SAMEA2620879_23,82723,83580,285_aa,+,"Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, “gene24”","Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, “gene24”",whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_117_SAMEA2620879_23,83567,83896,109_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_118_SAMEA2620879_23,83886,84350,154_aa,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_119_SAMEA2620879_23,84351,85382,343_aa,+,"Primase AE_Prim_S, “gene21”","Primase AE_Prim_S, “gene21”",whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_120_SAMEA2620879_23,85385,86059,224_aa,+,"ERCC4-type nuclease, “gene20”","ERCC4-type nuclease, “gene20”",whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_121_SAMEA2620879_23,86059,87591,510_aa,+,"DNA replicative helicase, “gene19”","DNA replicative helicase, “gene19”",whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_122_SAMEA2620879_23,87578,88195,205_aa,+,"DnaQ-like 3'-5' exonuclease, ""gene18""","DnaQ-like 3'-5' exonuclease, ""gene18""",whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_123_SAMEA2620879_23,88360,88536,58_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_124_SAMEA2620879_23,88544,88756,70_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_125_SAMEA2620879_23,88790,90871,693_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_126_SAMEA2620879_23,90873,91220,115_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8
+SAMEA2620879_23,gene_127_SAMEA2620879_23,91217,93865,882_aa,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8

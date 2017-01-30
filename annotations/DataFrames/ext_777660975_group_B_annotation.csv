@@ -1,0 +1,121 @@
+orf_name,start,end,Unnamed: 5,orf_annotation,conserved_proteins,col,gene_type,cex,lty,lwd,pch,chr
+gene_1_777660975_ext,50,1204,+,terminase,terminase,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_2_777660975_ext,1219,2535,+,UvrD-like helicase/homing endonuclease,UvrD-like helicase/homing endonuclease,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_3_777660975_ext,2538,4190,+,phage portal protein,phage portal protein,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_4_777660975_ext,4190,4855,+,putative phage head fiber protein,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_5_777660975_ext,4870,4992,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_6_777660975_ext,4985,5197,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_7_777660975_ext,5200,7485,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_8_777660975_ext,7478,8029,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_9_777660975_ext,8029,8373,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_10_777660975_ext,8357,8605,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_11_777660975_ext,8607,8846,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_12_777660975_ext,8848,11361,+,ATP-dependent DNA ligase,ATP-dependent DNA ligase,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_13_777660975_ext,11401,12645,+,phage prohead protease,phage prohead protease,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_14_777660975_ext,12651,14012,+,major capsid protein,major capsid protein,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_15_777660975_ext,14024,14377,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_16_777660975_ext,14448,14852,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_17_777660975_ext,14865,15158,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_18_777660975_ext,15167,15571,+,Protein of unknown function (DUF3106),,grey35,arrows,1,1,1,8,777660975_ext
+gene_19_777660975_ext,15576,15797,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_20_777660975_ext,15816,16475,+,Arf-like small GTPase,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_21_777660975_ext,16540,17214,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_22_777660975_ext,17216,17938,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_23_777660975_ext,18071,19834,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_24_777660975_ext,19827,20939,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_25_777660975_ext,20984,21193,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_26_777660975_ext,21183,21731,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_27_777660975_ext,21744,23303,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_28_777660975_ext,23285,23875,+,tail assembly chaperone ,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_29_777660975_ext,23974,24087,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_30_777660975_ext,24087,25517,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_31_777660975_ext,25519,26256,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_32_777660975_ext,26265,29009,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_33_777660975_ext,29009,35833,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_34_777660975_ext,35830,36177,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_35_777660975_ext,36177,43643,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_36_777660975_ext,43648,43926,+,Phage tail assembly chaperone protein,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_37_777660975_ext,44374,44505,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_38_777660975_ext,44541,45137,-,"DnaQ-like 3'-5' exonuclease, gene18","DnaQ-like 3'-5' exonuclease, gene18",whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_39_777660975_ext,45143,45235,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_40_777660975_ext,45235,45444,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_41_777660975_ext,45449,46930,-,"DNA replicative helicase, gene19","DNA replicative helicase, gene19",whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_42_777660975_ext,46927,47607,-,"ERCC4-type nuclease, gene20","ERCC4-type nuclease, gene20",whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_43_777660975_ext,47699,47833,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_44_777660975_ext,47830,48771,-,"Primase AE_Prim_S, gene21","Primase AE_Prim_S, gene21",whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_45_777660975_ext,48746,49105,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_46_777660975_ext,49110,49988,-,"Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24","Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24",whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_47_777660975_ext,49979,50896,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,777660975_ext
+gene_48_777660975_ext,51077,52747,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,777660975_ext
+gene_49_777660975_ext,52752,53531,-,"DNA polymerase sliding clamp, gene27","DNA polymerase sliding clamp, gene27",whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_50_777660975_ext,53528,54364,-,radB-like recombinase,radB-like recombinase,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_51_777660975_ext,54348,54599,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_52_777660975_ext,54665,55888,-,"putative DNA-binding protein, gene29","putative DNA-binding protein, gene29",whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_53_777660975_ext,56031,56225,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_54_777660975_ext,56222,56572,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_55_777660975_ext,56569,56838,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_56_777660975_ext,56839,57744,-,"Replication factor C small subunit, gene30","Replication factor C small subunit, gene30",whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_57_777660975_ext,57751,58587,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_58_777660975_ext,58584,58799,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_59_777660975_ext,58796,59194,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_60_777660975_ext,59187,59519,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_61_777660975_ext,59512,59994,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_62_777660975_ext,60013,61569,-,ATP-dependent DNA ligase,ATP-dependent DNA ligase,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_63_777660975_ext,61638,61838,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_64_777660975_ext,61828,62079,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_65_777660975_ext,62072,62485,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_66_777660975_ext,62482,62934,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_67_777660975_ext,62931,63395,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_68_777660975_ext,63395,63766,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_69_777660975_ext,63767,64411,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_70_777660975_ext,64408,64995,-,ThiF family protein,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_71_777660975_ext,64988,65914,-,Transcription initiation factor TFIIIB,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_72_777660975_ext,65920,67248,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_73_777660975_ext,67250,67405,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_74_777660975_ext,67406,67582,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_75_777660975_ext,67579,67902,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_76_777660975_ext,67902,68270,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_77_777660975_ext,68333,68674,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_78_777660975_ext,68664,70538,-,ribonucleoside-triphosphate reductase,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_79_777660975_ext,70541,70924,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_80_777660975_ext,71004,71234,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_81_777660975_ext,71247,71462,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_82_777660975_ext,71466,72626,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_83_777660975_ext,72623,72892,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_84_777660975_ext,72889,73074,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_85_777660975_ext,73080,73250,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_86_777660975_ext,73247,73438,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_87_777660975_ext,73471,73725,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_88_777660975_ext,73726,74103,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_89_777660975_ext,74109,74225,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_90_777660975_ext,74228,74776,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_91_777660975_ext,75543,76034,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_92_777660975_ext,76083,76253,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_93_777660975_ext,76806,77408,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_94_777660975_ext,77633,77824,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_95_777660975_ext,77827,78540,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_96_777660975_ext,78537,78761,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_97_777660975_ext,80883,81425,-,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_98_777660975_ext,82032,82283,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_99_777660975_ext,82286,82489,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_100_777660975_ext,82570,83991,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_101_777660975_ext,83988,84143,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_102_777660975_ext,84140,84994,+,bacterial acid phosphatase,,whitesmoke,arrows,1,1,1,8,777660975_ext
+gene_103_777660975_ext,84991,85284,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_104_777660975_ext,85563,86003,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_105_777660975_ext,86000,86470,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_106_777660975_ext,86472,86831,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_107_777660975_ext,86832,88364,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_108_777660975_ext,88361,88666,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_109_777660975_ext,88672,88983,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_110_777660975_ext,88977,89135,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_111_777660975_ext,89113,90288,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_112_777660975_ext,90264,90938,+,DUF1804 Protein of unknown function (DUF1804) ??,DUF1804 Protein of unknown function (DUF1804) ??,grey35,arrows,1,1,1,8,777660975_ext
+gene_113_777660975_ext,91015,91191,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_114_777660975_ext,91181,91504,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_115_777660975_ext,91501,92409,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_116_777660975_ext,92416,94365,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_117_777660975_ext,94362,96809,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_118_777660975_ext,96815,97099,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_119_777660975_ext,97105,97551,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext
+gene_120_777660975_ext,97548,97754,+,hypothetical protein,,Gray,arrows,1,1,1,8,777660975_ext

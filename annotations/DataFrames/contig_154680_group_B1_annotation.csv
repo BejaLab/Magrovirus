@@ -1,0 +1,136 @@
+name,start,end,strand,orf_annotation,conserved_proteins,col,gene_type,cex,lty,lwd,pch,chr
+gene_1_contig_154680,3,149,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_2_contig_154680,171,425,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_3_contig_154680,422,1588,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_4_contig_154680,1572,1829,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_5_contig_154680,1826,2053,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_6_contig_154680,2144,2428,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_7_contig_154680,2425,2637,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_8_contig_154680,2630,3127,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_9_contig_154680,3355,3909,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_10_contig_154680,3971,4276,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_11_contig_154680,4303,4542,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_12_contig_154680,4542,4829,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_13_contig_154680,6496,6678,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_14_contig_154680,6842,7312,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_15_contig_154680,7444,7746,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_16_contig_154680,7847,8029,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_17_contig_154680,8029,8196,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_18_contig_154680,8199,8444,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_19_contig_154680,8441,8581,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_20_contig_154680,8572,8703,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_21_contig_154680,8700,8825,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_22_contig_154680,8826,9149,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_23_contig_154680,9209,9799,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_24_contig_154680,9951,10214,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_25_contig_154680,10440,11186,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_26_contig_154680,11327,11554,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_27_contig_154680,11582,12301,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_28_contig_154680,12298,12573,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_29_contig_154680,12742,13854,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_30_contig_154680,14089,14715,+,DUF1804 Protein of unknown function (DUF1804),DUF1804 Protein of unknown function (DUF1804),grey35,arrows,1,1,1,8,contig_154680
+gene_31_contig_154680,14712,14861,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_32_contig_154680,14858,16684,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_33_contig_154680,16689,19394,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_34_contig_154680,19399,19899,+,acetyltransferase,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_35_contig_154680,19886,21319,+,terminase,terminase,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_36_contig_154680,21332,22660,+,UvrD-like helicase/homing endonuclease,UvrD-like helicase/homing endonuclease,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_37_contig_154680,22657,22917,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_38_contig_154680,22914,23117,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_39_contig_154680,23110,23418,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_40_contig_154680,23421,25079,+,phage portal protein,phage portal protein,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_41_contig_154680,25076,25396,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_42_contig_154680,25617,25880,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_43_contig_154680,25877,26101,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_44_contig_154680,26111,27919,+,V-type ATPase 116kDa subunit  (partial),,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_45_contig_154680,27916,28260,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_46_contig_154680,28320,28559,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_47_contig_154680,28565,28783,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_48_contig_154680,28811,31402,+,ATP-dependent DNA ligase,ATP-dependent DNA ligase,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_49_contig_154680,31430,32671,+,phage prohead protease,phage prohead protease,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_50_contig_154680,32674,34068,+,major capsid protein,major capsid protein,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_51_contig_154680,34175,34606,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_52_contig_154680,34603,34887,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_53_contig_154680,34892,35305,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_54_contig_154680,35549,36220,+,Arf-like small GTPase,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_55_contig_154680,36239,36907,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_56_contig_154680,36907,37605,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_57_contig_154680,37621,39759,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_58_contig_154680,39761,40834,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_59_contig_154680,40839,41027,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_60_contig_154680,41011,41544,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_61_contig_154680,41541,43112,+,tail tube ,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_62_contig_154680,43206,43571,+,tail assembly chaperone ,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_63_contig_154680,43568,43792,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_64_contig_154680,43776,45233,+,phage tail tape measure protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_65_contig_154680,45233,45922,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_66_contig_154680,45932,47008,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_67_contig_154680,47009,52000,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_68_contig_154680,51963,54323,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_69_contig_154680,54335,54673,+,tail fiber protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_70_contig_154680,54673,64173,+,"long tail fiber, C-terminus of proximal subunit",,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_71_contig_154680,64235,66124,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_72_contig_154680,66134,66826,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_73_contig_154680,66831,67124,+,Phage tail assembly chaperone protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_74_contig_154680,67719,67892,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_75_contig_154680,67886,68482,-,"DnaQ-like 3'-5' exonuclease, gene18","DnaQ-like 3'-5' exonuclease, gene18",whitesmoke,arrows,1,1,1,8,contig_154680
+gene_76_contig_154680,68479,68727,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_77_contig_154680,68724,70298,-,"DNA replicative helicase, gene19","DNA replicative helicase, gene19",whitesmoke,arrows,1,1,1,8,contig_154680
+gene_78_contig_154680,70301,70999,-,"ERCC4-type nuclease, gene20","ERCC4-type nuclease, gene20",whitesmoke,arrows,1,1,1,8,contig_154680
+gene_79_contig_154680,70977,71201,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_80_contig_154680,71314,72258,-,"Primase AE_Prim_S, gene21","Primase AE_Prim_S, gene21",whitesmoke,arrows,1,1,1,8,contig_154680
+gene_81_contig_154680,72227,72598,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_82_contig_154680,72595,72807,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_84_contig_154680,72863,73510,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_85_contig_154680,73510,74400,-,"Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24","Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24",whitesmoke,arrows,1,1,1,8,contig_154680
+gene_86_contig_154680,74384,74809,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_87_contig_154680,74800,75720,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,contig_154680
+gene_88_contig_154680,75721,76080,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_89_contig_154680,76080,76214,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_90_contig_154680,76211,77902,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,contig_154680
+gene_91_contig_154680,77907,78746,-,"DNA polymerase sliding clamp, gene27","DNA polymerase sliding clamp, gene27",whitesmoke,arrows,1,1,1,8,contig_154680
+gene_92_contig_154680,78743,79036,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_93_contig_154680,79033,79869,-,radB-like recombinase,radB-like recombinase,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_94_contig_154680,79847,80167,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_95_contig_154680,80215,81468,-,"putative DNA-binding protein, gene29","putative DNA-binding protein, gene29",whitesmoke,arrows,1,1,1,8,contig_154680
+gene_96_contig_154680,81461,81718,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_97_contig_154680,81804,82715,-,"Replication factor C small subunit, gene30","Replication factor C small subunit, gene30",whitesmoke,arrows,1,1,1,8,contig_154680
+gene_98_contig_154680,82715,83134,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_99_contig_154680,83109,83750,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_100_contig_154680,83750,84556,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_101_contig_154680,84561,84791,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_102_contig_154680,84899,85357,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_103_contig_154680,85395,86945,-,ATP-dependent DNA ligase,ATP-dependent DNA ligase,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_104_contig_154680,86932,87156,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_105_contig_154680,87153,87554,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_106_contig_154680,87551,88009,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_107_contig_154680,88015,88227,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_108_contig_154680,88224,88550,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_109_contig_154680,88547,88783,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_110_contig_154680,88784,89029,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_111_contig_154680,89026,89529,-,JAB1/MPN superfamily protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_112_contig_154680,89532,89681,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_113_contig_154680,89682,89915,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_114_contig_154680,89912,90157,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_115_contig_154680,90154,90348,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_116_contig_154680,90345,90590,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_117_contig_154680,90587,90880,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_118_contig_154680,90877,91050,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_119_contig_154680,91047,91637,-,ThiF family protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_120_contig_154680,91634,92581,-,transcription factor TFIIB,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_121_contig_154680,92578,93825,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_122_contig_154680,93830,94183,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_123_contig_154680,94164,96092,-,ribonucleoside-triphosphate reductase,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_124_contig_154680,96221,96430,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154680
+gene_125_contig_154680,96452,96706,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_126_contig_154680,96703,97869,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_127_contig_154680,97853,98110,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_128_contig_154680,98107,98334,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_129_contig_154680,98425,98709,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_130_contig_154680,98706,98918,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_131_contig_154680,98911,99408,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_132_contig_154680,99636,100166,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_133_contig_154680,100163,100513,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_134_contig_154680,100510,100815,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_135_contig_154680,100842,101081,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680
+gene_136_contig_154680,101081,101368,-,hypothetical protein,,Gray,arrows,1,1,1,8,contig_154680

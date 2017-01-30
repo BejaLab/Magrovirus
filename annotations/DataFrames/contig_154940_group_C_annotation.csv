@@ -1,0 +1,77 @@
+name,start,end,strand,orf_annotation,conserved_proteins,col,gene_type,cex,lty,lwd,pch,chr
+gene_1_contig_154940,7,807,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_2_contig_154940,976,1494,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_3_contig_154940,1581,2045,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_4_contig_154940,2046,2306,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_5_contig_154940,2843,3769,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_6_contig_154940,3854,5872,-,AAA domain (dynein-related subfamily),,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_7_contig_154940,7226,7453,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_8_contig_154940,7469,8950,-,terminase,terminase,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_9_contig_154940,8931,9140,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_10_contig_154940,9133,10359,-,UvrD-like helicase/homing endonuclease,UvrD-like helicase/homing endonuclease,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_11_contig_154940,10795,12159,+,phage portal protein,phage portal protein,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_12_contig_154940,12159,12413,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_13_contig_154940,12448,12855,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_14_contig_154940,12862,15396,+,phage prohead protease,phage prohead protease,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_15_contig_154940,15404,15811,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_16_contig_154940,15825,16742,+,major capsid protein,major capsid protein,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_17_contig_154940,16760,16969,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_18_contig_154940,16959,17381,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_19_contig_154940,17344,17742,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_20_contig_154940,17748,19865,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_21_contig_154940,19850,19975,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_22_contig_154940,19972,20145,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_23_contig_154940,20142,20462,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_24_contig_154940,20464,21009,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_25_contig_154940,21016,21729,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_26_contig_154940,21732,22829,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_27_contig_154940,22884,23933,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_28_contig_154940,23948,24145,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_29_contig_154940,24191,24541,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_30_contig_154940,24637,24828,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_31_contig_154940,24830,28318,+,Phage-related minor tail protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_32_contig_154940,28315,35601,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_33_contig_154940,35707,36408,-,"ERCC4-type nuclease, gene20","ERCC4-type nuclease, gene20",whitesmoke,arrows,1,1,1,8,contig_154940
+gene_34_contig_154940,36450,36674,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_35_contig_154940,36643,37584,-,"Primase AE_Prim_S, gene21","Primase AE_Prim_S, gene21",whitesmoke,arrows,1,1,1,8,contig_154940
+gene_36_contig_154940,37797,38651,-,"Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24","Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24",whitesmoke,arrows,1,1,1,8,contig_154940
+gene_37_contig_154940,38648,38932,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_38_contig_154940,39097,41325,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,contig_154940
+gene_39_contig_154940,41322,41813,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_40_contig_154940,41849,42157,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_41_contig_154940,42158,42526,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_42_contig_154940,42526,43356,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_43_contig_154940,43388,43624,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_44_contig_154940,43629,44609,-,radB-like recombinase,radB-like recombinase,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_45_contig_154940,44603,45904,-,"putative DNA-binding protein, gene29","putative DNA-binding protein, gene29",whitesmoke,arrows,1,1,1,8,contig_154940
+gene_46_contig_154940,45897,46790,-,"Replication factor C small subunit, gene30","Replication factor C small subunit, gene30",whitesmoke,arrows,1,1,1,8,contig_154940
+gene_47_contig_154940,46787,46957,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_48_contig_154940,46954,47214,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_49_contig_154940,47211,47804,-,Phosphomevalonate kinase,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_50_contig_154940,47801,48040,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_51_contig_154940,48066,48497,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_52_contig_154940,48494,48670,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_53_contig_154940,48667,49320,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_54_contig_154940,49295,49558,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_55_contig_154940,49692,49919,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_56_contig_154940,49919,50134,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_57_contig_154940,50124,50291,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_58_contig_154940,50281,50586,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_59_contig_154940,50576,50761,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_60_contig_154940,50761,51402,-,DUF1804 Protein of unknown function (DUF1804),DUF1804 Protein of unknown function (DUF1804),grey35,arrows,1,1,1,8,contig_154940
+gene_61_contig_154940,51664,51945,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_62_contig_154940,51932,53236,-,"DNA replicative helicase, gene19","DNA replicative helicase, gene19",whitesmoke,arrows,1,1,1,8,contig_154940
+gene_63_contig_154940,53233,54045,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_64_contig_154940,54278,55102,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_65_contig_154940,55126,55806,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_66_contig_154940,55964,56242,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_67_contig_154940,56517,56660,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_68_contig_154940,56758,57444,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_69_contig_154940,57441,57899,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_70_contig_154940,57896,58342,-,Domain of unknown function (DUF3846),,grey35,arrows,1,1,1,8,contig_154940
+gene_71_contig_154940,58446,58664,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_72_contig_154940,58661,58897,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_73_contig_154940,58894,59226,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_74_contig_154940,59223,59552,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_75_contig_154940,59549,59854,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940
+gene_76_contig_154940,59851,60276,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,contig_154940

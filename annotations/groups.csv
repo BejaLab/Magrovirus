@@ -1,0 +1,246 @@
+genome	group
+n_Desulfurococcus amylolyticus Z-533 genomic scaffold scaffold1, whole genome shotgun sequence	Crenarchaeota
+n_Nitrosopumilus maritimus SCM1, complete genome	Crenarchaeota
+n_Pyrolobus fumarii 1A, complete genome	Crenarchaeota
+n_Cyanophage MED4-213, complete genome	Cyanophage
+n_Cyanophage NATL1A-7, complete genome	Cyanophage
+n_Cyanophage P-RSM6 genomic sequence	Cyanophage
+n_Cyanophage P-SSP2, complete genome	Cyanophage
+n_Cyanophage P-TIM40, complete genome	Cyanophage
+n_Cyanophage S-TIM5, complete genome	Cyanophage
+n_Cyanophage Syn5, complete genome	Cyanophage
+n_Prochlorococcus phage P-HM1, complete genome	Cyanophage
+n_Prochlorococcus phage P-RSM4, complete genome	Cyanophage
+n_Prochlorococcus phage P-SSM2, complete genome	Cyanophage
+n_Prochlorococcus phage P-SSM4, complete genome	Cyanophage
+n_Prochlorococcus phage P-SSP7, complete genome	Cyanophage
+n_Prochlorococcus phage P-TIM68, complete genome	Cyanophage
+n_Prochlorococcus phage Syn1, complete genome	Cyanophage
+n_Prochlorococcus phage Syn33, complete genome	Cyanophage
+n_Synechococcus phage metaG-MbCM1, complete genome	Cyanophage
+n_Synechococcus phage S-CBS1, complete genome	Cyanophage
+n_Synechococcus phage S-CBS3, complete genome	Cyanophage
+n_Synechococcus phage S-PM2, complete genome	Cyanophage
+n_Synechococcus phage S-RSM4, complete genome	Cyanophage
+n_Synechococcus phage S-SM2, complete genome	Cyanophage
+n_Synechococcus phage S-SSM7, complete genome	Cyanophage
+n_Synechococcus phage Syn19, complete genome	Cyanophage
+n_[strain=DSM 4179], whole genome shotgun sequence	Euryarchaeota
+n_Ferroglobus placidus DSM 10642, complete genome	Euryarchaeota
+n_Haloquadratum walsbyi C23 complete genome	Euryarchaeota
+n_Methanobacterium formicicum genome assembly DSM1535, chromosome : chrI	Euryarchaeota
+n_Methanoculleus marisnigri JR1, complete genome	Euryarchaeota
+n_Thermococcus peptonophilus JCM 9653	Euryarchaeota
+n_Halovirus HCTV-1, complete genome	Halovirus
+n_Halovirus HCTV-5, complete genome	Halovirus
+n_Halovirus HRTV-7, complete genome	Halovirus
+n_Halovirus HSTV-1, complete genome	Halovirus
+n_Halovirus HVTV-1, complete genome	Halovirus
+n_CM001443.1 uncultured marine group II euryarchaeote chromosome, whole genome shotgun sequence.	MGII
+n_contig__1205646	MGII
+n_contig__1205679	MGII
+n_contig__1205742	MGII
+n_contig__1209332	MGII
+n_contig__1209387	MGII
+n_contig__152209	MGII
+n_contig__152245	MGII
+n_contig__152276	MGII
+n_contig__152290	MGII
+n_contig__152292	MGII
+n_contig__152314	MGII
+n_contig__154640	MGII
+n_contig__154776	MGII
+n_contig__154932	MGII
+n_contig__155189	MGII
+n_contig__155598	MGII
+n_contig__155828	MGII
+n_contig__155937	MGII
+n_contig__156027	MGII
+n_contig__156040	MGII
+n_contig__156257	MGII
+n_contig__156469	MGII
+n_contig__156581	MGII
+n_contig__156856	MGII
+n_contig__156895	MGII
+n_contig__157027	MGII
+n_contig__157361	MGII
+n_contig__157517	MGII
+n_contig__157638	MGII
+n_contig__157643	MGII
+n_contig__157656	MGII
+n_contig__157756	MGII
+n_contig__157847	MGII
+n_contig__158356	MGII
+n_contig__158470	MGII
+n_contig__158556	MGII
+n_contig__158854	MGII
+n_contig__159728	MGII
+n_contig__160241	MGII
+n_contig__162378	MGII
+n_contig__167199	MGII
+n_contig__172446	MGII
+n_contig__172500	MGII
+n_contig__172640	MGII
+n_contig__172706	MGII
+n_contig__173007	MGII
+n_contig__173319	MGII
+n_contig__173937	MGII
+n_contig__175248	MGII
+n_contig__2314329	MGII
+n_contig__2441869	MGII
+n_contig__2447543	MGII
+n_contig__2498119	MGII
+n_contig__3236544	MGII
+n_contig__344836	MGII
+n_contig__347528	MGII
+n_contig__367509	MGII
+n_contig__367655	MGII
+n_contig__389883	MGII
+n_contig__390204	MGII
+n_contig__400168	MGII
+n_contig__402223	MGII
+n_contig__402642	MGII
+n_contig__403162	MGII
+n_contig__412943	MGII
+n_contig__418747	MGII
+n_Cyanophage MED4-117 genomic sequence	Cyanophage
+n_Cyanophage MED4-184 genomic sequence	Cyanophage
+n_Eury_contig__182440	MGII
+n_Eury_MGII_archaea	MGII
+n_Uncultured marine group II euryarchaeote DeepAnt-15E7 genomic sequence	MGII
+n_Uncultured marine group II/III euryarchaeote KM3_192_B10 genomic sequence	MGII
+n_Uncultured marine group II/III euryarchaeote KM3_74_A11 genomic sequence	MGII
+n_Uncultured marine group II/III euryarchaeote KM3_88_H06 genomic sequence	MGII
+n_contig__154564	MGII_virus
+n_contig__154566	MGII_virus
+n_contig__154592	MGII_virus
+n_contig__154676	MGII_virus
+n_contig__154680	MGII_virus
+n_contig__155688	MGII_virus
+n_contig__156409	MGII_virus
+n_contig__157565	MGII_virus
+n_contig__175897	MGII_virus
+n_SAMEA2591132_39	MGII_virus
+n_SAMEA2619686_19	MGII_virus
+n_SAMEA2619791_70	MGII_virus
+n_SAMEA2619888_18	MGII_virus
+n_SAMEA2619903_161	MGII_virus
+n_SAMEA2619903_78	MGII_virus
+n_SAMEA2619923_17	MGII_virus
+n_SAMEA2619950_102	MGII_virus
+n_SAMEA2619974_229	MGII_virus
+n_SAMEA2620014_23	MGII_virus
+n_SAMEA2620027_12	MGII_virus
+n_SAMEA2620078_38	MGII_virus
+n_SAMEA2620078_50	MGII_virus
+n_SAMEA2620094_25	MGII_virus
+n_SAMEA2620094_9	MGII_virus
+n_SAMEA2620256_34	MGII_virus
+n_SAMEA2620273_4	MGII_virus
+n_SAMEA2620384_30	MGII_virus
+n_SAMEA2620852_5	MGII_virus
+n_SAMEA2620879_17	MGII_virus
+n_SAMEA2620879_23	MGII_virus
+n_SAMEA2620879_92	MGII_virus
+n_SAMEA2620947_215	MGII_virus
+n_SAMEA2620947_256	MGII_virus
+n_SAMEA2620947_89	MGII_virus
+n_SAMEA2620991_38	MGII_virus
+n_SAMEA2621033_64	MGII_virus
+n_SAMEA2621061_122	MGII_virus
+n_SAMEA2621085_54	MGII_virus
+n_SAMEA2621085_65	MGII_virus
+n_SAMEA2621085_75_2	MGII_virus
+n_SAMEA2621151_104	MGII_virus
+n_SAMEA2621151_40	MGII_virus
+n_SAMEA2621151_45	MGII_virus
+n_SAMEA2621173_12	MGII_virus
+n_SAMEA2621173_5	MGII_virus
+n_SAMEA2621173_6	MGII_virus
+n_SAMEA2621191_131	MGII_virus
+n_SAMEA2621271_44	MGII_virus
+n_SAMEA2622799_18	MGII_virus
+n_SAMEA2622799_215	MGII_virus
+n_SAMEA2622821_47	MGII_virus
+n_SAMEA2622841_50	MGII_virus
+n_X_contig__155773	MGII_virus
+n_Prochlorococcus marinus MED4 complete genome	Prochlorococcus
+n_Prochlorococcus marinus MIT9313 complete genome	Prochlorococcus
+n_Prochlorococcus marinus subsp. marinus_CCMP1375 complete genome	Prochlorococcus
+n_Prochlorococcus marinus_AS9601, complete genome	Prochlorococcus
+n_Prochlorococcus marinus_MIT 9211 genome	Prochlorococcus
+n_Prochlorococcus marinus_MIT 9215, complete genome	Prochlorococcus
+n_Prochlorococcus marinus_MIT 9303, complete genome	Prochlorococcus
+n_Prochlorococcus marinus_MIT 9515, complete genome	Prochlorococcus
+n_Prochlorococcus marinus_NATL1A, complete genome	Prochlorococcus
+n_Prochlorococcus marinus_NATL2A, complete genome	Prochlorococcus
+n_Roseobacter phage SIO1, complete genome	Roseobacter_phage
+n_Candidatus Pelagibacter ubique HIMB083 Pelub83DRAFT_scaffold_0.1_C, whole genome shotgun sequence	SAR11
+n_Candidatus Pelagibacter ubique HTCC1002 scf_1099314759170 genomic scaffold, whole genome shotgun sequence	SAR11
+n_Candidatus Pelagibacter ubique HTCC1062, complete genome	SAR11
+n_Candidatus Pelagibacter ubique HTCC7214 genomic scaffold P769DRAFT_scaffold00001.1, whole genome shotgun sequence	SAR11
+n_Candidatus Pelagibacter ubique HTCC7217 P773DRAFT_scaffold00001.1_C, whole genome shotgun sequence	SAR11
+n_Candidatus Pelagibacter ubique HTCC8051 genomic scaffold HTC8051_Contig1.1, whole genome shotgun sequence	SAR11
+n_Pelagibacter phage HTVC008M, complete genome	SAR11_Phage
+n_Pelagibacter phage HTVC010P, complete genome	SAR11_Phage
+n_Pelagibacter phage HTVC011P, complete genome	SAR11_Phage
+n_Pelagibacter phage HTVC019P, complete genome	SAR11_Phage
+n_294083570:675264-676151 Candidatus Puniceispirillum marinum IMCC1322, complete genome	SAR116
+n_Candidatus Puniceispirillum marinum IMCC1322, complete genome	SAR116
+n_NZ_AFXB01000000 SAR116 cluster alpha proteobacterium HIMB100, whole genome shotgun sequencing project	SAR116
+n_Puniceispirillum phage HMO-2011, complete genome	SAR116_phage
+n_Synechococcus sp. CC9311, complete genome	Synechococcus
+n_Synechococcus sp. CC9605, complete genome	Synechococcus
+n_Synechococcus sp. CC9902, complete genome	Synechococcus
+n_Synechococcus sp. RCC307 genomic DNA sequence	Synechococcus
+n_Synechococcus sp. WH 8102 complete genome	Synechococcus
+n_Synechococcus sp. WH 8103 genome assembly WH8103.1, chromosome : 1	Synechococcus
+n_Synechococcus WH7803 complete genome sequence	Synechococcus
+n_contig__152381_phage	Uncultured_phage
+n_contig__152495_phage	Uncultured_phage
+n_contig__154829_alpha_phage	Uncultured_phage
+n_contig__154839_phage	Uncultured_phage
+n_contig__155031_phage	Uncultured_phage
+n_contig__155255_phage	Uncultured_phage
+n_contig__155256_phage	Uncultured_phage
+n_contig__155537_phage	Uncultured_phage
+n_contig__156190_phage	Uncultured_phage
+n_contig__156293_SAR116_phage	Uncultured_phage
+n_contig__156547_phage	Uncultured_phage
+n_contig__158275_phage	Uncultured_phage
+n_contig__160110_phage	Uncultured_phage
+n_contig__164390_phage	Uncultured_phage
+n_contig__176529_SAR116_phage	Uncultured_phage
+n_SAMEA2619686_1031	Cyanophage
+n_SAMEA2619791_458	Cyanophage
+n_SAMEA2619791_5652	Cyanophage
+n_SAMEA2619888_3130	Cyanophage
+n_SAMEA2619888_5466	Cyanophage
+n_SAMEA2619903_3744	Cyanophage
+n_SAMEA2619935_167	Cyanophage
+n_SAMEA2619950_1649	Cyanophage
+n_SAMEA2619962_2313	Cyanophage
+n_SAMEA2619962_238	Cyanophage
+n_SAMEA2620004_3044	Cyanophage
+n_SAMEA2620014_177	Cyanophage
+n_SAMEA2620078_1066	Cyanophage
+n_SAMEA2620078_7852	Cyanophage
+n_SAMEA2620094_1815	Cyanophage
+n_SAMEA2620273_6003	Cyanophage
+n_SAMEA2620273_7202	Cyanophage
+n_SAMEA2620812_6831	Cyanophage
+n_SAMEA2620894_1263	Cyanophage
+n_SAMEA2621173_1423	Cyanophage
+n_SAMEA2621173_2106	Cyanophage
+n_SAMEA2621173_4401	Cyanophage
+n_SAMEA2622331_5402	Cyanophage
+n_SAMEA2622656_647526	Cyanophage
+n_SAMEA2622694_4368	Cyanophage
+n_SAMEA2622694_4896	Cyanophage
+n_SAMEA2622736_279440	Cyanophage
+n_SAMEA2622799_4583	Cyanophage
+n_SAMEA2622799_8590	Cyanophage
+n_SAMEA2622821_608	Cyanophage
+n_contig__154940	MGII_virus
+n_contig__155057	MGII_virus
+n_contig__172037	MGII_virus

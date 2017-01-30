@@ -1,0 +1,1490 @@
+>Feature ref|NC_021330.1|
+120	464	gene
+			gene	1
+			locus_tag	M202_gp001
+			old_locus_tag	DNAM5_1
+			db_xref	GeneID:16193464
+120	464	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059563.1|
+1283	891	gene
+			gene	2
+			locus_tag	M202_gp002
+			old_locus_tag	DNAM5_2
+			db_xref	GeneID:16193480
+1283	891	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059564.1|
+1512	1267	gene
+			gene	3
+			locus_tag	M202_gp003
+			old_locus_tag	DNAM5_3
+			db_xref	GeneID:16193469
+1512	1267	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059565.1|
+1765	1502	gene
+			gene	4
+			locus_tag	M202_gp004
+			old_locus_tag	DNAM5_4
+			db_xref	GeneID:16193589
+1765	1502	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059566.1|
+2116	1808	gene
+			gene	5
+			locus_tag	M202_gp005
+			old_locus_tag	DNAM5_5
+			db_xref	GeneID:16193475
+2116	1808	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059567.1|
+2445	2182	gene
+			gene	6
+			locus_tag	M202_gp006
+			old_locus_tag	DNAM5_6
+			db_xref	GeneID:16193540
+2445	2182	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059568.1|
+2690	2445	gene
+			gene	7
+			locus_tag	M202_gp007
+			old_locus_tag	DNAM5_7
+			db_xref	GeneID:16193554
+2690	2445	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059569.1|
+3052	2690	gene
+			gene	8
+			locus_tag	M202_gp008
+			old_locus_tag	DNAM5_8
+			db_xref	GeneID:16193490
+3052	2690	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059570.1|
+3161	3045	gene
+			gene	9
+			locus_tag	M202_gp009
+			old_locus_tag	DNAM5_9
+			db_xref	GeneID:16193461
+3161	3045	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059571.1|
+3480	3154	gene
+			gene	10
+			locus_tag	M202_gp010
+			old_locus_tag	DNAM5_10
+			db_xref	GeneID:16193488
+3480	3154	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059572.1|
+3717	3532	gene
+			gene	11
+			locus_tag	M202_gp011
+			old_locus_tag	DNAM5_11
+			db_xref	GeneID:16193560
+3717	3532	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059573.1|
+3968	3714	gene
+			gene	12
+			locus_tag	M202_gp012
+			old_locus_tag	DNAM5_12
+			db_xref	GeneID:16193603
+3968	3714	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059574.1|
+4158	3961	gene
+			gene	13
+			locus_tag	M202_gp013
+			old_locus_tag	DNAM5_13
+			db_xref	GeneID:16193458
+4158	3961	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059575.1|
+4643	4158	gene
+			gene	14
+			locus_tag	M202_gp014
+			old_locus_tag	DNAM5_14
+			db_xref	GeneID:16193553
+4643	4158	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059576.1|
+5013	4732	gene
+			gene	15
+			locus_tag	M202_gp015
+			old_locus_tag	DNAM5_15
+			db_xref	GeneID:16193556
+5013	4732	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059577.1|
+5217	5080	gene
+			gene	16
+			locus_tag	M202_gp016
+			old_locus_tag	DNAM5_16
+			db_xref	GeneID:16193580
+5217	5080	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059578.1|
+5398	5210	gene
+			gene	17
+			locus_tag	M202_gp017
+			old_locus_tag	DNAM5_17
+			db_xref	GeneID:16193544
+5398	5210	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059579.1|
+5717	5466	gene
+			gene	18
+			locus_tag	M202_gp018
+			old_locus_tag	DNAM5_18
+			db_xref	GeneID:16193574
+5717	5466	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059580.1|
+5952	5710	gene
+			gene	19
+			locus_tag	M202_gp019
+			old_locus_tag	DNAM5_19
+			db_xref	GeneID:16193499
+5952	5710	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059581.1|
+6142	5945	gene
+			gene	20
+			locus_tag	M202_gp020
+			old_locus_tag	DNAM5_20
+			db_xref	GeneID:16193579
+6142	5945	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059582.1|
+6333	6139	gene
+			gene	21
+			locus_tag	M202_gp021
+			old_locus_tag	DNAM5_21
+			db_xref	GeneID:16193595
+6333	6139	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059583.1|
+6409	6738	gene
+			gene	22
+			locus_tag	M202_gp022
+			old_locus_tag	DNAM5_22
+			db_xref	GeneID:16193523
+6409	6738	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059584.1|
+6722	6934	gene
+			gene	23
+			locus_tag	M202_gp023
+			old_locus_tag	DNAM5_23
+			db_xref	GeneID:16193527
+6722	6934	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059585.1|
+7047	7421	gene
+			gene	24
+			locus_tag	M202_gp024
+			old_locus_tag	DNAM5_24
+			db_xref	GeneID:16193489
+7047	7421	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059586.1|
+7418	7810	gene
+			gene	25
+			locus_tag	M202_gp025
+			old_locus_tag	DNAM5_25
+			db_xref	GeneID:16193569
+7418	7810	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059587.1|
+7803	10751	gene
+			gene	26
+			locus_tag	M202_gp026
+			old_locus_tag	DNAM5_26
+			db_xref	GeneID:16193530
+7803	10751	CDS
+			product	ribonucleotide reductase
+			transl_table	11
+			protein_id	ref|YP_008059588.1|
+			note	Ribonucleotide reductase
+10799	11338	gene
+			gene	27
+			locus_tag	M202_gp027
+			old_locus_tag	DNAM5_27
+			db_xref	GeneID:16193500
+10799	11338	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059589.1|
+11335	11721	gene
+			gene	28
+			locus_tag	M202_gp028
+			old_locus_tag	DNAM5_28
+			db_xref	GeneID:16193600
+11335	11721	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059590.1|
+11824	13005	gene
+			gene	29
+			locus_tag	M202_gp029
+			old_locus_tag	DNAM5_29
+			db_xref	GeneID:16193594
+11824	13005	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059591.1|
+13114	14388	gene
+			gene	30
+			locus_tag	M202_gp030
+			old_locus_tag	DNAM5_30
+			db_xref	GeneID:16193472
+13114	14388	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059592.1|
+14526	14936	gene
+			gene	31
+			locus_tag	M202_gp031
+			old_locus_tag	DNAM5_31
+			db_xref	GeneID:16193474
+14526	14936	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059593.1|
+14936	15073	gene
+			gene	32
+			locus_tag	M202_gp032
+			old_locus_tag	DNAM5_32
+			db_xref	GeneID:16193484
+14936	15073	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059594.1|
+15070	15312	gene
+			gene	33
+			locus_tag	M202_gp033
+			old_locus_tag	DNAM5_33
+			db_xref	GeneID:16193497
+15070	15312	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059595.1|
+15397	16626	gene
+			gene	34
+			locus_tag	M202_gp034
+			old_locus_tag	DNAM5_34
+			db_xref	GeneID:16193496
+15397	16626	CDS
+			product	DNA polymerase II small subunit
+			transl_table	11
+			protein_id	ref|YP_008059596.1|
+			note	DNA polymerase II, small subunit
+16632	17000	gene
+			gene	35
+			locus_tag	M202_gp035
+			old_locus_tag	DNAM5_35
+			db_xref	GeneID:16193470
+16632	17000	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059597.1|
+17637	17041	gene
+			gene	36
+			locus_tag	M202_gp036
+			old_locus_tag	DNAM5_36
+			db_xref	GeneID:16193479
+17637	17041	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059598.1|
+17843	17634	gene
+			gene	37
+			locus_tag	M202_gp037
+			old_locus_tag	DNAM5_37
+			db_xref	GeneID:16193482
+17843	17634	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059599.1|
+18603	17854	gene
+			gene	38
+			locus_tag	M202_gp038
+			old_locus_tag	DNAM5_38
+			db_xref	GeneID:16193478
+18603	17854	CDS
+			product	thymidylate synthase
+			transl_table	11
+			protein_id	ref|YP_008059600.1|
+			note	Thymidylate synthase
+18734	19180	gene
+			gene	39
+			locus_tag	M202_gp039
+			old_locus_tag	DNAM5_39
+			db_xref	GeneID:16193466
+18734	19180	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059601.1|
+19192	20409	gene
+			gene	40
+			locus_tag	M202_gp040
+			old_locus_tag	DNAM5_40
+			db_xref	GeneID:16193476
+19192	20409	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059602.1|
+20411	21961	gene
+			gene	41
+			locus_tag	M202_gp041
+			old_locus_tag	DNAM5_41
+			db_xref	GeneID:16193477
+20411	21961	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059603.1|
+21963	22373	gene
+			gene	42
+			locus_tag	M202_gp042
+			old_locus_tag	DNAM5_42
+			db_xref	GeneID:16193555
+21963	22373	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059604.1|
+23240	22500	gene
+			gene	43
+			locus_tag	M202_gp043
+			old_locus_tag	DNAM5_43
+			db_xref	GeneID:16193564
+23240	22500	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059605.1|
+23436	23242	gene
+			gene	44
+			locus_tag	M202_gp044
+			old_locus_tag	DNAM5_44
+			db_xref	GeneID:16193545
+23436	23242	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059606.1|
+24010	23429	gene
+			gene	45
+			locus_tag	M202_gp045
+			old_locus_tag	DNAM5_45
+			db_xref	GeneID:16193551
+24010	23429	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059607.1|
+24324	24013	gene
+			gene	46
+			locus_tag	M202_gp046
+			old_locus_tag	DNAM5_46
+			db_xref	GeneID:16193535
+24324	24013	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059608.1|
+			note	NTP-PPase MazG-like domain
+25772	24321	gene
+			gene	47
+			locus_tag	M202_gp047
+			old_locus_tag	DNAM5_47
+			db_xref	GeneID:16193615
+25772	24321	CDS
+			product	RtcB
+			transl_table	11
+			protein_id	ref|YP_008059609.1|
+			note	RtcB
+26458	25769	gene
+			gene	48
+			locus_tag	M202_gp048
+			old_locus_tag	DNAM5_48
+			db_xref	GeneID:16193557
+26458	25769	CDS
+			product	Hef nuclease
+			transl_table	11
+			protein_id	ref|YP_008059610.1|
+			note	Hef nuclease
+26610	26455	gene
+			gene	49
+			locus_tag	M202_gp049
+			old_locus_tag	DNAM5_49
+			db_xref	GeneID:16193537
+26610	26455	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059611.1|
+26869	26603	gene
+			gene	50
+			locus_tag	M202_gp050
+			old_locus_tag	DNAM5_50
+			db_xref	GeneID:16193599
+26869	26603	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059612.1|
+27119	26862	gene
+			gene	51
+			locus_tag	M202_gp051
+			old_locus_tag	DNAM5_51
+			db_xref	GeneID:16193538
+27119	26862	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059613.1|
+27577	27116	gene
+			gene	52
+			locus_tag	M202_gp052
+			old_locus_tag	DNAM5_52
+			db_xref	GeneID:16193597
+27577	27116	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059614.1|
+27956	27570	gene
+			gene	53
+			locus_tag	M202_gp053
+			old_locus_tag	DNAM5_53
+			db_xref	GeneID:16193456
+27956	27570	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059615.1|
+28383	27958	gene
+			gene	54
+			locus_tag	M202_gp054
+			old_locus_tag	DNAM5_54
+			db_xref	GeneID:16193607
+28383	27958	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059616.1|
+28506	28432	gene
+			gene	55
+			locus_tag	M202_gt001
+			old_locus_tag	DNAM5_55
+			db_xref	GeneID:16193605
+28506	28432	tRNA
+			product	tRNA-Gln
+			note	tRNA-Gln-ttg
+30827	28638	gene
+			gene	56
+			locus_tag	M202_gp160
+			old_locus_tag	DNAM5_56
+			db_xref	GeneID:16193575
+30827	28638	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059617.1|
+			note	Von Willebrand factor type A domain
+32257	30920	gene
+			gene	57
+			locus_tag	M202_gp159
+			old_locus_tag	DNAM5_57
+			db_xref	GeneID:16193562
+32257	30920	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059618.1|
+			note	AAA domain
+32782	32333	gene
+			gene	58
+			locus_tag	M202_gp158
+			old_locus_tag	DNAM5_58
+			db_xref	GeneID:16193542
+32782	32333	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059619.1|
+33179	32760	gene
+			gene	59
+			locus_tag	M202_gp157
+			old_locus_tag	DNAM5_59
+			db_xref	GeneID:16193598
+33179	32760	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059620.1|
+33642	33181	gene
+			gene	60
+			locus_tag	M202_gp156
+			old_locus_tag	DNAM5_60
+			db_xref	GeneID:16193613
+33642	33181	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059621.1|
+34357	33698	gene
+			gene	61
+			locus_tag	M202_gp155
+			old_locus_tag	DNAM5_61
+			db_xref	GeneID:16193604
+34357	33698	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059622.1|
+			note	SprT
+34617	35315	gene
+			gene	62
+			locus_tag	M202_gp154
+			old_locus_tag	DNAM5_62
+			db_xref	GeneID:16193549
+34617	35315	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059623.1|
+35534	35319	gene
+			gene	63
+			locus_tag	M202_gp153
+			old_locus_tag	DNAM5_63
+			db_xref	GeneID:16193608
+35534	35319	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059624.1|
+36805	35642	gene
+			gene	64
+			locus_tag	M202_gp152
+			old_locus_tag	DNAM5_64
+			db_xref	GeneID:16193571
+36805	35642	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059625.1|
+37433	36807	gene
+			gene	65
+			locus_tag	M202_gp151
+			old_locus_tag	DNAM5_65
+			db_xref	GeneID:16193563
+37433	36807	CDS
+			product	GTP cyclohydrolase I
+			transl_table	11
+			protein_id	ref|YP_008059626.1|
+			note	GTP cyclohydrolase I
+38141	37446	gene
+			gene	66
+			locus_tag	M202_gp150
+			old_locus_tag	DNAM5_66
+			db_xref	GeneID:16193567
+38141	37446	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059627.1|
+			note	Integral membrane protein
+38372	38208	gene
+			gene	67
+			locus_tag	M202_gp149
+			old_locus_tag	DNAM5_67
+			db_xref	GeneID:16193524
+38372	38208	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059628.1|
+38484	38362	gene
+			gene	68
+			locus_tag	M202_gp057
+			old_locus_tag	DNAM5_68
+			db_xref	GeneID:16193570
+38484	38362	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059629.1|
+39274	38486	gene
+			gene	69
+			locus_tag	M202_gp148
+			old_locus_tag	DNAM5_69
+			db_xref	GeneID:16193590
+39274	38486	CDS
+			product	QueE
+			transl_table	11
+			protein_id	ref|YP_008059630.1|
+			note	QueE
+39927	39271	gene
+			gene	70
+			locus_tag	M202_gp147
+			old_locus_tag	DNAM5_70
+			db_xref	GeneID:16193586
+39927	39271	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059631.1|
+			note	HNH endonuclease domain
+40367	39924	gene
+			gene	71
+			locus_tag	M202_gp146
+			old_locus_tag	DNAM5_71
+			db_xref	GeneID:16193518
+40367	39924	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059632.1|
+40515	40360	gene
+			gene	72
+			locus_tag	M202_gp145
+			old_locus_tag	DNAM5_72
+			db_xref	GeneID:16193536
+40515	40360	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059633.1|
+40966	40508	gene
+			gene	73
+			locus_tag	M202_gp144
+			old_locus_tag	DNAM5_73
+			db_xref	GeneID:16193612
+40966	40508	CDS
+			product	QueD
+			transl_table	11
+			protein_id	ref|YP_008059634.1|
+			note	QueD
+41726	40959	gene
+			gene	74
+			locus_tag	M202_gp143
+			old_locus_tag	DNAM5_74
+			db_xref	GeneID:16193507
+41726	40959	CDS
+			product	QueC
+			transl_table	11
+			protein_id	ref|YP_008059635.1|
+			note	QueC
+42189	41785	gene
+			gene	75
+			locus_tag	M202_gp142
+			old_locus_tag	DNAM5_75
+			db_xref	GeneID:16193512
+42189	41785	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059636.1|
+42647	42186	gene
+			gene	76
+			locus_tag	M202_gp141
+			old_locus_tag	DNAM5_76
+			db_xref	GeneID:16193547
+42647	42186	CDS
+			product	QueF
+			transl_table	11
+			protein_id	ref|YP_008059637.1|
+			note	QueF
+43859	42735	gene
+			gene	77
+			locus_tag	M202_gp140
+			old_locus_tag	DNAM5_77
+			db_xref	GeneID:16193503
+43859	42735	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059638.1|
+44129	43923	gene
+			gene	78
+			locus_tag	M202_gp058
+			old_locus_tag	DNAM5_78
+			db_xref	GeneID:16193504
+44129	43923	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059639.1|
+44463	44218	gene
+			gene	79
+			locus_tag	M202_gp139
+			old_locus_tag	DNAM5_79
+			db_xref	GeneID:16193455
+44463	44218	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059640.1|
+44935	44456	gene
+			gene	80
+			locus_tag	M202_gp138
+			old_locus_tag	DNAM5_80
+			db_xref	GeneID:16193601
+44935	44456	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059641.1|
+45138	44938	gene
+			gene	81
+			locus_tag	M202_gp059
+			old_locus_tag	DNAM5_81
+			db_xref	GeneID:16193534
+45138	44938	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059642.1|
+46369	45107	gene
+			gene	82
+			locus_tag	M202_gp137
+			old_locus_tag	DNAM5_82
+			db_xref	GeneID:16193610
+46369	45107	CDS
+			product	replication factor C large subunit
+			transl_table	11
+			protein_id	ref|YP_008059643.1|
+			note	Replication factor C, large subunit
+46527	46366	gene
+			gene	83
+			locus_tag	M202_gp136
+			old_locus_tag	DNAM5_83
+			db_xref	GeneID:16193565
+46527	46366	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059644.1|
+			note	XapX
+47027	46530	gene
+			gene	84
+			locus_tag	M202_gp135
+			old_locus_tag	DNAM5_84
+			db_xref	GeneID:16193539
+47027	46530	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059645.1|
+			note	N-Acyltransferase domain
+49747	47021	gene
+			gene	85
+			locus_tag	M202_gp134
+			old_locus_tag	DNAM5_85
+			db_xref	GeneID:16193561
+49747	47021	CDS
+			product	DNA polymerase elongation subunit (family B)
+			transl_table	11
+			protein_id	ref|YP_008059646.1|
+			note	DNA polymerase, elongation subunit (family B)
+50065	49769	gene
+			gene	86
+			locus_tag	M202_gp133
+			old_locus_tag	DNAM5_86
+			db_xref	GeneID:16193517
+50065	49769	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059647.1|
+			note	HNH endonuclease, C terminus
+50865	50068	gene
+			gene	87
+			locus_tag	M202_gp132
+			old_locus_tag	DNAM5_87
+			db_xref	GeneID:16193572
+50865	50068	CDS
+			product	PD-(D/E)XK nuclease
+			transl_table	11
+			protein_id	ref|YP_008059648.1|
+			note	PD-(D/E)XK nuclease
+51173	50862	gene
+			gene	88
+			locus_tag	M202_gp131
+			old_locus_tag	DNAM5_88
+			db_xref	GeneID:16193588
+51173	50862	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059649.1|
+51380	51177	gene
+			gene	89
+			locus_tag	M202_gp130
+			old_locus_tag	DNAM5_89
+			db_xref	GeneID:16193592
+51380	51177	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059650.1|
+52408	51380	gene
+			gene	90
+			locus_tag	M202_gp129
+			old_locus_tag	DNAM5_90
+			db_xref	GeneID:16193581
+52408	51380	CDS
+			product	replication factor C small subunit
+			transl_table	11
+			protein_id	ref|YP_008059651.1|
+			note	Replication factor C, small subunit
+52621	52436	gene
+			gene	91
+			locus_tag	M202_gp128
+			old_locus_tag	DNAM5_91
+			db_xref	GeneID:16193584
+52621	52436	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059652.1|
+52842	52618	gene
+			gene	92
+			locus_tag	M202_gp127
+			old_locus_tag	DNAM5_92
+			db_xref	GeneID:16193509
+52842	52618	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059653.1|
+53425	52835	gene
+			gene	93
+			locus_tag	M202_gp126
+			old_locus_tag	DNAM5_93
+			db_xref	GeneID:16193513
+53425	52835	CDS
+			product	TMP kinase
+			transl_table	11
+			protein_id	ref|YP_008059654.1|
+			note	TMP kinase
+53904	53428	gene
+			gene	94
+			locus_tag	M202_gp125
+			old_locus_tag	DNAM5_94
+			db_xref	GeneID:16193492
+53904	53428	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059655.1|
+55090	53939	gene
+			gene	95
+			locus_tag	M202_gp124
+			old_locus_tag	DNAM5_95
+			db_xref	GeneID:16193508
+55090	53939	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059656.1|
+55969	55112	gene
+			gene	96
+			locus_tag	M202_gp123
+			old_locus_tag	DNAM5_96
+			db_xref	GeneID:16193501
+55969	55112	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059657.1|
+56474	55962	gene
+			gene	97
+			locus_tag	M202_gp122
+			old_locus_tag	DNAM5_97
+			db_xref	GeneID:16193559
+56474	55962	CDS
+			product	RadA
+			transl_table	11
+			protein_id	ref|YP_008059658.1|
+			note	RadA
+57951	56467	gene
+			gene	98
+			locus_tag	M202_gp121
+			old_locus_tag	DNAM5_98
+			db_xref	GeneID:16193506
+57951	56467	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059659.1|
+			note	AAA domain
+59045	57954	gene
+			gene	99
+			locus_tag	M202_gp120
+			old_locus_tag	DNAM5_99
+			db_xref	GeneID:16193532
+59045	57954	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059660.1|
+59230	60141	gene
+			gene	100
+			locus_tag	M202_gp119
+			old_locus_tag	DNAM5_100
+			db_xref	GeneID:16193577
+59230	60141	CDS
+			product	RadA
+			transl_table	11
+			protein_id	ref|YP_008059661.1|
+			note	RadA
+60297	60145	gene
+			gene	101
+			locus_tag	M202_gp118
+			old_locus_tag	DNAM5_101
+			db_xref	GeneID:16193462
+60297	60145	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059662.1|
+60557	60297	gene
+			gene	102
+			locus_tag	M202_gp117
+			old_locus_tag	DNAM5_102
+			db_xref	GeneID:16193459
+60557	60297	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059663.1|
+60816	61517	gene
+			gene	103
+			locus_tag	M202_gp116
+			old_locus_tag	DNAM5_103
+			db_xref	GeneID:16193471
+60816	61517	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059664.1|
+61514	62962	gene
+			gene	104
+			locus_tag	M202_gp115
+			old_locus_tag	DNAM5_104
+			db_xref	GeneID:16193485
+61514	62962	CDS
+			product	terminase large subunit
+			transl_table	11
+			protein_id	ref|YP_008059665.1|
+			note	Terminase, large subunit
+62969	64837	gene
+			gene	105
+			locus_tag	M202_gp114
+			old_locus_tag	DNAM5_105
+			db_xref	GeneID:16193460
+62969	64837	CDS
+			product	portal protein
+			transl_table	11
+			protein_id	ref|YP_008059666.1|
+			note	Portal
+64830	67970	gene
+			gene	106
+			locus_tag	M202_gp113
+			old_locus_tag	DNAM5_106
+			db_xref	GeneID:16193498
+64830	67970	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059667.1|
+67967	69994	gene
+			gene	107
+			locus_tag	M202_gp112
+			old_locus_tag	DNAM5_107
+			db_xref	GeneID:16193494
+67967	69994	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059668.1|
+69991	70881	gene
+			gene	108
+			locus_tag	M202_gp111
+			old_locus_tag	DNAM5_108
+			db_xref	GeneID:16193611
+69991	70881	CDS
+			product	gpF-like protein
+			transl_table	11
+			protein_id	ref|YP_008059669.1|
+			note	Mu gpF-like protein
+70928	74560	gene
+			gene	109
+			locus_tag	M202_gp110
+			old_locus_tag	DNAM5_109
+			db_xref	GeneID:16193483
+70928	74560	CDS
+			product	zeta toxin domain protein
+			transl_table	11
+			protein_id	ref|YP_008059670.1|
+			note	Zeta toxin domain
+74790	74951	gene
+			gene	110
+			locus_tag	M202_gp109
+			old_locus_tag	DNAM5_110
+			db_xref	GeneID:16193606
+74790	74951	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059671.1|
+74951	76948	gene
+			gene	111
+			locus_tag	M202_gp108
+			old_locus_tag	DNAM5_111
+			db_xref	GeneID:16193543
+74951	76948	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059672.1|
+76960	78342	gene
+			gene	112
+			locus_tag	M202_gp107
+			old_locus_tag	DNAM5_112
+			db_xref	GeneID:16193552
+76960	78342	CDS
+			product	major capsid protein
+			transl_table	11
+			protein_id	ref|YP_008059673.1|
+			note	Major Capsid
+78361	78738	gene
+			gene	113
+			locus_tag	M202_gp106
+			old_locus_tag	DNAM5_113
+			db_xref	GeneID:16193573
+78361	78738	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059674.1|
+78756	79058	gene
+			gene	114
+			locus_tag	M202_gp105
+			old_locus_tag	DNAM5_114
+			db_xref	GeneID:16193531
+78756	79058	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059675.1|
+79065	79508	gene
+			gene	115
+			locus_tag	M202_gp104
+			old_locus_tag	DNAM5_115
+			db_xref	GeneID:16193505
+79065	79508	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059676.1|
+79510	79839	gene
+			gene	116
+			locus_tag	M202_gp103
+			old_locus_tag	DNAM5_116
+			db_xref	GeneID:16193528
+79510	79839	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059677.1|
+79839	80510	gene
+			gene	117
+			locus_tag	M202_gp102
+			old_locus_tag	DNAM5_117
+			db_xref	GeneID:16193520
+79839	80510	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059678.1|
+80510	81058	gene
+			gene	118
+			locus_tag	M202_gp101
+			old_locus_tag	DNAM5_118
+			db_xref	GeneID:16193591
+80510	81058	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059679.1|
+81055	81543	gene
+			gene	119
+			locus_tag	M202_gp100
+			old_locus_tag	DNAM5_119
+			db_xref	GeneID:16193521
+81055	81543	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059680.1|
+81540	81785	gene
+			gene	120
+			locus_tag	M202_gp099
+			old_locus_tag	DNAM5_120
+			db_xref	GeneID:16193576
+81540	81785	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059681.1|
+81834	82814	gene
+			gene	121
+			locus_tag	M202_gp098
+			old_locus_tag	DNAM5_121
+			db_xref	GeneID:16193525
+81834	82814	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059682.1|
+82817	83544	gene
+			gene	123
+			locus_tag	M202_gp096
+			old_locus_tag	DNAM5_123
+			db_xref	GeneID:16193582
+82817	83351	CDS
+83351	83544
+			product	tail assembly chaperone
+			transl_table	11
+			protein_id	ref|YP_008059683.1|
+			note	Tail Assembly Chaperone
+			exception	ribosomal slippage
+82817	83386	gene
+			gene	122
+			locus_tag	M202_gp097
+			old_locus_tag	DNAM5_122
+			db_xref	GeneID:16193526
+82817	83386	CDS
+			product	tail assembly chaperone
+			transl_table	11
+			protein_id	ref|YP_008059684.1|
+			note	Tail Assembly Chaperone
+83537	83677	gene
+			gene	124
+			locus_tag	M202_gp056
+			old_locus_tag	DNAM5_124
+			db_xref	GeneID:16193510
+83537	83677	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059685.1|
+83677	84474	gene
+			gene	125
+			locus_tag	M202_gp095
+			old_locus_tag	DNAM5_125
+			db_xref	GeneID:16193583
+83677	84474	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059686.1|
+84476	86338	gene
+			gene	126
+			locus_tag	M202_gp094
+			old_locus_tag	DNAM5_126
+			db_xref	GeneID:16193502
+84476	86338	CDS
+			product	tape measure
+			transl_table	11
+			protein_id	ref|YP_008059687.1|
+			note	Tape Measure
+86338	88431	gene
+			gene	127
+			locus_tag	M202_gp093
+			old_locus_tag	DNAM5_127
+			db_xref	GeneID:16193516
+86338	88431	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059688.1|
+			note	Endopeptidase tail
+88438	89757	gene
+			gene	128
+			locus_tag	M202_gp092
+			old_locus_tag	DNAM5_128
+			db_xref	GeneID:16193533
+88438	89757	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059689.1|
+89757	92894	gene
+			gene	129
+			locus_tag	M202_gp091
+			old_locus_tag	DNAM5_129
+			db_xref	GeneID:16193596
+89757	92894	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059690.1|
+92891	93703	gene
+			gene	130
+			locus_tag	M202_gp090
+			old_locus_tag	DNAM5_130
+			db_xref	GeneID:16193473
+92891	93703	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059691.1|
+94103	93678	gene
+			gene	131
+			locus_tag	M202_gp089
+			old_locus_tag	DNAM5_131
+			db_xref	GeneID:16193487
+94103	93678	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059692.1|
+94581	94324	gene
+			gene	132
+			locus_tag	M202_gp088
+			old_locus_tag	DNAM5_132
+			db_xref	GeneID:16193486
+94581	94324	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059693.1|
+94650	94811	gene
+			gene	133
+			locus_tag	M202_gp087
+			old_locus_tag	DNAM5_133
+			db_xref	GeneID:16193481
+94650	94811	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059694.1|
+94808	95239	gene
+			gene	134
+			locus_tag	M202_gp086
+			old_locus_tag	DNAM5_134
+			db_xref	GeneID:16193493
+94808	95239	CDS
+			product	RNAse HI
+			transl_table	11
+			protein_id	ref|YP_008059695.1|
+			note	RNAse HI
+95481	96335	gene
+			gene	135
+			locus_tag	M202_gp085
+			old_locus_tag	DNAM5_135
+			db_xref	GeneID:16193467
+95481	96335	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059696.1|
+96335	96580	gene
+			gene	136
+			locus_tag	M202_gp084
+			old_locus_tag	DNAM5_136
+			db_xref	GeneID:16193468
+96335	96580	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059697.1|
+96577	96801	gene
+			gene	137
+			locus_tag	M202_gp083
+			old_locus_tag	DNAM5_137
+			db_xref	GeneID:16193558
+96577	96801	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059698.1|
+96858	96965	gene
+			gene	138
+			locus_tag	M202_gp055
+			old_locus_tag	DNAM5_138
+			db_xref	GeneID:16193463
+96858	96965	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059699.1|
+97077	97451	gene
+			gene	139
+			locus_tag	M202_gp082
+			old_locus_tag	DNAM5_139
+			db_xref	GeneID:16193548
+97077	97451	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059700.1|
+97448	97621	gene
+			gene	140
+			locus_tag	M202_gp081
+			old_locus_tag	DNAM5_140
+			db_xref	GeneID:16193550
+97448	97621	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059701.1|
+97618	97812	gene
+			gene	141
+			locus_tag	M202_gp080
+			old_locus_tag	DNAM5_141
+			db_xref	GeneID:16193602
+97618	97812	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059702.1|
+97815	98291	gene
+			gene	142
+			locus_tag	M202_gp079
+			old_locus_tag	DNAM5_142
+			db_xref	GeneID:16193495
+97815	98291	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059703.1|
+98288	98527	gene
+			gene	143
+			locus_tag	M202_gp078
+			old_locus_tag	DNAM5_143
+			db_xref	GeneID:16193541
+98288	98527	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059704.1|
+98524	99066	gene
+			gene	144
+			locus_tag	M202_gp077
+			old_locus_tag	DNAM5_144
+			db_xref	GeneID:16193457
+98524	99066	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059705.1|
+99063	99266	gene
+			gene	145
+			locus_tag	M202_gp076
+			old_locus_tag	DNAM5_145
+			db_xref	GeneID:16193546
+99063	99266	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059706.1|
+99904	99257	gene
+			gene	146
+			locus_tag	M202_gp075
+			old_locus_tag	DNAM5_146
+			db_xref	GeneID:16193491
+99904	99257	CDS
+			product	trimeric dUTPase
+			transl_table	11
+			protein_id	ref|YP_008059707.1|
+			note	Trimeric dUTPase
+100005	100139	gene
+			gene	147
+			locus_tag	M202_gp074
+			old_locus_tag	DNAM5_147
+			db_xref	GeneID:16193614
+100005	100139	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059708.1|
+100132	100254	gene
+			gene	148
+			locus_tag	M202_gp073
+			old_locus_tag	DNAM5_148
+			db_xref	GeneID:16193511
+100132	100254	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059709.1|
+100251	100394	gene
+			gene	149
+			locus_tag	M202_gp072
+			old_locus_tag	DNAM5_149
+			db_xref	GeneID:16193519
+100251	100394	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059710.1|
+100391	100618	gene
+			gene	150
+			locus_tag	M202_gp071
+			old_locus_tag	DNAM5_150
+			db_xref	GeneID:16193585
+100391	100618	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059711.1|
+100615	100812	gene
+			gene	151
+			locus_tag	M202_gp070
+			old_locus_tag	DNAM5_151
+			db_xref	GeneID:16193515
+100615	100812	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059712.1|
+100802	100954	gene
+			gene	152
+			locus_tag	M202_gp069
+			old_locus_tag	DNAM5_152
+			db_xref	GeneID:16193566
+100802	100954	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059713.1|
+100951	101166	gene
+			gene	153
+			locus_tag	M202_gp068
+			old_locus_tag	DNAM5_153
+			db_xref	GeneID:16193587
+100951	101166	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059714.1|
+101156	101311	gene
+			gene	154
+			locus_tag	M202_gp067
+			old_locus_tag	DNAM5_154
+			db_xref	GeneID:16193568
+101156	101311	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059715.1|
+101301	101444	gene
+			gene	155
+			locus_tag	M202_gp066
+			old_locus_tag	DNAM5_155
+			db_xref	GeneID:16193465
+101301	101444	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059716.1|
+101437	101691	gene
+			gene	156
+			locus_tag	M202_gp065
+			old_locus_tag	DNAM5_156
+			db_xref	GeneID:16193522
+101437	101691	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059717.1|
+101684	101869	gene
+			gene	157
+			locus_tag	M202_gp064
+			old_locus_tag	DNAM5_157
+			db_xref	GeneID:16193529
+101684	101869	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059718.1|
+101859	101993	gene
+			gene	158
+			locus_tag	M202_gp063
+			old_locus_tag	DNAM5_158
+			db_xref	GeneID:16193593
+101859	101993	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059719.1|
+101980	102105	gene
+			gene	159
+			locus_tag	M202_gp062
+			old_locus_tag	DNAM5_159
+			db_xref	GeneID:16193578
+101980	102105	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059720.1|
+102089	102250	gene
+			gene	160
+			locus_tag	M202_gp061
+			old_locus_tag	DNAM5_160
+			db_xref	GeneID:16193609
+102089	102250	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059721.1|
+102662	102982	gene
+			gene	161
+			locus_tag	M202_gp060
+			old_locus_tag	DNAM5_161
+			db_xref	GeneID:16193514
+102662	102982	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059722.1|
+

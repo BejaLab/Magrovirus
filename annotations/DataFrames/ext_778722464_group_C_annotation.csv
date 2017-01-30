@@ -1,0 +1,80 @@
+name,start,end,strand,orf_annotation,conserved_proteins,col,gene_type,cex,lty,lwd,pch,chr
+gene_1_778722464,3,554,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_2_778722464,606,947,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_3_778722464,1154,1510,+,SAP domain,,whitesmoke,arrows,1,1,1,8,778722464
+gene_4_778722464,1521,2060,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_5_778722464,2060,2815,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_6_778722464,2815,3888,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_7_778722464,3938,4999,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_8_778722464,5043,5396,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_9_778722464,5453,5674,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_10_778722464,5677,9132,+,Intermediate filament protein. ,,whitesmoke,arrows,1,1,1,8,778722464
+gene_11_778722464,9129,16127,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_12_778722464,16115,16831,-,"ERCC4-type nuclease, gene20","ERCC4-type nuclease, gene20",whitesmoke,arrows,1,1,1,8,778722464
+gene_13_778722464,16996,17997,-,"Primase AE_Prim_S, gene21","Primase AE_Prim_S, gene21",whitesmoke,arrows,1,1,1,8,778722464
+gene_14_778722464,17997,18155,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_15_778722464,18152,18988,-,"Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24","Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24",whitesmoke,arrows,1,1,1,8,778722464
+gene_16_778722464,19036,19323,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_17_778722464,19359,21602,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,778722464
+gene_18_778722464,21876,22733,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_19_778722464,22949,23944,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_20_778722464,23941,25152,-,"putative DNA-binding protein, gene29","putative DNA-binding protein, gene29",whitesmoke,arrows,1,1,1,8,778722464
+gene_21_778722464,25157,26098,-,"Replication factor C small subunit, gene30","Replication factor C small subunit, gene30",whitesmoke,arrows,1,1,1,8,778722464
+gene_22_778722464,26082,26651,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_23_778722464,26675,27046,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_24_778722464,27104,27280,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_25_778722464,27268,27912,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_26_778722464,27909,28124,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_27_778722464,28108,28431,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_28_778722464,28428,29051,-,DUF1804 Protein of unknown function (DUF1804),DUF1804 Protein of unknown function (DUF1804),grey35,arrows,1,1,1,8,778722464
+gene_29_778722464,29060,29395,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_30_778722464,29398,29673,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_31_778722464,29673,30710,-,"DNA replicative helicase, gene19","DNA replicative helicase, gene19",whitesmoke,arrows,1,1,1,8,778722464
+gene_32_778722464,30974,31711,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_33_778722464,31716,32078,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_34_778722464,32264,32974,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_35_778722464,33286,33792,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_36_778722464,33789,33989,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_37_778722464,33986,34093,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_38_778722464,34400,34639,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_39_778722464,34627,35115,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_40_778722464,35115,35828,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_41_778722464,35958,36320,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_42_778722464,36689,37339,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_43_778722464,37336,37476,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_44_778722464,37734,37880,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_45_778722464,37877,38080,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_46_778722464,38080,38214,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_47_778722464,38211,38573,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_48_778722464,38570,38965,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_49_778722464,38968,39318,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_50_778722464,39321,39680,-,Domain of unknown function (DUF3846),,grey35,arrows,1,1,1,8,778722464
+gene_51_778722464,39886,40545,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_52_778722464,40549,40857,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_53_778722464,40854,41129,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_54_778722464,41126,41707,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_55_778722464,41710,42333,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_56_778722464,42334,42687,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_57_778722464,43159,43440,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_58_778722464,43434,44372,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_59_778722464,44423,46219,-,AAA domain (dynein-related subfamily),,whitesmoke,arrows,1,1,1,8,778722464
+gene_60_778722464,46920,47777,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_61_778722464,47848,48330,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_62_778722464,48605,48895,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_63_778722464,48892,50397,-,terminase,terminase,whitesmoke,arrows,1,1,1,8,778722464
+gene_64_778722464,50384,50626,-, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_65_778722464,50628,51821,-,UvrD-like helicase/homing endonuclease,UvrD-like helicase/homing endonuclease,whitesmoke,arrows,1,1,1,8,778722464
+gene_66_778722464,52093,52374,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_67_778722464,52407,53801,+,phage portal protein,phage portal protein,whitesmoke,arrows,1,1,1,8,778722464
+gene_68_778722464,53791,54276,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_69_778722464,54279,54584,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_70_778722464,54682,55059,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_71_778722464,55059,57554,+,phage prohead protease,phage prohead protease,whitesmoke,arrows,1,1,1,8,778722464
+gene_72_778722464,57554,58006,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_73_778722464,58016,58918,+,major capsid protein,major capsid protein,whitesmoke,arrows,1,1,1,8,778722464
+gene_74_778722464,58934,59236,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_75_778722464,59463,59852,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_76_778722464,59852,61006,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_77_778722464,61135,65397,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_78_778722464,65402,65983,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464
+gene_79_778722464,65988,66530,+, hypothetical protein,,whitesmoke,arrows,1,1,1,8,778722464

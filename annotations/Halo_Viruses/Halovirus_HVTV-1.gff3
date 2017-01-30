@@ -1,0 +1,354 @@
+##sequence-region KC117377.1 1 102319
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1262528
+KC117377.1	Genbank	region	1	102319	.	+	.	ID=id0;Dbxref=taxon:1262528;gbkey=Src;lab-host=Haloarcula vallismortis;mol_type=genomic DNA;note=complete genome
+KC117377.1	Genbank	gene	541	1128	.	+	.	ID=gene0;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding;locus_tag=HVTV1_1
+KC117377.1	Genbank	CDS	541	1128	.	+	0	ID=cds0;Parent=gene0;Dbxref=NCBI_GP:AGC34373.1;Name=AGC34373.1;gbkey=CDS;gene=1;product=hypothetical protein;protein_id=AGC34373.1;transl_table=11
+KC117377.1	Genbank	gene	1144	1308	.	-	.	ID=gene1;Name=2;gbkey=Gene;gene=2;gene_biotype=protein_coding;locus_tag=HVTV1_2
+KC117377.1	Genbank	CDS	1144	1308	.	-	0	ID=cds1;Parent=gene1;Dbxref=NCBI_GP:AGC34374.1;Name=AGC34374.1;gbkey=CDS;gene=2;product=hypothetical protein;protein_id=AGC34374.1;transl_table=11
+KC117377.1	Genbank	gene	1305	1595	.	-	.	ID=gene2;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding;locus_tag=HVTV1_3
+KC117377.1	Genbank	CDS	1305	1595	.	-	0	ID=cds2;Parent=gene2;Dbxref=NCBI_GP:AGC34375.1;Name=AGC34375.1;gbkey=CDS;gene=3;product=hypothetical protein;protein_id=AGC34375.1;transl_table=11
+KC117377.1	Genbank	gene	1676	1828	.	-	.	ID=gene3;Name=4;gbkey=Gene;gene=4;gene_biotype=protein_coding;locus_tag=HVTV1_4
+KC117377.1	Genbank	CDS	1676	1828	.	-	0	ID=cds3;Parent=gene3;Dbxref=NCBI_GP:AGC34376.1;Name=AGC34376.1;gbkey=CDS;gene=4;product=hypothetical protein;protein_id=AGC34376.1;transl_table=11
+KC117377.1	Genbank	gene	1825	2106	.	-	.	ID=gene4;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding;locus_tag=HVTV1_5
+KC117377.1	Genbank	CDS	1825	2106	.	-	0	ID=cds4;Parent=gene4;Dbxref=NCBI_GP:AGC34377.1;Name=AGC34377.1;gbkey=CDS;gene=5;product=hypothetical protein;protein_id=AGC34377.1;transl_table=11
+KC117377.1	Genbank	gene	2132	2323	.	-	.	ID=gene5;Name=6;gbkey=Gene;gene=6;gene_biotype=protein_coding;locus_tag=HVTV1_6
+KC117377.1	Genbank	CDS	2132	2323	.	-	0	ID=cds5;Parent=gene5;Dbxref=NCBI_GP:AGC34378.1;Name=AGC34378.1;gbkey=CDS;gene=6;product=hypothetical protein;protein_id=AGC34378.1;transl_table=11
+KC117377.1	Genbank	gene	2320	2457	.	-	.	ID=gene6;Name=7;gbkey=Gene;gene=7;gene_biotype=protein_coding;locus_tag=HVTV1_7
+KC117377.1	Genbank	CDS	2320	2457	.	-	0	ID=cds6;Parent=gene6;Dbxref=NCBI_GP:AGC34379.1;Name=AGC34379.1;gbkey=CDS;gene=7;product=hypothetical protein;protein_id=AGC34379.1;transl_table=11
+KC117377.1	Genbank	gene	2454	2591	.	-	.	ID=gene7;Name=8;gbkey=Gene;gene=8;gene_biotype=protein_coding;locus_tag=HVTV1_8
+KC117377.1	Genbank	CDS	2454	2591	.	-	0	ID=cds7;Parent=gene7;Dbxref=NCBI_GP:AGC34380.1;Name=AGC34380.1;gbkey=CDS;gene=8;product=hypothetical protein;protein_id=AGC34380.1;transl_table=11
+KC117377.1	Genbank	gene	2578	2811	.	-	.	ID=gene8;Name=9;gbkey=Gene;gene=9;gene_biotype=protein_coding;locus_tag=HVTV1_9
+KC117377.1	Genbank	CDS	2578	2811	.	-	0	ID=cds8;Parent=gene8;Dbxref=NCBI_GP:AGC34381.1;Name=AGC34381.1;gbkey=CDS;gene=9;product=hypothetical protein;protein_id=AGC34381.1;transl_table=11
+KC117377.1	Genbank	gene	2789	3031	.	-	.	ID=gene9;Name=10;gbkey=Gene;gene=10;gene_biotype=protein_coding;locus_tag=HVTV1_10
+KC117377.1	Genbank	CDS	2789	3031	.	-	0	ID=cds9;Parent=gene9;Dbxref=NCBI_GP:AGC34382.1;Name=AGC34382.1;gbkey=CDS;gene=10;product=hypothetical protein;protein_id=AGC34382.1;transl_table=11
+KC117377.1	Genbank	gene	3122	3334	.	-	.	ID=gene10;Name=11;gbkey=Gene;gene=11;gene_biotype=protein_coding;locus_tag=HVTV1_11
+KC117377.1	Genbank	CDS	3122	3334	.	-	0	ID=cds10;Parent=gene10;Dbxref=NCBI_GP:AGC34543.1;Name=AGC34543.1;gbkey=CDS;gene=11;product=hypothetical protein;protein_id=AGC34543.1;transl_table=11
+KC117377.1	Genbank	gene	3438	3698	.	-	.	ID=gene11;Name=12;gbkey=Gene;gene=12;gene_biotype=protein_coding;locus_tag=HVTV1_12
+KC117377.1	Genbank	CDS	3438	3698	.	-	0	ID=cds11;Parent=gene11;Dbxref=NCBI_GP:AGC34383.1;Name=AGC34383.1;gbkey=CDS;gene=12;product=hypothetical protein;protein_id=AGC34383.1;transl_table=11
+KC117377.1	Genbank	gene	3695	3883	.	-	.	ID=gene12;Name=13;gbkey=Gene;gene=13;gene_biotype=protein_coding;locus_tag=HVTV1_13
+KC117377.1	Genbank	CDS	3695	3883	.	-	0	ID=cds12;Parent=gene12;Dbxref=NCBI_GP:AGC34384.1;Name=AGC34384.1;gbkey=CDS;gene=13;product=hypothetical protein;protein_id=AGC34384.1;transl_table=11
+KC117377.1	Genbank	gene	3883	4116	.	-	.	ID=gene13;Name=14;gbkey=Gene;gene=14;gene_biotype=protein_coding;locus_tag=HVTV1_14
+KC117377.1	Genbank	CDS	3883	4116	.	-	0	ID=cds13;Parent=gene13;Dbxref=NCBI_GP:AGC34385.1;Name=AGC34385.1;gbkey=CDS;gene=14;product=hypothetical protein;protein_id=AGC34385.1;transl_table=11
+KC117377.1	Genbank	gene	4176	4361	.	-	.	ID=gene14;Name=15;gbkey=Gene;gene=15;gene_biotype=protein_coding;locus_tag=HVTV1_15
+KC117377.1	Genbank	CDS	4176	4361	.	-	0	ID=cds14;Parent=gene14;Dbxref=NCBI_GP:AGC34544.1;Name=AGC34544.1;gbkey=CDS;gene=15;product=hypothetical protein;protein_id=AGC34544.1;transl_table=11
+KC117377.1	Genbank	gene	4476	4778	.	+	.	ID=gene15;Name=16;gbkey=Gene;gene=16;gene_biotype=protein_coding;locus_tag=HVTV1_16
+KC117377.1	Genbank	CDS	4476	4778	.	+	0	ID=cds15;Parent=gene15;Dbxref=NCBI_GP:AGC34386.1;Name=AGC34386.1;gbkey=CDS;gene=16;product=hypothetical protein;protein_id=AGC34386.1;transl_table=11
+KC117377.1	Genbank	gene	4714	4992	.	+	.	ID=gene16;Name=17;gbkey=Gene;gene=17;gene_biotype=protein_coding;locus_tag=HVTV1_17
+KC117377.1	Genbank	CDS	4714	4992	.	+	0	ID=cds16;Parent=gene16;Dbxref=NCBI_GP:AGC34387.1;Name=AGC34387.1;gbkey=CDS;gene=17;product=hypothetical protein;protein_id=AGC34387.1;transl_table=11
+KC117377.1	Genbank	gene	4989	5189	.	+	.	ID=gene17;Name=18;gbkey=Gene;gene=18;gene_biotype=protein_coding;locus_tag=HVTV1_18
+KC117377.1	Genbank	CDS	4989	5189	.	+	0	ID=cds17;Parent=gene17;Dbxref=NCBI_GP:AGC34388.1;Name=AGC34388.1;gbkey=CDS;gene=18;product=hypothetical protein;protein_id=AGC34388.1;transl_table=11
+KC117377.1	Genbank	gene	5267	5572	.	+	.	ID=gene18;Name=19;gbkey=Gene;gene=19;gene_biotype=protein_coding;locus_tag=HVTV1_19
+KC117377.1	Genbank	CDS	5267	5572	.	+	0	ID=cds18;Parent=gene18;Dbxref=NCBI_GP:AGC34389.1;Name=AGC34389.1;gbkey=CDS;gene=19;product=hypothetical protein;protein_id=AGC34389.1;transl_table=11
+KC117377.1	Genbank	gene	5562	5954	.	+	.	ID=gene19;Name=20;gbkey=Gene;gene=20;gene_biotype=protein_coding;locus_tag=HVTV1_20
+KC117377.1	Genbank	CDS	5562	5954	.	+	0	ID=cds19;Parent=gene19;Dbxref=NCBI_GP:AGC34390.1;Name=AGC34390.1;gbkey=CDS;gene=20;product=hypothetical protein;protein_id=AGC34390.1;transl_table=11
+KC117377.1	Genbank	gene	5957	8938	.	+	.	ID=gene20;Name=21;gbkey=Gene;gene=21;gene_biotype=protein_coding;locus_tag=HVTV1_21
+KC117377.1	Genbank	CDS	5957	8938	.	+	0	ID=cds20;Parent=gene20;Dbxref=NCBI_GP:AGC34391.1;Name=AGC34391.1;gbkey=CDS;gene=21;product=ribonucleotide reductase alpha subunit;protein_id=AGC34391.1;transl_table=11
+KC117377.1	Genbank	gene	8969	9256	.	+	.	ID=gene21;Name=22;gbkey=Gene;gene=22;gene_biotype=protein_coding;locus_tag=HVTV1_22
+KC117377.1	Genbank	CDS	8969	9256	.	+	0	ID=cds21;Parent=gene21;Dbxref=NCBI_GP:AGC34392.1;Name=AGC34392.1;gbkey=CDS;gene=22;product=hypothetical protein;protein_id=AGC34392.1;transl_table=11
+KC117377.1	Genbank	gene	9259	9528	.	+	.	ID=gene22;Name=23;gbkey=Gene;gene=23;gene_biotype=protein_coding;locus_tag=HVTV1_23
+KC117377.1	Genbank	CDS	9259	9528	.	+	0	ID=cds22;Parent=gene22;Dbxref=NCBI_GP:AGC34393.1;Name=AGC34393.1;gbkey=CDS;gene=23;product=hypothetical protein;protein_id=AGC34393.1;transl_table=11
+KC117377.1	Genbank	gene	9521	9697	.	+	.	ID=gene23;Name=24;gbkey=Gene;gene=24;gene_biotype=protein_coding;locus_tag=HVTV1_24
+KC117377.1	Genbank	CDS	9521	9697	.	+	0	ID=cds23;Parent=gene23;Dbxref=NCBI_GP:AGC34394.1;Name=AGC34394.1;gbkey=CDS;gene=24;product=hypothetical protein;protein_id=AGC34394.1;transl_table=11
+KC117377.1	Genbank	gene	9815	10966	.	+	.	ID=gene24;Name=25;gbkey=Gene;gene=25;gene_biotype=protein_coding;locus_tag=HVTV1_25
+KC117377.1	Genbank	CDS	9815	10966	.	+	0	ID=cds24;Parent=gene24;Dbxref=NCBI_GP:AGC34395.1;Name=AGC34395.1;gbkey=CDS;gene=25;product=hypothetical protein;protein_id=AGC34395.1;transl_table=11
+KC117377.1	Genbank	gene	11056	11646	.	+	.	ID=gene25;Name=26;gbkey=Gene;gene=26;gene_biotype=protein_coding;locus_tag=HVTV1_26
+KC117377.1	Genbank	CDS	11056	11646	.	+	0	ID=cds25;Parent=gene25;Dbxref=NCBI_GP:AGC34396.1;Name=AGC34396.1;gbkey=CDS;gene=26;product=hypothetical protein;protein_id=AGC34396.1;transl_table=11
+KC117377.1	Genbank	gene	11780	13096	.	+	.	ID=gene26;Name=27;gbkey=Gene;gene=27;gene_biotype=protein_coding;locus_tag=HVTV1_27
+KC117377.1	Genbank	CDS	11780	13096	.	+	0	ID=cds26;Parent=gene26;Dbxref=NCBI_GP:AGC34397.1;Name=AGC34397.1;gbkey=CDS;gene=27;product=hypothetical protein;protein_id=AGC34397.1;transl_table=11
+KC117377.1	Genbank	gene	13141	13638	.	+	.	ID=gene27;Name=28;gbkey=Gene;gene=28;gene_biotype=protein_coding;locus_tag=HVTV1_28
+KC117377.1	Genbank	CDS	13141	13638	.	+	0	ID=cds27;Parent=gene27;Dbxref=NCBI_GP:AGC34398.1;Name=AGC34398.1;gbkey=CDS;gene=28;product=hypothetical protein;protein_id=AGC34398.1;transl_table=11
+KC117377.1	Genbank	gene	13635	13781	.	+	.	ID=gene28;Name=29;gbkey=Gene;gene=29;gene_biotype=protein_coding;locus_tag=HVTV1_29
+KC117377.1	Genbank	CDS	13635	13781	.	+	0	ID=cds28;Parent=gene28;Dbxref=NCBI_GP:AGC34399.1;Name=AGC34399.1;gbkey=CDS;gene=29;product=hypothetical protein;protein_id=AGC34399.1;transl_table=11
+KC117377.1	Genbank	gene	13778	14062	.	+	.	ID=gene29;Name=30;gbkey=Gene;gene=30;gene_biotype=protein_coding;locus_tag=HVTV1_30
+KC117377.1	Genbank	CDS	13778	14062	.	+	0	ID=cds29;Parent=gene29;Dbxref=NCBI_GP:AGC34400.1;Name=AGC34400.1;gbkey=CDS;gene=30;product=hypothetical protein;protein_id=AGC34400.1;transl_table=11
+KC117377.1	Genbank	gene	14059	14361	.	+	.	ID=gene30;Name=31;gbkey=Gene;gene=31;gene_biotype=protein_coding;locus_tag=HVTV1_31
+KC117377.1	Genbank	CDS	14059	14361	.	+	0	ID=cds30;Parent=gene30;Dbxref=NCBI_GP:AGC34401.1;Name=AGC34401.1;gbkey=CDS;gene=31;product=hypothetical protein;protein_id=AGC34401.1;transl_table=11
+KC117377.1	Genbank	gene	14361	14606	.	+	.	ID=gene31;Name=32;gbkey=Gene;gene=32;gene_biotype=protein_coding;locus_tag=HVTV1_32
+KC117377.1	Genbank	CDS	14361	14606	.	+	0	ID=cds31;Parent=gene31;Dbxref=NCBI_GP:AGC34402.1;Name=AGC34402.1;gbkey=CDS;gene=32;product=hypothetical protein;protein_id=AGC34402.1;transl_table=11
+KC117377.1	Genbank	gene	14659	15150	.	+	.	ID=gene32;Name=33;gbkey=Gene;gene=33;gene_biotype=protein_coding;locus_tag=HVTV1_33
+KC117377.1	Genbank	CDS	14659	15150	.	+	0	ID=cds32;Parent=gene32;Dbxref=NCBI_GP:AGC34403.1;Name=AGC34403.1;gbkey=CDS;gene=33;product=hypothetical protein;protein_id=AGC34403.1;transl_table=11
+KC117377.1	Genbank	gene	15170	16465	.	+	.	ID=gene33;Name=34;gbkey=Gene;gene=34;gene_biotype=protein_coding;locus_tag=HVTV1_34
+KC117377.1	Genbank	CDS	15170	16465	.	+	0	ID=cds33;Parent=gene33;Dbxref=NCBI_GP:AGC34404.1;Name=AGC34404.1;gbkey=CDS;gene=34;product=YonJ-like protein;protein_id=AGC34404.1;transl_table=11
+KC117377.1	Genbank	gene	16525	16908	.	-	.	ID=gene34;Name=35;gbkey=Gene;gene=35;gene_biotype=protein_coding;locus_tag=HVTV1_35
+KC117377.1	Genbank	CDS	16525	16908	.	-	0	ID=cds34;Parent=gene34;Dbxref=NCBI_GP:AGC34405.1;Name=AGC34405.1;gbkey=CDS;gene=35;product=hypothetical protein;protein_id=AGC34405.1;transl_table=11
+KC117377.1	Genbank	gene	16910	17491	.	-	.	ID=gene35;Name=36;gbkey=Gene;gene=36;gene_biotype=protein_coding;locus_tag=HVTV1_36
+KC117377.1	Genbank	CDS	16910	17491	.	-	0	ID=cds35;Parent=gene35;Dbxref=NCBI_GP:AGC34406.1;Name=AGC34406.1;gbkey=CDS;gene=36;product=hypothetical protein;protein_id=AGC34406.1;transl_table=11
+KC117377.1	Genbank	gene	17488	18213	.	-	.	ID=gene36;Name=37;gbkey=Gene;gene=37;gene_biotype=protein_coding;locus_tag=HVTV1_37
+KC117377.1	Genbank	CDS	17488	18213	.	-	0	ID=cds36;Parent=gene36;Dbxref=NCBI_GP:AGC34407.1;Name=AGC34407.1;gbkey=CDS;gene=37;product=replication factor C small subunit;protein_id=AGC34407.1;transl_table=11
+KC117377.1	Genbank	gene	18252	19157	.	-	.	ID=gene37;Name=38;gbkey=Gene;gene=38;gene_biotype=protein_coding;locus_tag=HVTV1_38
+KC117377.1	Genbank	CDS	18252	19157	.	-	0	ID=cds37;Parent=gene37;Dbxref=NCBI_GP:AGC34408.1;Name=AGC34408.1;gbkey=CDS;gene=38;product=thymidylate synthetase;protein_id=AGC34408.1;transl_table=11
+KC117377.1	Genbank	gene	19382	20122	.	-	.	ID=gene38;Name=39;gbkey=Gene;gene=39;gene_biotype=protein_coding;locus_tag=HVTV1_39
+KC117377.1	Genbank	CDS	19382	20122	.	-	0	ID=cds38;Parent=gene38;Dbxref=NCBI_GP:AGC34409.1;Name=AGC34409.1;gbkey=CDS;gene=39;product=hypothetical protein;protein_id=AGC34409.1;transl_table=11
+KC117377.1	Genbank	gene	20125	20697	.	-	.	ID=gene39;Name=40;gbkey=Gene;gene=40;gene_biotype=protein_coding;locus_tag=HVTV1_40
+KC117377.1	Genbank	CDS	20125	20697	.	-	0	ID=cds39;Parent=gene39;Dbxref=NCBI_GP:AGC34410.1;Name=AGC34410.1;gbkey=CDS;gene=40;product=hypothetical protein;protein_id=AGC34410.1;transl_table=11
+KC117377.1	Genbank	gene	20699	21184	.	-	.	ID=gene40;Name=41;gbkey=Gene;gene=41;gene_biotype=protein_coding;locus_tag=HVTV1_41
+KC117377.1	Genbank	CDS	20699	21184	.	-	0	ID=cds40;Parent=gene40;Dbxref=NCBI_GP:AGC34411.1;Name=AGC34411.1;gbkey=CDS;gene=41;product=hypothetical protein;protein_id=AGC34411.1;transl_table=11
+KC117377.1	Genbank	gene	21187	21453	.	-	.	ID=gene41;Name=42;gbkey=Gene;gene=42;gene_biotype=protein_coding;locus_tag=HVTV1_42
+KC117377.1	Genbank	CDS	21187	21453	.	-	0	ID=cds41;Parent=gene41;Dbxref=NCBI_GP:AGC34412.1;Name=AGC34412.1;gbkey=CDS;gene=42;product=hypothetical protein;protein_id=AGC34412.1;transl_table=11
+KC117377.1	Genbank	gene	21453	21764	.	-	.	ID=gene42;Name=43;gbkey=Gene;gene=43;gene_biotype=protein_coding;locus_tag=HVTV1_43
+KC117377.1	Genbank	CDS	21453	21764	.	-	0	ID=cds42;Parent=gene42;Dbxref=NCBI_GP:AGC34413.1;Name=AGC34413.1;gbkey=CDS;gene=43;product=MazG-like protein;protein_id=AGC34413.1;transl_table=11
+KC117377.1	Genbank	gene	21761	21940	.	-	.	ID=gene43;Name=44;gbkey=Gene;gene=44;gene_biotype=protein_coding;locus_tag=HVTV1_44
+KC117377.1	Genbank	CDS	21761	21940	.	-	0	ID=cds43;Parent=gene43;Dbxref=NCBI_GP:AGC34414.1;Name=AGC34414.1;gbkey=CDS;gene=44;product=hypothetical protein;protein_id=AGC34414.1;transl_table=11
+KC117377.1	Genbank	gene	21937	22041	.	-	.	ID=gene44;Name=45;gbkey=Gene;gene=45;gene_biotype=protein_coding;locus_tag=HVTV1_45
+KC117377.1	Genbank	CDS	21937	22041	.	-	0	ID=cds44;Parent=gene44;Dbxref=NCBI_GP:AGC34415.1;Name=AGC34415.1;gbkey=CDS;gene=45;product=hypothetical protein;protein_id=AGC34415.1;transl_table=11
+KC117377.1	Genbank	gene	22038	22724	.	-	.	ID=gene45;Name=46;gbkey=Gene;gene=46;gene_biotype=protein_coding;locus_tag=HVTV1_46
+KC117377.1	Genbank	CDS	22038	22724	.	-	0	ID=cds45;Parent=gene45;Dbxref=NCBI_GP:AGC34416.1;Name=AGC34416.1;gbkey=CDS;gene=46;product=Hef nuclease;protein_id=AGC34416.1;transl_table=11
+KC117377.1	Genbank	gene	22721	22858	.	-	.	ID=gene46;Name=47;gbkey=Gene;gene=47;gene_biotype=protein_coding;locus_tag=HVTV1_47
+KC117377.1	Genbank	CDS	22721	22858	.	-	0	ID=cds46;Parent=gene46;Dbxref=NCBI_GP:AGC34417.1;Name=AGC34417.1;gbkey=CDS;gene=47;product=hypothetical protein;protein_id=AGC34417.1;transl_table=11
+KC117377.1	Genbank	gene	22848	23000	.	-	.	ID=gene47;Name=48;gbkey=Gene;gene=48;gene_biotype=protein_coding;locus_tag=HVTV1_48
+KC117377.1	Genbank	CDS	22848	23000	.	-	0	ID=cds47;Parent=gene47;Dbxref=NCBI_GP:AGC34418.1;Name=AGC34418.1;gbkey=CDS;gene=48;product=hypothetical protein;protein_id=AGC34418.1;transl_table=11
+KC117377.1	Genbank	gene	22993	23253	.	-	.	ID=gene48;Name=49;gbkey=Gene;gene=49;gene_biotype=protein_coding;locus_tag=HVTV1_49
+KC117377.1	Genbank	CDS	22993	23253	.	-	0	ID=cds48;Parent=gene48;Dbxref=NCBI_GP:AGC34419.1;Name=AGC34419.1;gbkey=CDS;gene=49;product=hypothetical protein;protein_id=AGC34419.1;transl_table=11
+KC117377.1	Genbank	gene	23246	23503	.	-	.	ID=gene49;Name=50;gbkey=Gene;gene=50;gene_biotype=protein_coding;locus_tag=HVTV1_50
+KC117377.1	Genbank	CDS	23246	23503	.	-	0	ID=cds49;Parent=gene49;Dbxref=NCBI_GP:AGC34420.1;Name=AGC34420.1;gbkey=CDS;gene=50;product=hypothetical protein;protein_id=AGC34420.1;transl_table=11
+KC117377.1	Genbank	gene	23500	23964	.	-	.	ID=gene50;Name=51;gbkey=Gene;gene=51;gene_biotype=protein_coding;locus_tag=HVTV1_51
+KC117377.1	Genbank	CDS	23500	23964	.	-	0	ID=cds50;Parent=gene50;Dbxref=NCBI_GP:AGC34421.1;Name=AGC34421.1;gbkey=CDS;gene=51;product=hypothetical protein;protein_id=AGC34421.1;transl_table=11
+KC117377.1	Genbank	gene	23957	24346	.	-	.	ID=gene51;Name=52;gbkey=Gene;gene=52;gene_biotype=protein_coding;locus_tag=HVTV1_52
+KC117377.1	Genbank	CDS	23957	24346	.	-	0	ID=cds51;Parent=gene51;Dbxref=NCBI_GP:AGC34422.1;Name=AGC34422.1;gbkey=CDS;gene=52;product=hypothetical protein;protein_id=AGC34422.1;transl_table=11
+KC117377.1	Genbank	gene	24346	24822	.	-	.	ID=gene52;Name=53;gbkey=Gene;gene=53;gene_biotype=protein_coding;locus_tag=HVTV1_53
+KC117377.1	Genbank	CDS	24346	24822	.	-	0	ID=cds52;Parent=gene52;Dbxref=NCBI_GP:AGC34423.1;Name=AGC34423.1;gbkey=CDS;gene=53;product=hypothetical protein;protein_id=AGC34423.1;transl_table=11
+KC117377.1	Genbank	gene	24825	25286	.	-	.	ID=gene53;Name=54;gbkey=Gene;gene=54;gene_biotype=protein_coding;locus_tag=HVTV1_54
+KC117377.1	Genbank	CDS	24825	25286	.	-	0	ID=cds53;Parent=gene53;Dbxref=NCBI_GP:AGC34424.1;Name=AGC34424.1;gbkey=CDS;gene=54;product=hypothetical protein;protein_id=AGC34424.1;transl_table=11
+KC117377.1	Genbank	gene	25306	25380	.	-	.	ID=gene54;Name=55;gbkey=Gene;gene=55;gene_biotype=tRNA;locus_tag=HVTV1_55
+KC117377.1	Genbank	tRNA	25306	25380	.	-	.	ID=rna0;Parent=gene54;Note=tRNA Gln (ttg);gbkey=tRNA;gene=55;product=tRNA-Gln
+KC117377.1	Genbank	exon	25306	25380	.	-	.	ID=id1;Parent=rna0;Note=tRNA Gln (ttg);gbkey=tRNA;gene=55;product=tRNA-Gln
+KC117377.1	Genbank	gene	25470	25607	.	-	.	ID=gene55;Name=56;gbkey=Gene;gene=56;gene_biotype=protein_coding;locus_tag=HVTV1_56
+KC117377.1	Genbank	CDS	25470	25607	.	-	0	ID=cds54;Parent=gene55;Dbxref=NCBI_GP:AGC34425.1;Name=AGC34425.1;gbkey=CDS;gene=56;product=hypothetical protein;protein_id=AGC34425.1;transl_table=11
+KC117377.1	Genbank	gene	25607	27838	.	-	.	ID=gene56;Name=57;gbkey=Gene;gene=57;gene_biotype=protein_coding;locus_tag=HVTV1_57
+KC117377.1	Genbank	CDS	25607	27838	.	-	0	ID=cds55;Parent=gene56;Dbxref=NCBI_GP:AGC34426.1;Name=AGC34426.1;gbkey=CDS;gene=57;product=von Willebrand factor type A;protein_id=AGC34426.1;transl_table=11
+KC117377.1	Genbank	gene	27910	28098	.	-	.	ID=gene57;Name=58;gbkey=Gene;gene=58;gene_biotype=protein_coding;locus_tag=HVTV1_58
+KC117377.1	Genbank	CDS	27910	28098	.	-	0	ID=cds56;Parent=gene57;Dbxref=NCBI_GP:AGC34427.1;Name=AGC34427.1;gbkey=CDS;gene=58;product=hypothetical protein;protein_id=AGC34427.1;transl_table=11
+KC117377.1	Genbank	gene	28126	29463	.	-	.	ID=gene58;Name=59;gbkey=Gene;gene=59;gene_biotype=protein_coding;locus_tag=HVTV1_59
+KC117377.1	Genbank	CDS	28126	29463	.	-	0	ID=cds57;Parent=gene58;Dbxref=NCBI_GP:AGC34428.1;Name=AGC34428.1;gbkey=CDS;gene=59;product=ATPase AAA;protein_id=AGC34428.1;transl_table=11
+KC117377.1	Genbank	gene	29540	29992	.	-	.	ID=gene59;Name=60;gbkey=Gene;gene=60;gene_biotype=protein_coding;locus_tag=HVTV1_60
+KC117377.1	Genbank	CDS	29540	29992	.	-	0	ID=cds58;Parent=gene59;Dbxref=NCBI_GP:AGC34429.1;Name=AGC34429.1;gbkey=CDS;gene=60;product=hypothetical protein;protein_id=AGC34429.1;transl_table=11
+KC117377.1	Genbank	gene	29970	30392	.	-	.	ID=gene60;Name=61;gbkey=Gene;gene=61;gene_biotype=protein_coding;locus_tag=HVTV1_61
+KC117377.1	Genbank	CDS	29970	30392	.	-	0	ID=cds59;Parent=gene60;Dbxref=NCBI_GP:AGC34430.1;Name=AGC34430.1;gbkey=CDS;gene=61;product=hypothetical protein;protein_id=AGC34430.1;transl_table=11
+KC117377.1	Genbank	gene	30389	30613	.	-	.	ID=gene61;Name=62;gbkey=Gene;gene=62;gene_biotype=protein_coding;locus_tag=HVTV1_62
+KC117377.1	Genbank	CDS	30389	30613	.	-	0	ID=cds60;Parent=gene61;Dbxref=NCBI_GP:AGC34431.1;Name=AGC34431.1;gbkey=CDS;gene=62;product=hypothetical protein;protein_id=AGC34431.1;transl_table=11
+KC117377.1	Genbank	gene	30610	31035	.	-	.	ID=gene62;Name=63;gbkey=Gene;gene=63;gene_biotype=protein_coding;locus_tag=HVTV1_63
+KC117377.1	Genbank	CDS	30610	31035	.	-	0	ID=cds61;Parent=gene62;Dbxref=NCBI_GP:AGC34432.1;Name=AGC34432.1;gbkey=CDS;gene=63;product=HNH endonuclease;protein_id=AGC34432.1;transl_table=11
+KC117377.1	Genbank	gene	31037	31561	.	-	.	ID=gene63;Name=64;gbkey=Gene;gene=64;gene_biotype=protein_coding;locus_tag=HVTV1_64
+KC117377.1	Genbank	CDS	31037	31561	.	-	0	ID=cds62;Parent=gene63;Dbxref=NCBI_GP:AGC34433.1;Name=AGC34433.1;gbkey=CDS;gene=64;product=hypothetical protein;protein_id=AGC34433.1;transl_table=11
+KC117377.1	Genbank	gene	31534	32250	.	-	.	ID=gene64;Name=65;gbkey=Gene;gene=65;gene_biotype=protein_coding;locus_tag=HVTV1_65
+KC117377.1	Genbank	CDS	31534	32250	.	-	0	ID=cds63;Parent=gene64;Dbxref=NCBI_GP:AGC34434.1;Name=AGC34434.1;gbkey=CDS;gene=65;product=SprT-like protein;protein_id=AGC34434.1;transl_table=11
+KC117377.1	Genbank	gene	32427	33206	.	+	.	ID=gene65;Name=66;gbkey=Gene;gene=66;gene_biotype=protein_coding;locus_tag=HVTV1_66
+KC117377.1	Genbank	CDS	32427	33206	.	+	0	ID=cds64;Parent=gene65;Dbxref=NCBI_GP:AGC34435.1;Name=AGC34435.1;gbkey=CDS;gene=66;product=hypothetical protein;protein_id=AGC34435.1;transl_table=11
+KC117377.1	Genbank	gene	33231	33455	.	-	.	ID=gene66;Name=67;gbkey=Gene;gene=67;gene_biotype=protein_coding;locus_tag=HVTV1_67
+KC117377.1	Genbank	CDS	33231	33455	.	-	0	ID=cds65;Parent=gene66;Dbxref=NCBI_GP:AGC34436.1;Name=AGC34436.1;gbkey=CDS;gene=67;product=hypothetical protein;protein_id=AGC34436.1;transl_table=11
+KC117377.1	Genbank	gene	33599	33793	.	-	.	ID=gene67;Name=68;gbkey=Gene;gene=68;gene_biotype=protein_coding;locus_tag=HVTV1_68
+KC117377.1	Genbank	CDS	33599	33793	.	-	0	ID=cds66;Parent=gene67;Dbxref=NCBI_GP:AGC34437.1;Name=AGC34437.1;gbkey=CDS;gene=68;product=hypothetical protein;protein_id=AGC34437.1;transl_table=11
+KC117377.1	Genbank	gene	33803	34963	.	-	.	ID=gene68;Name=69;gbkey=Gene;gene=69;gene_biotype=protein_coding;locus_tag=HVTV1_69
+KC117377.1	Genbank	CDS	33803	34963	.	-	0	ID=cds67;Parent=gene68;Dbxref=NCBI_GP:AGC34438.1;Name=AGC34438.1;gbkey=CDS;gene=69;product=hypothetical protein;protein_id=AGC34438.1;transl_table=11
+KC117377.1	Genbank	gene	34966	35565	.	-	.	ID=gene69;Name=70;gbkey=Gene;gene=70;gene_biotype=protein_coding;locus_tag=HVTV1_70
+KC117377.1	Genbank	CDS	34966	35565	.	-	0	ID=cds68;Parent=gene69;Dbxref=NCBI_GP:AGC34439.1;Name=AGC34439.1;gbkey=CDS;gene=70;product=GTP cyclohydrolase;protein_id=AGC34439.1;transl_table=11
+KC117377.1	Genbank	gene	35608	35784	.	-	.	ID=gene70;Name=71;gbkey=Gene;gene=71;gene_biotype=protein_coding;locus_tag=HVTV1_71
+KC117377.1	Genbank	CDS	35608	35784	.	-	0	ID=cds69;Parent=gene70;Dbxref=NCBI_GP:AGC34440.1;Name=AGC34440.1;gbkey=CDS;gene=71;product=hypothetical protein;protein_id=AGC34440.1;transl_table=11
+KC117377.1	Genbank	gene	35777	35899	.	-	.	ID=gene71;Name=72;gbkey=Gene;gene=72;gene_biotype=protein_coding;locus_tag=HVTV1_72
+KC117377.1	Genbank	CDS	35777	35899	.	-	0	ID=cds70;Parent=gene71;Dbxref=NCBI_GP:AGC34441.1;Name=AGC34441.1;gbkey=CDS;gene=72;product=hypothetical protein;protein_id=AGC34441.1;transl_table=11
+KC117377.1	Genbank	gene	35902	36687	.	-	.	ID=gene72;Name=73;gbkey=Gene;gene=73;gene_biotype=protein_coding;locus_tag=HVTV1_73
+KC117377.1	Genbank	CDS	35902	36687	.	-	0	ID=cds71;Parent=gene72;Dbxref=NCBI_GP:AGC34442.1;Name=AGC34442.1;gbkey=CDS;gene=73;product=radical SAM family-like protein;protein_id=AGC34442.1;transl_table=11
+KC117377.1	Genbank	gene	36684	36950	.	-	.	ID=gene73;Name=74;gbkey=Gene;gene=74;gene_biotype=protein_coding;locus_tag=HVTV1_74
+KC117377.1	Genbank	CDS	36684	36950	.	-	0	ID=cds72;Parent=gene73;Dbxref=NCBI_GP:AGC34443.1;Name=AGC34443.1;gbkey=CDS;gene=74;product=hypothetical protein;protein_id=AGC34443.1;transl_table=11
+KC117377.1	Genbank	gene	36943	37077	.	-	.	ID=gene74;Name=75;gbkey=Gene;gene=75;gene_biotype=protein_coding;locus_tag=HVTV1_75
+KC117377.1	Genbank	CDS	36943	37077	.	-	0	ID=cds73;Parent=gene74;Dbxref=NCBI_GP:AGC34444.1;Name=AGC34444.1;gbkey=CDS;gene=75;product=hypothetical protein;protein_id=AGC34444.1;transl_table=11
+KC117377.1	Genbank	gene	37077	37538	.	-	.	ID=gene75;Name=76;gbkey=Gene;gene=76;gene_biotype=protein_coding;locus_tag=HVTV1_76
+KC117377.1	Genbank	CDS	37077	37538	.	-	0	ID=cds74;Parent=gene75;Dbxref=NCBI_GP:AGC34445.1;Name=AGC34445.1;gbkey=CDS;gene=76;product=QueD;protein_id=AGC34445.1;transl_table=11
+KC117377.1	Genbank	gene	37535	38299	.	-	.	ID=gene76;Name=77;gbkey=Gene;gene=77;gene_biotype=protein_coding;locus_tag=HVTV1_77
+KC117377.1	Genbank	CDS	37535	38299	.	-	0	ID=cds75;Parent=gene76;Dbxref=NCBI_GP:AGC34446.1;Name=AGC34446.1;gbkey=CDS;gene=77;product=QueC;protein_id=AGC34446.1;transl_table=11
+KC117377.1	Genbank	gene	38357	38845	.	-	.	ID=gene77;Name=78;gbkey=Gene;gene=78;gene_biotype=protein_coding;locus_tag=HVTV1_78
+KC117377.1	Genbank	CDS	38357	38845	.	-	0	ID=cds76;Parent=gene77;Dbxref=NCBI_GP:AGC34447.1;Name=AGC34447.1;gbkey=CDS;gene=78;product=HNH endonuclease;protein_id=AGC34447.1;transl_table=11
+KC117377.1	Genbank	gene	38852	39268	.	-	.	ID=gene78;Name=79;gbkey=Gene;gene=79;gene_biotype=protein_coding;locus_tag=HVTV1_79
+KC117377.1	Genbank	CDS	38852	39268	.	-	0	ID=cds77;Parent=gene78;Dbxref=NCBI_GP:AGC34448.1;Name=AGC34448.1;gbkey=CDS;gene=79;product=hypothetical protein;protein_id=AGC34448.1;transl_table=11
+KC117377.1	Genbank	gene	39268	39483	.	-	.	ID=gene79;Name=80;gbkey=Gene;gene=80;gene_biotype=protein_coding;locus_tag=HVTV1_80
+KC117377.1	Genbank	CDS	39268	39483	.	-	0	ID=cds78;Parent=gene79;Dbxref=NCBI_GP:AGC34449.1;Name=AGC34449.1;gbkey=CDS;gene=80;product=hypothetical protein;protein_id=AGC34449.1;transl_table=11
+KC117377.1	Genbank	gene	39488	39811	.	-	.	ID=gene80;Name=81;gbkey=Gene;gene=81;gene_biotype=protein_coding;locus_tag=HVTV1_81
+KC117377.1	Genbank	CDS	39488	39811	.	-	0	ID=cds79;Parent=gene80;Dbxref=NCBI_GP:AGC34450.1;Name=AGC34450.1;gbkey=CDS;gene=81;product=hypothetical protein;protein_id=AGC34450.1;transl_table=11
+KC117377.1	Genbank	gene	39808	40269	.	-	.	ID=gene81;Name=82;gbkey=Gene;gene=82;gene_biotype=protein_coding;locus_tag=HVTV1_82
+KC117377.1	Genbank	CDS	39808	40269	.	-	0	ID=cds80;Parent=gene81;Dbxref=NCBI_GP:AGC34451.1;Name=AGC34451.1;Note=7-cyano-7-deazaguanine reductase;gbkey=CDS;gene=82;product=7-cyano-7-deazaguanine reductase;protein_id=AGC34451.1;transl_table=11
+KC117377.1	Genbank	gene	40344	41261	.	-	.	ID=gene82;Name=83;gbkey=Gene;gene=83;gene_biotype=protein_coding;locus_tag=HVTV1_83
+KC117377.1	Genbank	CDS	40344	41261	.	-	0	ID=cds81;Parent=gene82;Dbxref=NCBI_GP:AGC34452.1;Name=AGC34452.1;gbkey=CDS;gene=83;product=hypothetical protein;protein_id=AGC34452.1;transl_table=11
+KC117377.1	Genbank	gene	41567	41644	.	-	.	ID=gene83;Name=84;gbkey=Gene;gene=84;gene_biotype=protein_coding;locus_tag=HVTV1_84
+KC117377.1	Genbank	CDS	41567	41644	.	-	0	ID=cds82;Parent=gene83;Dbxref=NCBI_GP:AGC34453.1;Name=AGC34453.1;gbkey=CDS;gene=84;product=hypothetical protein;protein_id=AGC34453.1;transl_table=11
+KC117377.1	Genbank	gene	41641	41796	.	-	.	ID=gene84;Name=85;gbkey=Gene;gene=85;gene_biotype=protein_coding;locus_tag=HVTV1_85
+KC117377.1	Genbank	CDS	41641	41796	.	-	0	ID=cds83;Parent=gene84;Dbxref=NCBI_GP:AGC34454.1;Name=AGC34454.1;gbkey=CDS;gene=85;product=hypothetical protein;protein_id=AGC34454.1;transl_table=11
+KC117377.1	Genbank	gene	41793	42302	.	-	.	ID=gene85;Name=86;gbkey=Gene;gene=86;gene_biotype=protein_coding;locus_tag=HVTV1_86
+KC117377.1	Genbank	CDS	41793	42302	.	-	0	ID=cds84;Parent=gene85;Dbxref=NCBI_GP:AGC34455.1;Name=AGC34455.1;gbkey=CDS;gene=86;product=hypothetical protein;protein_id=AGC34455.1;transl_table=11
+KC117377.1	Genbank	gene	42444	43697	.	-	.	ID=gene86;Name=87;gbkey=Gene;gene=87;gene_biotype=protein_coding;locus_tag=HVTV1_87
+KC117377.1	Genbank	CDS	42444	43697	.	-	0	ID=cds85;Parent=gene86;Dbxref=NCBI_GP:AGC34456.1;Name=AGC34456.1;gbkey=CDS;gene=87;product=replication factor C large subunit;protein_id=AGC34456.1;transl_table=11
+KC117377.1	Genbank	gene	43663	44133	.	-	.	ID=gene87;Name=88;gbkey=Gene;gene=88;gene_biotype=protein_coding;locus_tag=HVTV1_88
+KC117377.1	Genbank	CDS	43663	44133	.	-	0	ID=cds86;Parent=gene87;Dbxref=NCBI_GP:AGC34457.1;Name=AGC34457.1;gbkey=CDS;gene=88;product=hypothetical protein;protein_id=AGC34457.1;transl_table=11
+KC117377.1	Genbank	gene	44172	45023	.	-	.	ID=gene88;Name=89;gbkey=Gene;gene=89;gene_biotype=protein_coding;locus_tag=HVTV1_89
+KC117377.1	Genbank	CDS	44172	45023	.	-	0	ID=cds87;Parent=gene88;Dbxref=NCBI_GP:AGC34458.1;Name=AGC34458.1;gbkey=CDS;gene=89;product=N6-adenine DNA methyltransferase;protein_id=AGC34458.1;transl_table=11
+KC117377.1	Genbank	gene	45026	45523	.	-	.	ID=gene89;Name=90;gbkey=Gene;gene=90;gene_biotype=protein_coding;locus_tag=HVTV1_90
+KC117377.1	Genbank	CDS	45026	45523	.	-	0	ID=cds88;Parent=gene89;Dbxref=NCBI_GP:AGC34459.1;Name=AGC34459.1;gbkey=CDS;gene=90;product=hypothetical protein;protein_id=AGC34459.1;transl_table=11
+KC117377.1	Genbank	gene	45517	48258	.	-	.	ID=gene90;Name=91;gbkey=Gene;gene=91;gene_biotype=protein_coding;locus_tag=HVTV1_91
+KC117377.1	Genbank	CDS	45517	48258	.	-	0	ID=cds89;Parent=gene90;Dbxref=NCBI_GP:AGC34460.1;Name=AGC34460.1;gbkey=CDS;gene=91;product=DNA polymerase;protein_id=AGC34460.1;transl_table=11
+KC117377.1	Genbank	gene	48280	48576	.	-	.	ID=gene91;Name=92;gbkey=Gene;gene=92;gene_biotype=protein_coding;locus_tag=HVTV1_92
+KC117377.1	Genbank	CDS	48280	48576	.	-	0	ID=cds90;Parent=gene91;Dbxref=NCBI_GP:AGC34461.1;Name=AGC34461.1;gbkey=CDS;gene=92;product=HNH domain endonuclease;protein_id=AGC34461.1;transl_table=11
+KC117377.1	Genbank	gene	48580	49383	.	-	.	ID=gene92;Name=93;gbkey=Gene;gene=93;gene_biotype=protein_coding;locus_tag=HVTV1_93
+KC117377.1	Genbank	CDS	48580	49383	.	-	0	ID=cds91;Parent=gene92;Dbxref=NCBI_GP:AGC34462.1;Name=AGC34462.1;gbkey=CDS;gene=93;product=RecB;protein_id=AGC34462.1;transl_table=11
+KC117377.1	Genbank	gene	49376	49693	.	-	.	ID=gene93;Name=94;gbkey=Gene;gene=94;gene_biotype=protein_coding;locus_tag=HVTV1_94
+KC117377.1	Genbank	CDS	49376	49693	.	-	0	ID=cds92;Parent=gene93;Dbxref=NCBI_GP:AGC34463.1;Name=AGC34463.1;gbkey=CDS;gene=94;product=hypothetical protein;protein_id=AGC34463.1;transl_table=11
+KC117377.1	Genbank	gene	49696	49884	.	-	.	ID=gene94;Name=95;gbkey=Gene;gene=95;gene_biotype=protein_coding;locus_tag=HVTV1_95
+KC117377.1	Genbank	CDS	49696	49884	.	-	0	ID=cds93;Parent=gene94;Dbxref=NCBI_GP:AGC34464.1;Name=AGC34464.1;gbkey=CDS;gene=95;product=hypothetical protein;protein_id=AGC34464.1;transl_table=11
+KC117377.1	Genbank	gene	49881	50864	.	-	.	ID=gene95;Name=96;gbkey=Gene;gene=96;gene_biotype=protein_coding;locus_tag=HVTV1_96
+KC117377.1	Genbank	CDS	49881	50864	.	-	0	ID=cds94;Parent=gene95;Dbxref=NCBI_GP:AGC34465.1;Name=AGC34465.1;gbkey=CDS;gene=96;product=replication factor C small subunit;protein_id=AGC34465.1;transl_table=11
+KC117377.1	Genbank	gene	50931	51113	.	-	.	ID=gene96;Name=97;gbkey=Gene;gene=97;gene_biotype=protein_coding;locus_tag=HVTV1_97
+KC117377.1	Genbank	CDS	50931	51113	.	-	0	ID=cds95;Parent=gene96;Dbxref=NCBI_GP:AGC34466.1;Name=AGC34466.1;gbkey=CDS;gene=97;product=hypothetical protein;protein_id=AGC34466.1;transl_table=11
+KC117377.1	Genbank	gene	51115	51702	.	-	.	ID=gene97;Name=98;gbkey=Gene;gene=98;gene_biotype=protein_coding;locus_tag=HVTV1_98
+KC117377.1	Genbank	CDS	51115	51702	.	-	0	ID=cds96;Parent=gene97;Dbxref=NCBI_GP:AGC34467.1;Name=AGC34467.1;gbkey=CDS;gene=98;product=thymidylate kinase;protein_id=AGC34467.1;transl_table=11
+KC117377.1	Genbank	gene	51706	52209	.	-	.	ID=gene98;Name=99;gbkey=Gene;gene=99;gene_biotype=protein_coding;locus_tag=HVTV1_99
+KC117377.1	Genbank	CDS	51706	52209	.	-	0	ID=cds97;Parent=gene98;Dbxref=NCBI_GP:AGC34468.1;Name=AGC34468.1;gbkey=CDS;gene=99;product=hypothetical protein;protein_id=AGC34468.1;transl_table=11
+KC117377.1	Genbank	gene	52161	53309	.	-	.	ID=gene99;Name=100;gbkey=Gene;gene=100;gene_biotype=protein_coding;locus_tag=HVTV1_100
+KC117377.1	Genbank	CDS	52161	53309	.	-	0	ID=cds98;Parent=gene99;Dbxref=NCBI_GP:AGC34469.1;Name=AGC34469.1;gbkey=CDS;gene=100;product=hypothetical protein;protein_id=AGC34469.1;transl_table=11
+KC117377.1	Genbank	gene	53324	54181	.	-	.	ID=gene100;Name=101;gbkey=Gene;gene=101;gene_biotype=protein_coding;locus_tag=HVTV1_101
+KC117377.1	Genbank	CDS	53324	54181	.	-	0	ID=cds99;Parent=gene100;Dbxref=NCBI_GP:AGC34470.1;Name=AGC34470.1;gbkey=CDS;gene=101;product=hypothetical protein;protein_id=AGC34470.1;transl_table=11
+KC117377.1	Genbank	gene	54174	54671	.	-	.	ID=gene101;Name=102;gbkey=Gene;gene=102;gene_biotype=protein_coding;locus_tag=HVTV1_102
+KC117377.1	Genbank	CDS	54174	54671	.	-	0	ID=cds100;Parent=gene101;Dbxref=NCBI_GP:AGC34471.1;Name=AGC34471.1;gbkey=CDS;gene=102;product=hypothetical protein;protein_id=AGC34471.1;transl_table=11
+KC117377.1	Genbank	gene	54664	56214	.	-	.	ID=gene102;Name=103;gbkey=Gene;gene=103;gene_biotype=protein_coding;locus_tag=HVTV1_103
+KC117377.1	Genbank	CDS	54664	56214	.	-	0	ID=cds101;Parent=gene102;Dbxref=NCBI_GP:AGC34472.1;Name=AGC34472.1;gbkey=CDS;gene=103;product=hypothetical protein;protein_id=AGC34472.1;transl_table=11
+KC117377.1	Genbank	gene	56211	57254	.	-	.	ID=gene103;Name=104;gbkey=Gene;gene=104;gene_biotype=protein_coding;locus_tag=HVTV1_104
+KC117377.1	Genbank	CDS	56211	57254	.	-	0	ID=cds102;Parent=gene103;Dbxref=NCBI_GP:AGC34473.1;Name=AGC34473.1;gbkey=CDS;gene=104;product=hypothetical protein;protein_id=AGC34473.1;transl_table=11
+KC117377.1	Genbank	gene	57489	58400	.	+	.	ID=gene104;Name=105;gbkey=Gene;gene=105;gene_biotype=protein_coding;locus_tag=HVTV1_105
+KC117377.1	Genbank	CDS	57489	58400	.	+	0	ID=cds103;Parent=gene104;Dbxref=NCBI_GP:AGC34474.1;Name=AGC34474.1;gbkey=CDS;gene=105;product=DNA repair 2C RadA-like protein;protein_id=AGC34474.1;transl_table=11
+KC117377.1	Genbank	gene	58397	58549	.	-	.	ID=gene105;Name=106;gbkey=Gene;gene=106;gene_biotype=protein_coding;locus_tag=HVTV1_106
+KC117377.1	Genbank	CDS	58397	58549	.	-	0	ID=cds104;Parent=gene105;Dbxref=NCBI_GP:AGC34475.1;Name=AGC34475.1;gbkey=CDS;gene=106;product=hypothetical protein;protein_id=AGC34475.1;transl_table=11
+KC117377.1	Genbank	gene	58552	58665	.	-	.	ID=gene106;Name=107;gbkey=Gene;gene=107;gene_biotype=protein_coding;locus_tag=HVTV1_107
+KC117377.1	Genbank	CDS	58552	58665	.	-	0	ID=cds105;Parent=gene106;Dbxref=NCBI_GP:AGC34476.1;Name=AGC34476.1;gbkey=CDS;gene=107;product=hypothetical protein;protein_id=AGC34476.1;transl_table=11
+KC117377.1	Genbank	gene	59003	59665	.	+	.	ID=gene107;Name=108;gbkey=Gene;gene=108;gene_biotype=protein_coding;locus_tag=HVTV1_108
+KC117377.1	Genbank	CDS	59003	59665	.	+	0	ID=cds106;Parent=gene107;Dbxref=NCBI_GP:AGC34477.1;Name=AGC34477.1;gbkey=CDS;gene=108;product=hypothetical protein;protein_id=AGC34477.1;transl_table=11
+KC117377.1	Genbank	gene	59662	60306	.	+	.	ID=gene108;Name=109;gbkey=Gene;gene=109;gene_biotype=protein_coding;locus_tag=HVTV1_109
+KC117377.1	Genbank	CDS	59662	60306	.	+	0	ID=cds107;Parent=gene108;Dbxref=NCBI_GP:AGC34478.1;Name=AGC34478.1;gbkey=CDS;gene=109;product=HNH endonuclease;protein_id=AGC34478.1;transl_table=11
+KC117377.1	Genbank	gene	60303	61748	.	+	.	ID=gene109;Name=110;gbkey=Gene;gene=110;gene_biotype=protein_coding;locus_tag=HVTV1_110
+KC117377.1	Genbank	CDS	60303	61748	.	+	0	ID=cds108;Parent=gene109;Dbxref=NCBI_GP:AGC34479.1;Name=AGC34479.1;gbkey=CDS;gene=110;product=terminase large subunit;protein_id=AGC34479.1;transl_table=11
+KC117377.1	Genbank	gene	61742	62368	.	+	.	ID=gene110;Name=111;gbkey=Gene;gene=111;gene_biotype=protein_coding;locus_tag=HVTV1_111
+KC117377.1	Genbank	CDS	61742	62368	.	+	0	ID=cds109;Parent=gene110;Dbxref=NCBI_GP:AGC34480.1;Name=AGC34480.1;gbkey=CDS;gene=111;product=HNH domain endonuclease;protein_id=AGC34480.1;transl_table=11
+KC117377.1	Genbank	gene	62368	64236	.	+	.	ID=gene111;Name=112;gbkey=Gene;gene=112;gene_biotype=protein_coding;locus_tag=HVTV1_112
+KC117377.1	Genbank	CDS	62368	64236	.	+	0	ID=cds110;Parent=gene111;Dbxref=NCBI_GP:AGC34481.1;Name=AGC34481.1;gbkey=CDS;gene=112;product=hypothetical protein;protein_id=AGC34481.1;transl_table=11
+KC117377.1	Genbank	gene	64229	67375	.	+	.	ID=gene112;Name=113;gbkey=Gene;gene=113;gene_biotype=protein_coding;locus_tag=HVTV1_113
+KC117377.1	Genbank	CDS	64229	67375	.	+	0	ID=cds111;Parent=gene112;Dbxref=NCBI_GP:AGC34482.1;Name=AGC34482.1;gbkey=CDS;gene=113;product=hypothetical protein;protein_id=AGC34482.1;transl_table=11
+KC117377.1	Genbank	gene	67378	68610	.	+	.	ID=gene113;Name=114;gbkey=Gene;gene=114;gene_biotype=protein_coding;locus_tag=HVTV1_114
+KC117377.1	Genbank	CDS	67378	68610	.	+	0	ID=cds112;Parent=gene113;Dbxref=NCBI_GP:AGC34483.1;Name=AGC34483.1;gbkey=CDS;gene=114;product=head assembly;protein_id=AGC34483.1;transl_table=11
+KC117377.1	Genbank	gene	68622	72563	.	+	.	ID=gene114;Name=115;gbkey=Gene;gene=115;gene_biotype=protein_coding;locus_tag=HVTV1_115
+KC117377.1	Genbank	CDS	68622	72563	.	+	0	ID=cds113;Parent=gene114;Dbxref=NCBI_GP:AGC34484.1;Name=AGC34484.1;gbkey=CDS;gene=115;product=zeta toxin;protein_id=AGC34484.1;transl_table=11
+KC117377.1	Genbank	gene	72556	73017	.	+	.	ID=gene115;Name=116;gbkey=Gene;gene=116;gene_biotype=protein_coding;locus_tag=HVTV1_116
+KC117377.1	Genbank	CDS	72556	73017	.	+	0	ID=cds114;Parent=gene115;Dbxref=NCBI_GP:AGC34485.1;Name=AGC34485.1;gbkey=CDS;gene=116;product=hypothetical protein;protein_id=AGC34485.1;transl_table=11
+KC117377.1	Genbank	gene	73018	73512	.	-	.	ID=gene116;Name=117;gbkey=Gene;gene=117;gene_biotype=protein_coding;locus_tag=HVTV1_117
+KC117377.1	Genbank	CDS	73018	73512	.	-	0	ID=cds115;Parent=gene116;Dbxref=NCBI_GP:AGC34486.1;Name=AGC34486.1;gbkey=CDS;gene=117;product=HNH domain endonuclease;protein_id=AGC34486.1;transl_table=11
+KC117377.1	Genbank	gene	73742	73933	.	+	.	ID=gene117;Name=118;gbkey=Gene;gene=118;gene_biotype=protein_coding;locus_tag=HVTV1_118
+KC117377.1	Genbank	CDS	73742	73933	.	+	0	ID=cds116;Parent=gene117;Dbxref=NCBI_GP:AGC34487.1;Name=AGC34487.1;gbkey=CDS;gene=118;product=hypothetical protein;protein_id=AGC34487.1;transl_table=11
+KC117377.1	Genbank	gene	73933	75846	.	+	.	ID=gene118;Name=119;gbkey=Gene;gene=119;gene_biotype=protein_coding;locus_tag=HVTV1_119
+KC117377.1	Genbank	CDS	73933	75846	.	+	0	ID=cds117;Parent=gene118;Dbxref=NCBI_GP:AGC34488.1;Name=AGC34488.1;gbkey=CDS;gene=119;product=prohead protease;protein_id=AGC34488.1;transl_table=11
+KC117377.1	Genbank	gene	75862	77235	.	+	.	ID=gene119;Name=120;gbkey=Gene;gene=120;gene_biotype=protein_coding;locus_tag=HVTV1_120
+KC117377.1	Genbank	CDS	75862	77235	.	+	0	ID=cds118;Parent=gene119;Dbxref=NCBI_GP:AGC34489.1;Name=AGC34489.1;gbkey=CDS;gene=120;product=major capsid protein;protein_id=AGC34489.1;transl_table=11
+KC117377.1	Genbank	gene	77254	77631	.	+	.	ID=gene120;Name=121;gbkey=Gene;gene=121;gene_biotype=protein_coding;locus_tag=HVTV1_121
+KC117377.1	Genbank	CDS	77254	77631	.	+	0	ID=cds119;Parent=gene120;Dbxref=NCBI_GP:AGC34490.1;Name=AGC34490.1;gbkey=CDS;gene=121;product=hypothetical protein;protein_id=AGC34490.1;transl_table=11
+KC117377.1	Genbank	gene	77650	77982	.	+	.	ID=gene121;Name=122;gbkey=Gene;gene=122;gene_biotype=protein_coding;locus_tag=HVTV1_122
+KC117377.1	Genbank	CDS	77650	77982	.	+	0	ID=cds120;Parent=gene121;Dbxref=NCBI_GP:AGC34491.1;Name=AGC34491.1;gbkey=CDS;gene=122;product=hypothetical protein;protein_id=AGC34491.1;transl_table=11
+KC117377.1	Genbank	gene	77989	78402	.	+	.	ID=gene122;Name=123;gbkey=Gene;gene=123;gene_biotype=protein_coding;locus_tag=HVTV1_123
+KC117377.1	Genbank	CDS	77989	78402	.	+	0	ID=cds121;Parent=gene122;Dbxref=NCBI_GP:AGC34492.1;Name=AGC34492.1;gbkey=CDS;gene=123;product=hypothetical protein;protein_id=AGC34492.1;transl_table=11
+KC117377.1	Genbank	gene	78405	78737	.	+	.	ID=gene123;Name=124;gbkey=Gene;gene=124;gene_biotype=protein_coding;locus_tag=HVTV1_124
+KC117377.1	Genbank	CDS	78405	78737	.	+	0	ID=cds122;Parent=gene123;Dbxref=NCBI_GP:AGC34493.1;Name=AGC34493.1;gbkey=CDS;gene=124;product=hypothetical protein;protein_id=AGC34493.1;transl_table=11
+KC117377.1	Genbank	gene	78737	79417	.	+	.	ID=gene124;Name=125;gbkey=Gene;gene=125;gene_biotype=protein_coding;locus_tag=HVTV1_125
+KC117377.1	Genbank	CDS	78737	79417	.	+	0	ID=cds123;Parent=gene124;Dbxref=NCBI_GP:AGC34494.1;Name=AGC34494.1;gbkey=CDS;gene=125;product=hypothetical protein;protein_id=AGC34494.1;transl_table=11
+KC117377.1	Genbank	gene	79417	80028	.	+	.	ID=gene125;Name=126;gbkey=Gene;gene=126;gene_biotype=protein_coding;locus_tag=HVTV1_126
+KC117377.1	Genbank	CDS	79417	80028	.	+	0	ID=cds124;Parent=gene125;Dbxref=NCBI_GP:AGC34495.1;Name=AGC34495.1;gbkey=CDS;gene=126;product=hypothetical protein;protein_id=AGC34495.1;transl_table=11
+KC117377.1	Genbank	gene	80028	80498	.	+	.	ID=gene126;Name=127;gbkey=Gene;gene=127;gene_biotype=protein_coding;locus_tag=HVTV1_127
+KC117377.1	Genbank	CDS	80028	80498	.	+	0	ID=cds125;Parent=gene126;Dbxref=NCBI_GP:AGC34496.1;Name=AGC34496.1;gbkey=CDS;gene=127;product=hypothetical protein;protein_id=AGC34496.1;transl_table=11
+KC117377.1	Genbank	gene	80516	81529	.	+	.	ID=gene127;Name=128;gbkey=Gene;gene=128;gene_biotype=protein_coding;locus_tag=HVTV1_128
+KC117377.1	Genbank	CDS	80516	81529	.	+	0	ID=cds126;Parent=gene127;Dbxref=NCBI_GP:AGC34497.1;Name=AGC34497.1;gbkey=CDS;gene=128;product=hypothetical protein;protein_id=AGC34497.1;transl_table=11
+KC117377.1	Genbank	gene	81584	82338	.	+	.	ID=gene128;Name=130;gbkey=Gene;gene=130;gene_biotype=protein_coding;locus_tag=HVTV1_130
+KC117377.1	Genbank	CDS	81584	81968	.	+	0	ID=cds127;Parent=gene128;Dbxref=NCBI_GP:AGC34499.1;Name=AGC34499.1;exception=ribosomal slippage;gbkey=CDS;gene=130;product=tail assembly chaperone;protein_id=AGC34499.1;transl_table=11
+KC117377.1	Genbank	CDS	81968	82338	.	+	2	ID=cds127;Parent=gene128;Dbxref=NCBI_GP:AGC34499.1;Name=AGC34499.1;exception=ribosomal slippage;gbkey=CDS;gene=130;product=tail assembly chaperone;protein_id=AGC34499.1;transl_table=11
+KC117377.1	Genbank	gene	81584	82000	.	+	.	ID=gene129;Name=129;gbkey=Gene;gene=129;gene_biotype=protein_coding;locus_tag=HVTV1_129
+KC117377.1	Genbank	CDS	81584	82000	.	+	0	ID=cds128;Parent=gene129;Dbxref=NCBI_GP:AGC34498.1;Name=AGC34498.1;gbkey=CDS;gene=129;product=tail assembly chaperone;protein_id=AGC34498.1;transl_table=11
+KC117377.1	Genbank	gene	82340	83782	.	+	.	ID=gene130;Name=131;gbkey=Gene;gene=131;gene_biotype=protein_coding;locus_tag=HVTV1_131
+KC117377.1	Genbank	CDS	82340	83782	.	+	0	ID=cds129;Parent=gene130;Dbxref=NCBI_GP:AGC34500.1;Name=AGC34500.1;gbkey=CDS;gene=131;product=tape measure;protein_id=AGC34500.1;transl_table=11
+KC117377.1	Genbank	gene	83779	84234	.	+	.	ID=gene131;Name=132;gbkey=Gene;gene=132;gene_biotype=protein_coding;locus_tag=HVTV1_132
+KC117377.1	Genbank	CDS	83779	84234	.	+	0	ID=cds130;Parent=gene131;Dbxref=NCBI_GP:AGC34501.1;Name=AGC34501.1;gbkey=CDS;gene=132;product=hypothetical protein;protein_id=AGC34501.1;transl_table=11
+KC117377.1	Genbank	gene	84241	85671	.	+	.	ID=gene132;Name=133;gbkey=Gene;gene=133;gene_biotype=protein_coding;locus_tag=HVTV1_133
+KC117377.1	Genbank	CDS	84241	85671	.	+	0	ID=cds131;Parent=gene132;Dbxref=NCBI_GP:AGC34502.1;Name=AGC34502.1;gbkey=CDS;gene=133;product=hypothetical protein;protein_id=AGC34502.1;transl_table=11
+KC117377.1	Genbank	gene	85664	86503	.	+	.	ID=gene133;Name=134;gbkey=Gene;gene=134;gene_biotype=protein_coding;locus_tag=HVTV1_134
+KC117377.1	Genbank	CDS	85664	86503	.	+	0	ID=cds132;Parent=gene133;Dbxref=NCBI_GP:AGC34503.1;Name=AGC34503.1;gbkey=CDS;gene=134;product=hypothetical protein;protein_id=AGC34503.1;transl_table=11
+KC117377.1	Genbank	gene	86500	87492	.	+	.	ID=gene134;Name=135;gbkey=Gene;gene=135;gene_biotype=protein_coding;locus_tag=HVTV1_135
+KC117377.1	Genbank	CDS	86500	87492	.	+	0	ID=cds133;Parent=gene134;Dbxref=NCBI_GP:AGC34504.1;Name=AGC34504.1;gbkey=CDS;gene=135;product=hypothetical protein;protein_id=AGC34504.1;transl_table=11
+KC117377.1	Genbank	gene	87506	89080	.	+	.	ID=gene135;Name=136;gbkey=Gene;gene=136;gene_biotype=protein_coding;locus_tag=HVTV1_136
+KC117377.1	Genbank	CDS	87506	89080	.	+	0	ID=cds134;Parent=gene135;Dbxref=NCBI_GP:AGC34505.1;Name=AGC34505.1;gbkey=CDS;gene=136;product=tail baseplate;protein_id=AGC34505.1;transl_table=11
+KC117377.1	Genbank	gene	89077	90180	.	+	.	ID=gene136;Name=137;gbkey=Gene;gene=137;gene_biotype=protein_coding;locus_tag=HVTV1_137
+KC117377.1	Genbank	CDS	89077	90180	.	+	0	ID=cds135;Parent=gene136;Dbxref=NCBI_GP:AGC34506.1;Name=AGC34506.1;gbkey=CDS;gene=137;product=hypothetical protein;protein_id=AGC34506.1;transl_table=11
+KC117377.1	Genbank	gene	90182	90943	.	+	.	ID=gene137;Name=138;gbkey=Gene;gene=138;gene_biotype=protein_coding;locus_tag=HVTV1_138
+KC117377.1	Genbank	CDS	90182	90943	.	+	0	ID=cds136;Parent=gene137;Dbxref=NCBI_GP:AGC34507.1;Name=AGC34507.1;gbkey=CDS;gene=138;product=hypothetical protein;protein_id=AGC34507.1;transl_table=11
+KC117377.1	Genbank	gene	90999	91139	.	+	.	ID=gene138;Name=139;gbkey=Gene;gene=139;gene_biotype=protein_coding;locus_tag=HVTV1_139
+KC117377.1	Genbank	CDS	90999	91139	.	+	0	ID=cds137;Parent=gene138;Dbxref=NCBI_GP:AGC34508.1;Name=AGC34508.1;gbkey=CDS;gene=139;product=hypothetical protein;protein_id=AGC34508.1;transl_table=11
+KC117377.1	Genbank	gene	91136	91273	.	+	.	ID=gene139;Name=140;gbkey=Gene;gene=140;gene_biotype=protein_coding;locus_tag=HVTV1_140
+KC117377.1	Genbank	CDS	91136	91273	.	+	0	ID=cds138;Parent=gene139;Dbxref=NCBI_GP:AGC34509.1;Name=AGC34509.1;gbkey=CDS;gene=140;product=hypothetical protein;protein_id=AGC34509.1;transl_table=11
+KC117377.1	Genbank	gene	91319	91537	.	-	.	ID=gene140;Name=141;gbkey=Gene;gene=141;gene_biotype=protein_coding;locus_tag=HVTV1_141
+KC117377.1	Genbank	CDS	91319	91537	.	-	0	ID=cds139;Parent=gene140;Dbxref=NCBI_GP:AGC34510.1;Name=AGC34510.1;gbkey=CDS;gene=141;product=hypothetical protein;protein_id=AGC34510.1;transl_table=11
+KC117377.1	Genbank	gene	91527	91898	.	-	.	ID=gene141;Name=142;gbkey=Gene;gene=142;gene_biotype=protein_coding;locus_tag=HVTV1_142
+KC117377.1	Genbank	CDS	91527	91898	.	-	0	ID=cds140;Parent=gene141;Dbxref=NCBI_GP:AGC34511.1;Name=AGC34511.1;gbkey=CDS;gene=142;product=hypothetical protein;protein_id=AGC34511.1;transl_table=11
+KC117377.1	Genbank	gene	91889	92413	.	-	.	ID=gene142;Name=143;gbkey=Gene;gene=143;gene_biotype=protein_coding;locus_tag=HVTV1_143
+KC117377.1	Genbank	CDS	91889	92413	.	-	0	ID=cds141;Parent=gene142;Dbxref=NCBI_GP:AGC34512.1;Name=AGC34512.1;gbkey=CDS;gene=143;product=hypothetical protein;protein_id=AGC34512.1;transl_table=11
+KC117377.1	Genbank	gene	92608	92790	.	+	.	ID=gene143;Name=144;gbkey=Gene;gene=144;gene_biotype=protein_coding;locus_tag=HVTV1_144
+KC117377.1	Genbank	CDS	92608	92790	.	+	0	ID=cds142;Parent=gene143;Dbxref=NCBI_GP:AGC34513.1;Name=AGC34513.1;gbkey=CDS;gene=144;product=hypothetical protein;protein_id=AGC34513.1;transl_table=11
+KC117377.1	Genbank	gene	92787	93215	.	+	.	ID=gene144;Name=145;gbkey=Gene;gene=145;gene_biotype=protein_coding;locus_tag=HVTV1_145
+KC117377.1	Genbank	CDS	92787	93215	.	+	0	ID=cds143;Parent=gene144;Dbxref=NCBI_GP:AGC34514.1;Name=AGC34514.1;gbkey=CDS;gene=145;product=hypothetical protein;protein_id=AGC34514.1;transl_table=11
+KC117377.1	Genbank	gene	93434	94294	.	+	.	ID=gene145;Name=146;gbkey=Gene;gene=146;gene_biotype=protein_coding;locus_tag=HVTV1_146
+KC117377.1	Genbank	CDS	93434	94294	.	+	0	ID=cds144;Parent=gene145;Dbxref=NCBI_GP:AGC34515.1;Name=AGC34515.1;gbkey=CDS;gene=146;product=hypothetical protein;protein_id=AGC34515.1;transl_table=11
+KC117377.1	Genbank	gene	94224	94850	.	+	.	ID=gene146;Name=147;gbkey=Gene;gene=147;gene_biotype=protein_coding;locus_tag=HVTV1_147
+KC117377.1	Genbank	CDS	94224	94850	.	+	0	ID=cds145;Parent=gene146;Dbxref=NCBI_GP:AGC34516.1;Name=AGC34516.1;gbkey=CDS;gene=147;product=hypothetical protein;protein_id=AGC34516.1;transl_table=11
+KC117377.1	Genbank	gene	94909	95160	.	+	.	ID=gene147;Name=148;gbkey=Gene;gene=148;gene_biotype=protein_coding;locus_tag=HVTV1_148
+KC117377.1	Genbank	CDS	94909	95160	.	+	0	ID=cds146;Parent=gene147;Dbxref=NCBI_GP:AGC34517.1;Name=AGC34517.1;gbkey=CDS;gene=148;product=hypothetical protein;protein_id=AGC34517.1;transl_table=11
+KC117377.1	Genbank	gene	95157	95396	.	+	.	ID=gene148;Name=149;gbkey=Gene;gene=149;gene_biotype=protein_coding;locus_tag=HVTV1_149
+KC117377.1	Genbank	CDS	95157	95396	.	+	0	ID=cds147;Parent=gene148;Dbxref=NCBI_GP:AGC34518.1;Name=AGC34518.1;gbkey=CDS;gene=149;product=hypothetical protein;protein_id=AGC34518.1;transl_table=11
+KC117377.1	Genbank	gene	95428	95619	.	+	.	ID=gene149;Name=150;gbkey=Gene;gene=150;gene_biotype=protein_coding;locus_tag=HVTV1_150
+KC117377.1	Genbank	CDS	95428	95619	.	+	0	ID=cds148;Parent=gene149;Dbxref=NCBI_GP:AGC34519.1;Name=AGC34519.1;gbkey=CDS;gene=150;product=hypothetical protein;protein_id=AGC34519.1;transl_table=11
+KC117377.1	Genbank	gene	95610	95792	.	+	.	ID=gene150;Name=151;gbkey=Gene;gene=151;gene_biotype=protein_coding;locus_tag=HVTV1_151
+KC117377.1	Genbank	CDS	95610	95792	.	+	0	ID=cds149;Parent=gene150;Dbxref=NCBI_GP:AGC34520.1;Name=AGC34520.1;gbkey=CDS;gene=151;product=hypothetical protein;protein_id=AGC34520.1;transl_table=11
+KC117377.1	Genbank	gene	95785	96048	.	+	.	ID=gene151;Name=152;gbkey=Gene;gene=152;gene_biotype=protein_coding;locus_tag=HVTV1_152
+KC117377.1	Genbank	CDS	95785	96048	.	+	0	ID=cds150;Parent=gene151;Dbxref=NCBI_GP:AGC34521.1;Name=AGC34521.1;gbkey=CDS;gene=152;product=hypothetical protein;protein_id=AGC34521.1;transl_table=11
+KC117377.1	Genbank	gene	96050	96235	.	+	.	ID=gene152;Name=153;gbkey=Gene;gene=153;gene_biotype=protein_coding;locus_tag=HVTV1_153
+KC117377.1	Genbank	CDS	96050	96235	.	+	0	ID=cds151;Parent=gene152;Dbxref=NCBI_GP:AGC34522.1;Name=AGC34522.1;gbkey=CDS;gene=153;product=hypothetical protein;protein_id=AGC34522.1;transl_table=11
+KC117377.1	Genbank	gene	96232	96612	.	+	.	ID=gene153;Name=154;gbkey=Gene;gene=154;gene_biotype=protein_coding;locus_tag=HVTV1_154
+KC117377.1	Genbank	CDS	96232	96612	.	+	0	ID=cds152;Parent=gene153;Dbxref=NCBI_GP:AGC34523.1;Name=AGC34523.1;gbkey=CDS;gene=154;product=hypothetical protein;protein_id=AGC34523.1;transl_table=11
+KC117377.1	Genbank	gene	96616	97092	.	+	.	ID=gene154;Name=155;gbkey=Gene;gene=155;gene_biotype=protein_coding;locus_tag=HVTV1_155
+KC117377.1	Genbank	CDS	96616	97092	.	+	0	ID=cds153;Parent=gene154;Dbxref=NCBI_GP:AGC34524.1;Name=AGC34524.1;gbkey=CDS;gene=155;product=hypothetical protein;protein_id=AGC34524.1;transl_table=11
+KC117377.1	Genbank	gene	97089	97298	.	+	.	ID=gene155;Name=156;gbkey=Gene;gene=156;gene_biotype=protein_coding;locus_tag=HVTV1_156
+KC117377.1	Genbank	CDS	97089	97298	.	+	0	ID=cds154;Parent=gene155;Dbxref=NCBI_GP:AGC34525.1;Name=AGC34525.1;gbkey=CDS;gene=156;product=hypothetical protein;protein_id=AGC34525.1;transl_table=11
+KC117377.1	Genbank	gene	97295	97939	.	-	.	ID=gene156;Name=157;gbkey=Gene;gene=157;gene_biotype=protein_coding;locus_tag=HVTV1_157
+KC117377.1	Genbank	CDS	97295	97939	.	-	0	ID=cds155;Parent=gene156;Dbxref=NCBI_GP:AGC34526.1;Name=AGC34526.1;gbkey=CDS;gene=157;product=dCTP deaminase;protein_id=AGC34526.1;transl_table=11
+KC117377.1	Genbank	gene	98038	98367	.	+	.	ID=gene157;Name=158;gbkey=Gene;gene=158;gene_biotype=protein_coding;locus_tag=HVTV1_158
+KC117377.1	Genbank	CDS	98038	98367	.	+	0	ID=cds156;Parent=gene157;Dbxref=NCBI_GP:AGC34527.1;Name=AGC34527.1;gbkey=CDS;gene=158;product=hypothetical protein;protein_id=AGC34527.1;transl_table=11
+KC117377.1	Genbank	gene	98364	98597	.	+	.	ID=gene158;Name=159;gbkey=Gene;gene=159;gene_biotype=protein_coding;locus_tag=HVTV1_159
+KC117377.1	Genbank	CDS	98364	98597	.	+	0	ID=cds157;Parent=gene158;Dbxref=NCBI_GP:AGC34528.1;Name=AGC34528.1;gbkey=CDS;gene=159;product=hypothetical protein;protein_id=AGC34528.1;transl_table=11
+KC117377.1	Genbank	gene	98590	98802	.	+	.	ID=gene159;Name=160;gbkey=Gene;gene=160;gene_biotype=protein_coding;locus_tag=HVTV1_160
+KC117377.1	Genbank	CDS	98590	98802	.	+	0	ID=cds158;Parent=gene159;Dbxref=NCBI_GP:AGC34529.1;Name=AGC34529.1;gbkey=CDS;gene=160;product=hypothetical protein;protein_id=AGC34529.1;transl_table=11
+KC117377.1	Genbank	gene	98799	98939	.	+	.	ID=gene160;Name=161;gbkey=Gene;gene=161;gene_biotype=protein_coding;locus_tag=HVTV1_161
+KC117377.1	Genbank	CDS	98799	98939	.	+	0	ID=cds159;Parent=gene160;Dbxref=NCBI_GP:AGC34530.1;Name=AGC34530.1;gbkey=CDS;gene=161;product=hypothetical protein;protein_id=AGC34530.1;transl_table=11
+KC117377.1	Genbank	gene	98936	99136	.	+	.	ID=gene161;Name=162;gbkey=Gene;gene=162;gene_biotype=protein_coding;locus_tag=HVTV1_162
+KC117377.1	Genbank	CDS	98936	99136	.	+	0	ID=cds160;Parent=gene161;Dbxref=NCBI_GP:AGC34531.1;Name=AGC34531.1;gbkey=CDS;gene=162;product=hypothetical protein;protein_id=AGC34531.1;transl_table=11
+KC117377.1	Genbank	gene	99133	99303	.	+	.	ID=gene162;Name=163;gbkey=Gene;gene=163;gene_biotype=protein_coding;locus_tag=HVTV1_163
+KC117377.1	Genbank	CDS	99133	99303	.	+	0	ID=cds161;Parent=gene162;Dbxref=NCBI_GP:AGC34532.1;Name=AGC34532.1;gbkey=CDS;gene=163;product=hypothetical protein;protein_id=AGC34532.1;transl_table=11
+KC117377.1	Genbank	gene	99300	99494	.	+	.	ID=gene163;Name=164;gbkey=Gene;gene=164;gene_biotype=protein_coding;locus_tag=HVTV1_164
+KC117377.1	Genbank	CDS	99300	99494	.	+	0	ID=cds162;Parent=gene163;Dbxref=NCBI_GP:AGC34533.1;Name=AGC34533.1;gbkey=CDS;gene=164;product=hypothetical protein;protein_id=AGC34533.1;transl_table=11
+KC117377.1	Genbank	gene	99487	99672	.	+	.	ID=gene164;Name=165;gbkey=Gene;gene=165;gene_biotype=protein_coding;locus_tag=HVTV1_165
+KC117377.1	Genbank	CDS	99487	99672	.	+	0	ID=cds163;Parent=gene164;Dbxref=NCBI_GP:AGC34534.1;Name=AGC34534.1;gbkey=CDS;gene=165;product=hypothetical protein;protein_id=AGC34534.1;transl_table=11
+KC117377.1	Genbank	gene	99669	99860	.	+	.	ID=gene165;Name=166;gbkey=Gene;gene=166;gene_biotype=protein_coding;locus_tag=HVTV1_166
+KC117377.1	Genbank	CDS	99669	99860	.	+	0	ID=cds164;Parent=gene165;Dbxref=NCBI_GP:AGC34535.1;Name=AGC34535.1;gbkey=CDS;gene=166;product=hypothetical protein;protein_id=AGC34535.1;transl_table=11
+KC117377.1	Genbank	gene	99853	100038	.	+	.	ID=gene166;Name=167;gbkey=Gene;gene=167;gene_biotype=protein_coding;locus_tag=HVTV1_167
+KC117377.1	Genbank	CDS	99853	100038	.	+	0	ID=cds165;Parent=gene166;Dbxref=NCBI_GP:AGC34536.1;Name=AGC34536.1;gbkey=CDS;gene=167;product=hypothetical protein;protein_id=AGC34536.1;transl_table=11
+KC117377.1	Genbank	gene	100031	100189	.	+	.	ID=gene167;Name=168;gbkey=Gene;gene=168;gene_biotype=protein_coding;locus_tag=HVTV1_168
+KC117377.1	Genbank	CDS	100031	100189	.	+	0	ID=cds166;Parent=gene167;Dbxref=NCBI_GP:AGC34537.1;Name=AGC34537.1;gbkey=CDS;gene=168;product=hypothetical protein;protein_id=AGC34537.1;transl_table=11
+KC117377.1	Genbank	gene	100247	100447	.	+	.	ID=gene168;Name=169;gbkey=Gene;gene=169;gene_biotype=protein_coding;locus_tag=HVTV1_169
+KC117377.1	Genbank	CDS	100247	100447	.	+	0	ID=cds167;Parent=gene168;Dbxref=NCBI_GP:AGC34538.1;Name=AGC34538.1;gbkey=CDS;gene=169;product=hypothetical protein;protein_id=AGC34538.1;transl_table=11
+KC117377.1	Genbank	gene	100444	100554	.	+	.	ID=gene169;Name=170;gbkey=Gene;gene=170;gene_biotype=protein_coding;locus_tag=HVTV1_170
+KC117377.1	Genbank	CDS	100444	100554	.	+	0	ID=cds168;Parent=gene169;Dbxref=NCBI_GP:AGC34539.1;Name=AGC34539.1;gbkey=CDS;gene=170;product=hypothetical protein;protein_id=AGC34539.1;transl_table=11
+KC117377.1	Genbank	gene	100551	100739	.	+	.	ID=gene170;Name=171;gbkey=Gene;gene=171;gene_biotype=protein_coding;locus_tag=HVTV1_171
+KC117377.1	Genbank	CDS	100551	100739	.	+	0	ID=cds169;Parent=gene170;Dbxref=NCBI_GP:AGC34540.1;Name=AGC34540.1;gbkey=CDS;gene=171;product=hypothetical protein;protein_id=AGC34540.1;transl_table=11
+KC117377.1	Genbank	gene	100743	100901	.	+	.	ID=gene171;Name=172;gbkey=Gene;gene=172;gene_biotype=protein_coding;locus_tag=HVTV1_172
+KC117377.1	Genbank	CDS	100743	100901	.	+	0	ID=cds170;Parent=gene171;Dbxref=NCBI_GP:AGC34545.1;Name=AGC34545.1;gbkey=CDS;gene=172;product=hypothetical protein;protein_id=AGC34545.1;transl_table=11
+KC117377.1	Genbank	gene	100906	101463	.	+	.	ID=gene172;Name=173;gbkey=Gene;gene=173;gene_biotype=protein_coding;locus_tag=HVTV1_173
+KC117377.1	Genbank	CDS	100906	101463	.	+	0	ID=cds171;Parent=gene172;Dbxref=NCBI_GP:AGC34541.1;Name=AGC34541.1;gbkey=CDS;gene=173;product=hypothetical protein;protein_id=AGC34541.1;transl_table=11
+KC117377.1	Genbank	gene	101578	101709	.	+	.	ID=gene173;Name=174;gbkey=Gene;gene=174;gene_biotype=protein_coding;locus_tag=HVTV1_174
+KC117377.1	Genbank	CDS	101578	101709	.	+	0	ID=cds172;Parent=gene173;Dbxref=NCBI_GP:AGC34542.1;Name=AGC34542.1;gbkey=CDS;gene=174;product=hypothetical protein;protein_id=AGC34542.1;transl_table=11
+

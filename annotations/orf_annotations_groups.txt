@@ -1,0 +1,53 @@
+orf_annotation	group
+hypothetical protein	Hypothetical protein
+Caudovirales tail fibre assembly protein	Structural protein
+Archaeal cpn60 chaperonin family (gene16, thermosome)	Chaperonin
+DnaQ-like 3'-5' exonuclease, gene18	Transcription, Replication, recombination and repair
+DNA replicative helicase, gene19	Transcription, Replication, recombination and repair
+ERCC4-type nuclease, gene20	Transcription, Replication, recombination and repair
+Primase AE_Prim_S, gene21	Transcription, Replication, recombination and repair
+Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24	CRISPR/Cas system-associated protein
+DNA polymerase family B	Transcription, Replication, recombination and repair
+DNA polymerase sliding clamp, gene27	Transcription, Replication, recombination and repair
+radB-like recombinase	Transcription, Replication, recombination and repair
+putative DNA-binding protein, gene29	DNA-binding protein
+Replication factor C small subunit, gene30	Transcription, Replication, recombination and repair
+putative thermostable DNA ligase	Transcription, Replication, recombination and repair
+SNF2 family helicase	Transcription, Replication, recombination and repair
+Ras-like GTPase	General function prediction
+DUF1804 Protein of unknown function (DUF1804)	DUF
+terminase	DNA packaging
+UvrD-like helicase/homing endonuclease	Transcription, Replication, recombination and repair
+phage portal protein	DNA packaging
+ATP-dependent DNA ligase	Transcription, Replication, recombination and repair
+phage prohead protease	Structural protein
+major capsid protein	Structural protein
+Protein of unknown function (DUF2486)	DUF
+3-hydroxy-3-methylglutaryl-CoA lyase, catalytic TIM barrel domain	Amino acid degradation
+SAP domain	DNA-binding protein
+Concanavalin A-like lectin/glucanases superfamily	host recognition
+GroupA: Archaeal cpn60 chaperonin family (gene16, thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)	Chaperonin
+Zn-ribbon domain protein	General function prediction
+SNF2 family helicase C-terminal domain	Transcription, Replication, recombination and repair
+SNF2 family helicase N-terminal domain	Transcription, Replication, recombination and repair
+Domain of unknown function (DUF1738)	DUF
+SAP domain protein	DNA-binding protein
+tail tube protein	Structural protein
+similar to herpesvirus large structural phosphoprotein UL32	DNA packaging
+Acetyltransferase (GNAT) family	General function prediction
+protein-tyrosine-phosphatase	General function prediction
+hypothetical protein DUF932	DUF
+hypothetical protein DUF3486	DUF
+TIM_phosphate_binding superfamily protein	General function prediction
+phage tape measure protein	DNA packaging
+SAP domain, putative DNA-binding	DNA-binding protein
+tail tube	DNA ejection
+GTPase SAR1 family domain	General function prediction
+Putative phage tail protein	Structural protein
+Domain of unknown function (DUF932) DUF
+HD domain	General function prediction
+AdoMet_MTase	General function prediction
+Protein-tyrosine phosphatase	General function prediction
+PEP-utilizing enzyme, mobile domain	General function prediction
+Domain of unknown function (DUF3846)	DUF
+Phage tail assembly chaperone protein	Structural protein

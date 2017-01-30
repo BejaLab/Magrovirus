@@ -1,0 +1,22 @@
+orf_name,start,end,Unnamed: 5,orf_annotation,conserved_proteins,col,gene_type,cex,lty,lwd,pch,chr
+gene_1_786803042,1,8796,+,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_2_786803042,8793,9155,+,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_3_786803042,9157,11535,+,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_4_786803042,11836,12003,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_5_786803042,12173,12328,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_6_786803042,12328,12927,-,"DnaQ-like 3'-5' exonuclease, gene18","DnaQ-like 3'-5' exonuclease, gene18",whitesmoke,arrows,1,1,1,8,786803042
+gene_7_786803042,12928,13155,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_8_786803042,13152,14711,-,"DNA replicative helicase, gene19","DNA replicative helicase, gene19",whitesmoke,arrows,1,1,1,8,786803042
+gene_9_786803042,14708,15403,-,"ERCC4-type nuclease, gene20","ERCC4-type nuclease, gene20",whitesmoke,arrows,1,1,1,8,786803042
+gene_10_786803042,15400,15501,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_11_786803042,15502,16584,-,"Primase AE_Prim_S, gene21","Primase AE_Prim_S, gene21",whitesmoke,arrows,1,1,1,8,786803042
+gene_12_786803042,16571,16717,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_13_786803042,16714,16869,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_14_786803042,16871,17335,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_15_786803042,17325,17492,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_16_786803042,17494,18339,-,"Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24","Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24",whitesmoke,arrows,1,1,1,8,786803042
+gene_17_786803042,18339,19265,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,786803042
+gene_18_786803042,19530,19655,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_19_786803042,19652,21307,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,786803042
+gene_20_786803042,21304,21423,-,hypothetical protein,,Gray,arrows,1,1,1,8,786803042
+gene_21_786803042,21420,22544,-,T5orf172 domain,,whitesmoke,arrows,1,1,1,8,786803042

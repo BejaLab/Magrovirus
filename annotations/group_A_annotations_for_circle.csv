@@ -1,0 +1,777 @@
+chr	orf_name	start	end	length	strand	orf_annotation	conserved_proteins
+contig_156409	gene_1_contig_156409	132	1769	545_aa	+	hypothetical protein	
+contig_156409	gene_2_contig_156409	1769	2116	115_aa	+	hypothetical protein	
+contig_156409	gene_3_contig_156409	2402	4477	691_aa	+	hypothetical protein	
+contig_156409	gene_4_contig_156409	4487	7084	865_aa	+	hypothetical protein	
+contig_156409	gene_5_contig_156409	7120	9267	715_aa	+	hypothetical protein	
+contig_156409	gene_6_contig_156409	9251	11821	856_aa	+	hypothetical protein	
+contig_156409	gene_7_contig_156409	11818	14754	978_aa	+	hypothetical protein	
+contig_156409	gene_8_contig_156409	14764	15090	108_aa	+	Caudovirales tail fibre assembly protein	
+contig_156409	gene_9_contig_156409	15092	15397	101_aa	+	hypothetical protein	
+contig_156409	gene_10_contig_156409	15566	16597	343_aa	+	hypothetical protein	
+contig_156409	gene_11_contig_156409	16590	16781	63_aa	+	hypothetical protein	
+contig_156409	gene_12_contig_156409	16782	16937	51_aa	-	hypothetical protein	
+contig_156409	gene_13_contig_156409	17274	17573	99_aa	-	hypothetical protein	
+contig_156409	gene_14_contig_156409	17785	17925	46_aa	-	hypothetical protein	
+contig_156409	gene_15_contig_156409	17973	18293	106_aa	-	hypothetical protein	
+contig_156409	gene_16_contig_156409	18638	20158	506_aa	-	Archaeal cpn60 chaperonin family (gene16	 thermosome)	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)
+contig_156409	gene_17_contig_156409	20151	20276	41_aa	-	hypothetical protein	
+contig_156409	gene_18_contig_156409	20273	20866	197_aa	-	DnaQ-like 3'-5' exonuclease	 gene18	DnaQ-like 3'-5' exonuclease	 gene18
+contig_156409	gene_19_contig_156409	20863	22320	485_aa	-	DNA replicative helicase	 â€œgene19â€ù	DNA replicative helicase	 â€œgene19â€ù
+contig_156409	gene_20_contig_156409	22387	23082	231_aa	-	ERCC4-type nuclease	 â€œgene20â€ù	ERCC4-type nuclease	 â€œgene20â€ù
+contig_156409	gene_21_contig_156409	23079	24149	356_aa	-	Primase AE_Prim_S	 â€œgene21â€ù	Primase AE_Prim_S	 â€œgene21â€ù
+contig_156409	gene_22_contig_156409	24136	24396	86_aa	-	hypothetical protein	
+contig_156409	gene_23_contig_156409	24396	24524	42_aa	-	hypothetical protein	
+contig_156409	gene_24_contig_156409	24521	25444	307_aa	-	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù
+contig_156409	gene_25_contig_156409	25441	25824	127_aa	-	hypothetical protein	
+contig_156409	gene_26_contig_156409	25815	28169	784_aa	-	DNA polymerase family B	DNA polymerase family B
+contig_156409	gene_27_contig_156409	28283	29029	248_aa	-	DNA polymerase sliding clamp	 gene27	DNA polymerase sliding clamp	 gene27
+contig_156409	gene_28_contig_156409	29231	30229	332_aa	-	radB-like recombinase	radB-like recombinase
+contig_156409	gene_29_contig_156409	30226	31539	437_aa	-	putative DNA-binding protein	 gene29	putative DNA-binding protein	 gene29
+contig_156409	gene_30_contig_156409	31544	32410	288_aa	-	Replication factor C small subunit	 â€œgene30â€ù	Replication factor C small subunit	 â€œgene30â€ù
+contig_156409	gene_31_contig_156409	32480	32842	120_aa	-	hypothetical protein	
+contig_156409	gene_32_contig_156409	32820	34160	446_aa	-	putative thermostable DNA ligase	putative thermostable DNA ligase
+contig_156409	gene_33_contig_156409	34183	34665	160_aa	-	hypothetical protein	
+contig_156409	gene_34_contig_156409	34662	35351	229_aa	-	hypothetical protein	
+contig_156409	gene_35_contig_156409	35638	35940	100_aa	-	hypothetical protein	
+contig_156409	gene_36_contig_156409	35937	36308	123_aa	-	hypothetical protein	
+contig_156409	gene_37_contig_156409	36305	38251	648_aa	-	SNF2 family helicase	
+contig_156409	gene_38_contig_156409	38525	38896	123_aa	-	hypothetical protein	
+contig_156409	gene_39_contig_156409	38893	39381	162_aa	-	hypothetical protein	
+contig_156409	gene_40_contig_156409	39501	41189	562_aa	-	hypothetical protein	
+contig_156409	gene_41_contig_156409	41468	42034	188_aa	-	hypothetical protein	
+contig_156409	gene_42_contig_156409	42031	42126	31_aa	-	hypothetical protein	
+contig_156409	gene_43_contig_156409	42270	42404	44_aa	-	hypothetical protein	
+contig_156409	gene_44_contig_156409	42401	42631	76_aa	-	hypothetical protein	
+contig_156409	gene_45_contig_156409	42628	42846	72_aa	-	hypothetical protein	
+contig_156409	gene_46_contig_156409	42843	43202	119_aa	-	hypothetical protein	
+contig_156409	gene_47_contig_156409	43199	43384	61_aa	-	hypothetical protein	
+contig_156409	gene_48_contig_156409	43381	43659	92_aa	-	hypothetical protein	
+contig_156409	gene_49_contig_156409	43656	43814	52_aa	-	hypothetical protein	
+contig_156409	gene_50_contig_156409	43875	44348	157_aa	-	hypothetical protein	
+contig_156409	gene_51_contig_156409	44432	44734	100_aa	-	hypothetical protein	
+contig_156409	gene_52_contig_156409	44916	45680	254_aa	-	hypothetical protein	
+contig_156409	gene_53_contig_156409	45677	45808	43_aa	-	hypothetical protein	
+contig_156409	gene_54_contig_156409	45805	47469	554_aa	-	hypothetical protein	
+contig_156409	gene_55_contig_156409	47622	47897	91_aa	-	hypothetical protein	
+contig_156409	gene_56_contig_156409	47898	48518	206_aa	-	hypothetical protein	
+contig_156409	gene_57_contig_156409	48515	52021	1168_aa	-	hypothetical protein	
+contig_156409	gene_58_contig_156409	52018	52440	140_aa	-	hypothetical protein	
+contig_156409	gene_59_contig_156409	52424	54349	641_aa	-	hypothetical protein	
+contig_156409	gene_60_contig_156409	54349	54600	83_aa	-	hypothetical protein	
+contig_156409	gene_61_contig_156409	54657	55157	166_aa	-	hypothetical protein	
+contig_156409	gene_62_contig_156409	55193	55360	55_aa	-	hypothetical protein	
+contig_156409	gene_63_contig_156409	55357	55560	67_aa	-	hypothetical protein	
+contig_156409	gene_64_contig_156409	55557	56009	150_aa	-	hypothetical protein	
+contig_156409	gene_65_contig_156409	56424	57137	237_aa	-	hypothetical protein	
+contig_156409	gene_66_contig_156409	57365	57718	117_aa	+	hypothetical protein	
+contig_156409	gene_67_contig_156409	57818	58474	218_aa	+	hypothetical protein	
+contig_156409	gene_68_contig_156409	58476	66617	2713_aa	+	hypothetical protein	
+contig_156409	gene_69_contig_156409	66745	67293	182_aa	+	hypothetical protein	
+contig_156409	gene_70_contig_156409	67296	67541	81_aa	+	hypothetical protein	
+contig_156409	gene_71_contig_156409	67550	68269	239_aa	+	Ras-like GTPase	
+contig_156409	gene_72_contig_156409	68397	69269	290_aa	+	hypothetical protein	
+contig_156409	gene_73_contig_156409	69266	69898	210_aa	+	hypothetical protein	
+contig_156409	gene_74_contig_156409	69898	70140	80_aa	+	hypothetical protein	
+contig_156409	gene_75_contig_156409	70476	71099	207_aa	+	DUF1804 Protein of unknown function (DUF1804) ??	DUF1804 Protein of unknown function (DUF1804) ??
+contig_156409	gene_76_contig_156409	71107	71529	140_aa	+	hypothetical protein	
+contig_156409	gene_77_contig_156409	71519	72808	429_aa	+	hypothetical protein	
+contig_156409	gene_78_contig_156409	72808	74565	585_aa	+	hypothetical protein	
+contig_156409	gene_79_contig_156409	74568	77198	876_aa	+	hypothetical protein	
+contig_156409	gene_80_contig_156409	77201	78601	466_aa	+	terminase	terminase
+contig_156409	gene_81_contig_156409	78881	80284	467_aa	+	UvrD-like helicase/homing endonuclease	UvrD-like helicase/homing endonuclease
+contig_156409	gene_82_contig_156409	80284	82125	613_aa	+	phage portal protein	phage portal protein
+contig_156409	gene_83_contig_156409	82157	82510	117_aa	+	hypothetical protein	
+contig_156409	gene_84_contig_156409	82510	82872	120_aa	+	hypothetical protein	
+contig_156409	gene_85_contig_156409	82878	83573	231_aa	+	hypothetical protein	
+contig_156409	gene_86_contig_156409	83587	89919	2110_aa	+	ATP-dependent DNA ligase	ATP-dependent DNA ligase
+contig_156409	gene_87_contig_156409	89952	91373	473_aa	+	phage prohead protease	phage prohead protease
+contig_156409	gene_88_contig_156409	91376	92521	381_aa	+	major capsid protein	major capsid protein
+contig_156409	gene_89_contig_156409	92553	92981	142_aa	+	hypothetical protein	
+contig_156409	gene_90_contig_156409	92999	93337	112_aa	+	hypothetical protein	
+contig_156409	gene_91_contig_156409	93340	93579	79_aa	+	hypothetical protein	
+contig_156409	gene_92_contig_156409	93597	93770	57_aa	+	hypothetical protein	
+contig_156409	gene_93_contig_156409	94380	94790	136_aa	+	hypothetical protein	
+contig_156409	gene_94_contig_156409	94790	96403	537_aa	+	hypothetical protein	
+contig_156409	gene_95_contig_156409	96396	96629	77_aa	+	hypothetical protein	
+contig_156409	gene_96_contig_156409	96622	97062	146_aa	+	hypothetical protein	
+contig_156409	gene_97_contig_156409	97264	99447	727_aa	+	hypothetical protein	
+contig_156409	gene_98_contig_156409	99457	99903	148_aa	+	hypothetical protein	
+contig_156409	gene_99_contig_156409	99881	100243	120_aa	+	hypothetical protein	
+contig_156409	gene_100_contig_156409	100399	100527	42_aa	+	hypothetical protein	
+contig_156409	gene_101_contig_156409	100530	101678	382_aa	+	hypothetical protein	
+contig_156409	gene_102_contig_156409	101675	102916	413_aa	+	hypothetical protein	
+contig_156409	gene_103_contig_156409	102919	118047	5043_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_1_SAMEA2621061_122	2	640	213_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_2_SAMEA2621061_122	1325	1489	54_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_3_SAMEA2621061_122	1489	1641	50_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_4_SAMEA2621061_122	1672	1872	66_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_5_SAMEA2621061_122	1869	2081	70_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_6_SAMEA2621061_122	2063	2371	102_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_7_SAMEA2621061_122	2371	3024	217_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_8_SAMEA2621061_122	3024	5681	885_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_9_SAMEA2621061_122	5730	6344	204_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_10_SAMEA2621061_122	6346	8370	674_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_11_SAMEA2621061_122	8476	9096	206_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_12_SAMEA2621061_122	9110	9367	85_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_13_SAMEA2621061_122	9368	10090	240_aa	+	Ras-like GTPase	
+SAMEA2621061_122	gene_14_SAMEA2621061_122	10131	10322	63_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_15_SAMEA2621061_122	10323	11285	320_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_16_SAMEA2621061_122	11291	11977	228_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_17_SAMEA2621061_122	12195	12479	94_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_18_SAMEA2621061_122	12513	13226	237_aa	+	DUF1804 Protein of unknown function (DUF1804) ??	DUF1804 Protein of unknown function (DUF1804) ??
+SAMEA2621061_122	gene_19_SAMEA2621061_122	13226	13621	131_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_20_SAMEA2621061_122	13621	15258	545_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_21_SAMEA2621061_122	15255	17585	776_aa	+	Protein of unknown function (DUF2486)	
+SAMEA2621061_122	gene_22_SAMEA2621061_122	17585	18889	434_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_23_SAMEA2621061_122	18889	20370	493_aa	+	terminase	terminase
+SAMEA2621061_122	gene_24_SAMEA2621061_122	20367	21083	238_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_25_SAMEA2621061_122	21076	21987	303_aa	+	3-hydroxy-3-methylglutaryl-CoA lyase	 catalytic TIM barrel domain	
+SAMEA2621061_122	gene_26_SAMEA2621061_122	22012	23244	410_aa	+	UvrD-like helicase/homing endonuclease	UvrD-like helicase/homing endonuclease
+SAMEA2621061_122	gene_27_SAMEA2621061_122	23244	25028	594_aa	+	phage portal protein	phage portal protein
+SAMEA2621061_122	gene_28_SAMEA2621061_122	25074	25424	116_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_29_SAMEA2621061_122	25435	25785	116_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_30_SAMEA2621061_122	25782	26231	149_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_31_SAMEA2621061_122	26231	31933	1900_aa	+	ATP-dependent DNA ligase	ATP-dependent DNA ligase
+SAMEA2621061_122	gene_32_SAMEA2621061_122	31977	33362	461_aa	+	phage prohead protease	phage prohead protease
+SAMEA2621061_122	gene_33_SAMEA2621061_122	33398	34564	388_aa	+	major capsid protein	major capsid protein
+SAMEA2621061_122	gene_34_SAMEA2621061_122	34605	34946	113_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_35_SAMEA2621061_122	34957	35340	127_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_36_SAMEA2621061_122	35340	35585	81_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_37_SAMEA2621061_122	35791	36090	99_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_38_SAMEA2621061_122	36095	36577	160_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_39_SAMEA2621061_122	36587	36706	39_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_40_SAMEA2621061_122	36706	38277	523_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_41_SAMEA2621061_122	38283	38624	113_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_42_SAMEA2621061_122	38630	39076	148_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_43_SAMEA2621061_122	39078	41408	776_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_44_SAMEA2621061_122	41418	42032	204_aa	+	SAP domain	
+SAMEA2621061_122	gene_45_SAMEA2621061_122	42019	42360	113_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_46_SAMEA2621061_122	42357	42632	91_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_47_SAMEA2621061_122	42632	43957	441_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_48_SAMEA2621061_122	43959	45185	408_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_49_SAMEA2621061_122	45195	63923	6242_aa	+	Concanavalin A-like lectin/glucanases superfamily	
+SAMEA2621061_122	gene_50_SAMEA2621061_122	63923	65338	471_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_51_SAMEA2621061_122	65340	65687	115_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_52_SAMEA2621061_122	65684	67972	762_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_53_SAMEA2621061_122	67978	68616	212_aa	+	hypothetical protein	
+SAMEA2621061_122	gene_54_SAMEA2621061_122	68773	70275	500_aa	-	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)
+SAMEA2621061_122	gene_55_SAMEA2621061_122	70269	70865	198_aa	-	DnaQ-like 3'-5' exonuclease	 gene18	DnaQ-like 3'-5' exonuclease	 gene18
+SAMEA2621061_122	gene_56_SAMEA2621061_122	70880	70990	36_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_57_SAMEA2621061_122	70977	71276	99_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_58_SAMEA2621061_122	71273	72679	468_aa	-	DNA replicative helicase	 â€œgene19â€ù	DNA replicative helicase	 â€œgene19â€ù
+SAMEA2621061_122	gene_59_SAMEA2621061_122	72718	72948	76_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_60_SAMEA2621061_122	73097	73798	233_aa	-	ERCC4-type nuclease	 â€œgene20â€ù	ERCC4-type nuclease	 â€œgene20â€ù
+SAMEA2621061_122	gene_61_SAMEA2621061_122	73785	74183	132_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_62_SAMEA2621061_122	74176	75288	370_aa	-	Primase AE_Prim_S	 â€œgene21â€ù	Primase AE_Prim_S	 â€œgene21â€ù
+SAMEA2621061_122	gene_63_SAMEA2621061_122	75290	75589	99_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_64_SAMEA2621061_122	75582	76574	330_aa	-	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù
+SAMEA2621061_122	gene_65_SAMEA2621061_122	76571	76930	119_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_66_SAMEA2621061_122	77158	79629	823_aa	-	DNA polymerase family B	DNA polymerase family B
+SAMEA2621061_122	gene_67_SAMEA2621061_122	79634	80392	252_aa	-	DNA polymerase sliding clamp	 gene27	DNA polymerase sliding clamp	 gene27
+SAMEA2621061_122	gene_68_SAMEA2621061_122	80398	80529	43_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_69_SAMEA2621061_122	80526	81524	332_aa	-	radB-like recombinase	radB-like recombinase
+SAMEA2621061_122	gene_70_SAMEA2621061_122	81534	82898	454_aa	-	putative DNA-binding protein	 gene29	putative DNA-binding protein	 gene29
+SAMEA2621061_122	gene_71_SAMEA2621061_122	82891	83844	317_aa	-	Replication factor C small subunit	 â€œgene30â€ù	Replication factor C small subunit	 â€œgene30â€ù
+SAMEA2621061_122	gene_72_SAMEA2621061_122	83874	84296	140_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_73_SAMEA2621061_122	84283	85560	425_aa	-	putative thermostable DNA ligase	putative thermostable DNA ligase
+SAMEA2621061_122	gene_74_SAMEA2621061_122	85557	85895	112_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_75_SAMEA2621061_122	85892	86347	151_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_76_SAMEA2621061_122	86344	86475	43_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_77_SAMEA2621061_122	86582	87172	196_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_78_SAMEA2621061_122	87202	87666	154_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_79_SAMEA2621061_122	87672	88076	134_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_80_SAMEA2621061_122	88076	88510	144_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_81_SAMEA2621061_122	88495	88758	87_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_82_SAMEA2621061_122	88734	89042	102_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_83_SAMEA2621061_122	89349	89894	181_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_84_SAMEA2621061_122	89902	90141	79_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_85_SAMEA2621061_122	90134	90328	64_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_86_SAMEA2621061_122	90584	90856	90_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_87_SAMEA2621061_122	90853	91098	81_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_88_SAMEA2621061_122	91101	91841	246_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_89_SAMEA2621061_122	91832	92167	111_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_90_SAMEA2621061_122	92170	93813	547_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_91_SAMEA2621061_122	93810	94469	219_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_92_SAMEA2621061_122	94537	94854	105_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_93_SAMEA2621061_122	94891	95514	207_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_94_SAMEA2621061_122	95511	95933	140_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_95_SAMEA2621061_122	95979	97169	396_aa	-	Zn-ribbon domain protein	
+SAMEA2621061_122	gene_96_SAMEA2621061_122	97166	99709	847_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_97_SAMEA2621061_122	99766	100128	120_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_98_SAMEA2621061_122	100133	100468	111_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_99_SAMEA2621061_122	100465	100890	141_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_100_SAMEA2621061_122	101077	101343	88_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_101_SAMEA2621061_122	101340	101480	46_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_102_SAMEA2621061_122	101477	102067	196_aa	-	SNF2 family helicase C-terminal domain	
+SAMEA2621061_122	gene_103_SAMEA2621061_122	102101	103918	605_aa	-	SNF2 family helicase N-terminal domain	
+SAMEA2621061_122	gene_104_SAMEA2621061_122	103956	104909	317_aa	-	Domain of unknown function (DUF1738)	
+SAMEA2621061_122	gene_105_SAMEA2621061_122	104911	105276	121_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_106_SAMEA2621061_122	105279	105587	102_aa	-	hypothetical protein	
+SAMEA2621061_122	gene_107_SAMEA2621061_122	105590	105865	91_aa	-	hypothetical protein	
+contig_154566	gene_1_contig_154566	1..12393	102573..102800	5206_aa	-	 hypothetical protein	
+contig_154566	gene_2_contig_154566	12371	13465	364_aa	-	Concanavalin A-like lectin/glucanases superfamily	
+contig_154566	gene_3_contig_154566	13557	14768	403_aa	-	 hypothetical protein	
+contig_154566	gene_4_contig_154566	14771	15643	290_aa	-	 hypothetical protein	
+contig_154566	gene_5_contig_154566	15643	15855	70_aa	-	 hypothetical protein	
+contig_154566	gene_6_contig_154566	15921	16286	121_aa	-	 hypothetical protein	
+contig_154566	gene_7_contig_154566	16246	16836	196_aa	-	SAP domain protein	
+contig_154566	gene_8_contig_154566	16847	19081	744_aa	-	tail tube protein	
+contig_154566	gene_9_contig_154566	19096	19545	149_aa	-	 hypothetical protein	
+contig_154566	gene_10_contig_154566	19545	19883	112_aa	-	 hypothetical protein	
+contig_154566	gene_11_contig_154566	19880	21562	560_aa	-	 hypothetical protein	
+contig_154566	gene_12_contig_154566	21562	21861	99_aa	-	 hypothetical protein	
+contig_154566	gene_13_contig_154566	21877	22071	64_aa	-	 hypothetical protein	
+contig_154566	gene_14_contig_154566	22085	22366	93_aa	-	 hypothetical protein	
+contig_154566	gene_15_contig_154566	22371	22805	144_aa	-	 hypothetical protein	
+contig_154566	gene_16_contig_154566	22817	23284	155_aa	-	 hypothetical protein	
+contig_154566	gene_17_contig_154566	23323	24456	377_aa	-	major capsid protein	major capsid protein
+contig_154566	gene_18_contig_154566	24459	25847	462_aa	-	phage prohead protease	phage prohead protease
+contig_154566	gene_19_contig_154566	25909	31461	1850_aa	-	ATP-dependent DNA ligase	ATP-dependent DNA ligase
+contig_154566	gene_20_contig_154566	31472	31822	116_aa	-	 hypothetical protein	
+contig_154566	gene_21_contig_154566	31822	32175	117_aa	-	 hypothetical protein	
+contig_154566	gene_22_contig_154566	32185	32535	116_aa	-	 hypothetical protein	
+contig_154566	gene_23_contig_154566	32577	34319	580_aa	-	phage portal protein	phage portal protein
+contig_154566	gene_24_contig_154566	34309	35430	373_aa	-	UvrD-like helicase/homing endonuclease	UvrD-like helicase/homing endonuclease
+contig_154566	gene_25_contig_154566	35538	37019	493_aa	-	terminase	terminase
+contig_154566	gene_26_contig_154566	37016	37897	293_aa	-	 hypothetical protein	
+contig_154566	gene_27_contig_154566	37894	40089	731_aa	-	 hypothetical protein	
+contig_154566	gene_28_contig_154566	40086	41408	440_aa	-	 hypothetical protein	
+contig_154566	gene_29_contig_154566	41405	41842	145_aa	-	 hypothetical protein	
+contig_154566	gene_30_contig_154566	41835	42494	219_aa	-	DUF1804 Protein of unknown function (DUF1804) ??	DUF1804 Protein of unknown function (DUF1804) ??
+contig_154566	gene_31_contig_154566	42561	42827	88_aa	-	 hypothetical protein	
+contig_154566	gene_32_contig_154566	42833	43453	206_aa	-	 hypothetical protein	
+contig_154566	gene_33_contig_154566	43450	44412	320_aa	-	 hypothetical protein	
+contig_154566	gene_34_contig_154566	44693	45406	237_aa	-	 hypothetical protein	
+contig_154566	gene_35_contig_154566	45416	45673	85_aa	-	 hypothetical protein	
+contig_154566	gene_36_contig_154566	45673	46365	230_aa	-	similar to herpesvirus large structural phosphoprotein UL32	
+contig_154566	gene_37_contig_154566	46349	47575	408_aa	-	 hypothetical protein	
+contig_154566	gene_38_contig_154566	47682	48047	121_aa	-	 hypothetical protein	
+contig_154566	gene_39_contig_154566	48368	48586	72_aa	-	 hypothetical protein	
+contig_154566	gene_40_contig_154566	48586	49365	259_aa	-	 hypothetical protein	
+contig_154566	gene_41_contig_154566	49378	49896	172_aa	-	 hypothetical protein	
+contig_154566	gene_42_contig_154566	49898	50410	170_aa	-	 hypothetical protein	
+contig_154566	gene_43_contig_154566	50723	51064	113_aa	+	 hypothetical protein	
+contig_154566	gene_44_contig_154566	51061	51249	62_aa	-	 hypothetical protein	
+contig_154566	gene_45_contig_154566	51709	52206	165_aa	-	 hypothetical protein	
+contig_154566	gene_46_contig_154566	52203	52703	166_aa	-	 hypothetical protein	
+contig_154566	gene_47_contig_154566	52700	53059	119_aa	-	 hypothetical protein	
+contig_154566	gene_48_contig_154566	53275	53655	126_aa	-	Acetyltransferase (GNAT) family	
+contig_154566	gene_49_contig_154566	54118	54858	246_aa	+	 hypothetical protein	
+contig_154566	gene_50_contig_154566	55449	56315	288_aa	+	 hypothetical protein	
+contig_154566	gene_51_contig_154566	56316	58709	797_aa	+	 hypothetical protein	
+contig_154566	gene_52_contig_154566	58706	59815	369_aa	+	 hypothetical protein	
+contig_154566	gene_53_contig_154566	59812	60300	162_aa	+	 hypothetical protein	
+contig_154566	gene_54_contig_154566	60297	60560	87_aa	+	 hypothetical protein	
+contig_154566	gene_55_contig_154566	60557	61099	180_aa	+	protein-tyrosine-phosphatase	
+contig_154566	gene_56_contig_154566	61205	63175	656_aa	+	SNF2 family helicase	
+contig_154566	gene_57_contig_154566	63175	64383	402_aa	+	 hypothetical protein DUF932	
+contig_154566	gene_58_contig_154566	64571	65029	152_aa	+	 hypothetical protein DUF3486	
+contig_154566	gene_59_contig_154566	65026	65589	187_aa	+	 hypothetical protein	
+contig_154566	gene_60_contig_154566	65586	65789	67_aa	+	 hypothetical protein	
+contig_154566	gene_61_contig_154566	65786	65992	68_aa	+	 hypothetical protein	
+contig_154566	gene_62_contig_154566	65989	66282	97_aa	+	 hypothetical protein	
+contig_154566	gene_63_contig_154566	66279	66779	166_aa	+	 hypothetical protein	
+contig_154566	gene_64_contig_154566	66776	67153	125_aa	+	 hypothetical protein	
+contig_154566	gene_65_contig_154566	67258	67893	211_aa	+	 hypothetical protein	
+contig_154566	gene_66_contig_154566	67890	68474	194_aa	+	 hypothetical protein	
+contig_154566	gene_67_contig_154566	68597	68917	106_aa	+	 hypothetical protein	
+contig_154566	gene_68_contig_154566	68910	69632	240_aa	+	 hypothetical protein	
+contig_154566	gene_69_contig_154566	69638	69916	92_aa	+	 hypothetical protein	
+contig_154566	gene_70_contig_154566	70005	70244	79_aa	+	 hypothetical protein	
+contig_154566	gene_71_contig_154566	70525	70872	115_aa	+	 hypothetical protein	
+contig_154566	gene_72_contig_154566	70869	71189	106_aa	+	 hypothetical protein	
+contig_154566	gene_73_contig_154566	71192	71329	45_aa	+	 hypothetical protein	
+contig_154566	gene_74_contig_154566	71326	71481	51_aa	+	 hypothetical protein	
+contig_154566	gene_75_contig_154566	71478	71819	113_aa	+	 hypothetical protein	
+contig_154566	gene_76_contig_154566	71819	72193	124_aa	+	 hypothetical protein	
+contig_154566	gene_77_contig_154566	72190	73593	467_aa	+	putative thermostable DNA ligase	putative thermostable DNA ligase
+contig_154566	gene_78_contig_154566	73598	73999	133_aa	+	 hypothetical protein	
+contig_154566	gene_79_contig_154566	74018	74977	319_aa	+	Replication factor C small subunit	 â€œgene30â€ù	Replication factor C small subunit	 â€œgene30â€ù
+contig_154566	gene_80_contig_154566	74974	75099	41_aa	+	 hypothetical protein	
+contig_154566	gene_81_contig_154566	75092	76426	444_aa	+	putative DNA-binding protein	 gene29	putative DNA-binding protein	 gene29
+contig_154566	gene_82_contig_154566	76432	76698	88_aa	+	 hypothetical protein	
+contig_154566	gene_83_contig_154566	76702	77715	337_aa	+	radB-like recombinase	radB-like recombinase
+contig_154566	gene_84_contig_154566	77717	78466	249_aa	+	DNA polymerase sliding clamp	 gene27	DNA polymerase sliding clamp	 gene27
+contig_154566	gene_85_contig_154566	78466	80844	792_aa	+	DNA polymerase family B	DNA polymerase family B
+contig_154566	gene_86_contig_154566	80844	80975	43_aa	+	 hypothetical protein	
+contig_154566	gene_87_contig_154566	80972	81160	62_aa	+	 hypothetical protein	
+contig_154566	gene_88_contig_154566	81157	81318	53_aa	+	 hypothetical protein	
+contig_154566	gene_89_contig_154566	81561	82526	321_aa	+	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù
+contig_154566	gene_90_contig_154566	82523	82855	110_aa	+	 hypothetical protein	
+contig_154566	gene_91_contig_154566	82857	83192	111_aa	+	Primase AE_Prim_S	 â€œgene21â€ù	Primase AE_Prim_S	 â€œgene21â€ù
+contig_154566	gene_92_contig_154566	83234	83965	243_aa	+	Primase AE_Prim_S	 â€œgene21â€ù	Primase AE_Prim_S	 â€œgene21â€ù
+contig_154566	gene_93_contig_154566	84211	84900	229_aa	+	ERCC4-type nuclease	 â€œgene20â€ù	ERCC4-type nuclease	 â€œgene20â€ù
+contig_154566	gene_94_contig_154566	85189	86361	390_aa	+	DNA replicative helicase	 â€œgene19â€ù	DNA replicative helicase	 â€œgene19â€ù
+contig_154566	gene_95_contig_154566	86354	86971	205_aa	+	DnaQ-like 3'-5' exonuclease	 gene18	DnaQ-like 3'-5' exonuclease	 gene18
+contig_154566	gene_96_contig_154566	86968	88467	499_aa	+	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)
+contig_154566	gene_97_contig_154566	88703	88963	86_aa	+	 hypothetical protein	
+contig_154566	gene_98_contig_154566	89257	90108	283_aa	+	TIM_phosphate_binding superfamily protein	
+contig_154566	gene_99_contig_154566	90109	90678	189_aa	-	 hypothetical protein	
+contig_154566	gene_100_contig_154566	90680	91258	192_aa	-	 hypothetical protein	
+contig_154566	gene_101_contig_154566	91263	94295	1010_aa	-	 hypothetical protein	
+contig_154566	gene_102_contig_154566	94324	96495	723_aa	-	 hypothetical protein	
+contig_154566	gene_103_contig_154566	96497	97951	484_aa	-	 hypothetical protein	
+contig_154566	gene_104_contig_154566	97964	99010	348_aa	-	 hypothetical protein	
+contig_154566	gene_105_contig_154566	98958	100796	612_aa	-	 hypothetical protein	
+contig_154566	gene_106_contig_154566	100796	101140	114_aa	-	 hypothetical protein	
+contig_154566	gene_107_contig_154566	101140	102576	478_aa	-	 hypothetical protein	
+contig_154566	gene_108_contig_154566	102573	105899	1108_aa	-		
+contig_155688	gene_1_contig_155688	841	1134	97_aa	+	 hypothetical protein	
+contig_155688	gene_2_contig_155688	1259	3811	850_aa	+	SNF2 family helicase	
+contig_155688	gene_3_contig_155688	3861	6272	803_aa	+	 hypothetical protein	
+contig_155688	gene_4_contig_155688	6269	7534	421_aa	+	 hypothetical protein	
+contig_155688	gene_5_contig_155688	7569	8852	427_aa	+	 hypothetical protein	
+contig_155688	gene_6_contig_155688	8845	9168	107_aa	+	 hypothetical protein	
+contig_155688	gene_7_contig_155688	9165	9389	74_aa	+	 hypothetical protein	
+contig_155688	gene_8_contig_155688	9373	9975	200_aa	+	 hypothetical protein	
+contig_155688	gene_9_contig_155688	9981	10193	70_aa	+	 hypothetical protein	
+contig_155688	gene_10_contig_155688	10186	10557	123_aa	+	 hypothetical protein	
+contig_155688	gene_11_contig_155688	10554	10895	113_aa	+	 hypothetical protein	
+contig_155688	gene_12_contig_155688	10877	11152	91_aa	+	 hypothetical protein	
+contig_155688	gene_13_contig_155688	11149	11487	112_aa	+	 hypothetical protein	
+contig_155688	gene_14_contig_155688	11484	11720	78_aa	+	 hypothetical protein	
+contig_155688	gene_15_contig_155688	11717	11947	76_aa	+	 hypothetical protein	
+contig_155688	gene_16_contig_155688	12068	12691	207_aa	+	 hypothetical protein	
+contig_155688	gene_17_contig_155688	12756	12965	69_aa	+	 hypothetical protein	
+contig_155688	gene_18_contig_155688	12962	13219	85_aa	+	 hypothetical protein	
+contig_155688	gene_19_contig_155688	13216	13698	160_aa	+	 hypothetical protein	
+contig_155688	gene_20_contig_155688	13698	14036	112_aa	+	 hypothetical protein	
+contig_155688	gene_21_contig_155688	14039	14242	67_aa	+	 hypothetical protein	
+contig_155688	gene_22_contig_155688	14239	14499	86_aa	+	 hypothetical protein	
+contig_155688	gene_23_contig_155688	14496	14672	58_aa	+	 hypothetical protein	
+contig_155688	gene_24_contig_155688	14875	15309	144_aa	+	 hypothetical protein	
+contig_155688	gene_25_contig_155688	15306	15425	39_aa	+	 hypothetical protein	
+contig_155688	gene_26_contig_155688	15738	15941	67_aa	+	 hypothetical protein	
+contig_155688	gene_27_contig_155688	16173	16496	107_aa	+	 hypothetical protein	
+contig_155688	gene_28_contig_155688	16493	16738	81_aa	+	 hypothetical protein	
+contig_155688	gene_29_contig_155688	16735	16887	50_aa	+	 hypothetical protein	
+contig_155688	gene_30_contig_155688	16887	17051	54_aa	+	 hypothetical protein	
+contig_155688	gene_31_contig_155688	17490	17600	36_aa	+	 hypothetical protein	
+contig_155688	gene_32_contig_155688	17605	17856	83_aa	+	 hypothetical protein	
+contig_155688	gene_33_contig_155688	17837	18250	137_aa	+	 hypothetical protein	
+contig_155688	gene_34_contig_155688	18294	18803	169_aa	+	 hypothetical protein	
+contig_155688	gene_35_contig_155688	18787	18966	59_aa	+	 hypothetical protein	
+contig_155688	gene_36_contig_155688	18969	19181	70_aa	+	 hypothetical protein	
+contig_155688	gene_37_contig_155688	19184	19438	84_aa	+	 hypothetical protein	
+contig_155688	gene_38_contig_155688	19450	19611	53_aa	+	 hypothetical protein	
+contig_155688	gene_39_contig_155688	19599	20645	348_aa	+	 hypothetical protein DUF932	
+contig_155688	gene_40_contig_155688	20660	20869	69_aa	+	 hypothetical protein	
+contig_155688	gene_41_contig_155688	20871	21656	261_aa	+	 hypothetical protein	
+contig_155688	gene_42_contig_155688	21653	21970	105_aa	+	 hypothetical protein	
+contig_155688	gene_43_contig_155688	22295	23500	401_aa	+	putative thermostable DNA ligase	putative thermostable DNA ligase
+contig_155688	gene_44_contig_155688	23481	23780	99_aa	+	 hypothetical protein	
+contig_155688	gene_45_contig_155688	23773	24150	125_aa	+	 hypothetical protein	
+contig_155688	gene_46_contig_155688	24147	24425	92_aa	+	 hypothetical protein	
+contig_155688	gene_47_contig_155688	24382	25392	336_aa	+	Replication factor C small subunit	 â€œgene30â€ù	Replication factor C small subunit	 â€œgene30â€ù
+contig_155688	gene_48_contig_155688	25389	26726	445_aa	+	putative DNA-binding protein	 gene29	putative DNA-binding protein	 gene29
+contig_155688	gene_49_contig_155688	26732	27688	318_aa	+	radB-like recombinase	radB-like recombinase
+contig_155688	gene_50_contig_155688	27830	28591	253_aa	+	DNA polymerase sliding clamp	 gene27	DNA polymerase sliding clamp	 gene27
+contig_155688	gene_51_contig_155688	28759	30990	743_aa	+	DNA polymerase family B	DNA polymerase family B
+contig_155688	gene_52_contig_155688	30980	31213	77_aa	+	 hypothetical protein	
+contig_155688	gene_53_contig_155688	31329	31523	64_aa	+	 hypothetical protein	
+contig_155688	gene_54_contig_155688	31520	31723	67_aa	+	 hypothetical protein	
+contig_155688	gene_55_contig_155688	31701	32726	341_aa	+	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù
+contig_155688	gene_56_contig_155688	32723	33025	100_aa	+	 hypothetical protein	
+contig_155688	gene_57_contig_155688	33030	34118	362_aa	+	Primase AE_Prim_S	 â€œgene21â€ù	Primase AE_Prim_S	 â€œgene21â€ù
+contig_155688	gene_58_contig_155688	34354	35055	233_aa	+	ERCC4-type nuclease	 â€œgene20â€ù	ERCC4-type nuclease	 â€œgene20â€ù
+contig_155688	gene_59_contig_155688	35092	36489	465_aa	+	DNA replicative helicase	 â€œgene19â€ù	DNA replicative helicase	 â€œgene19â€ù
+contig_155688	gene_60_contig_155688	36584	37249	221_aa	+	DnaQ-like 3'-5' exonuclease	 gene18	DnaQ-like 3'-5' exonuclease	 gene18
+contig_155688	gene_61_contig_155688	37246	38766	506_aa	+	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)
+contig_155688	gene_62_contig_155688	38994	41810	938_aa	-	 hypothetical protein	
+contig_155688	gene_63_contig_155688	41810	42127	105_aa	-	 hypothetical protein	
+contig_155688	gene_64_contig_155688	42145	43554	469_aa	-	 hypothetical protein	
+contig_155688	gene_65_contig_155688	43551	44114	187_aa	-	 hypothetical protein	
+contig_155688	gene_66_contig_155688	44124	44462	112_aa	-	 hypothetical protein	
+contig_155688	gene_67_contig_155688	44459	61177	5572_aa	-	 hypothetical protein	
+contig_155688	gene_68_contig_155688	61186	62382	398_aa	-	 hypothetical protein	
+contig_155688	gene_69_contig_155688	62379	63629	416_aa	-	 phage tape measure protein	
+contig_155688	gene_70_contig_155688	63638	63910	90_aa	-	 hypothetical protein	
+contig_155688	gene_71_contig_155688	63925	64200	91_aa	-	 hypothetical protein	
+contig_155688	gene_72_contig_155688	64235	64702	155_aa	-	SAP domain	 putative DNA-binding	
+contig_155688	gene_73_contig_155688	64775	66676	633_aa	-	tail tube	
+contig_155688	gene_74_contig_155688	66687	67136	149_aa	-	 hypothetical protein	
+contig_155688	gene_75_contig_155688	67141	67563	140_aa	-	 hypothetical protein	
+contig_155688	gene_76_contig_155688	67560	69149	529_aa	-	 hypothetical protein	
+contig_155688	gene_77_contig_155688	69163	69795	210_aa	-	 hypothetical protein	
+contig_155688	gene_78_contig_155688	69776	70030	84_aa	-	 hypothetical protein	
+contig_155688	gene_79_contig_155688	70076	70279	67_aa	-	 hypothetical protein	
+contig_155688	gene_80_contig_155688	70291	70521	76_aa	-	 hypothetical protein	
+contig_155688	gene_81_contig_155688	70521	70883	120_aa	-	 hypothetical protein	
+contig_155688	gene_82_contig_155688	70895	71377	160_aa	-	 hypothetical protein	
+contig_155688	gene_83_contig_155688	71407	72507	366_aa	-	major capsid protein	major capsid protein
+contig_155688	gene_84_contig_155688	72525	73904	459_aa	-	phage prohead protease	phage prohead protease
+contig_155688	gene_85_contig_155688	73943	79687	1914_aa	-	ATP-dependent DNA ligase	ATP-dependent DNA ligase
+contig_155688	gene_86_contig_155688	79701	80420	239_aa	-	 hypothetical protein	
+contig_155688	gene_87_contig_155688	80420	80758	112_aa	-	 hypothetical protein	
+contig_155688	gene_88_contig_155688	80764	81117	117_aa	-	 hypothetical protein	
+contig_155688	gene_89_contig_155688	81163	82944	593_aa	-	phage portal protein	phage portal protein
+contig_155688	gene_90_contig_155688	82944	84263	439_aa	-	UvrD-like helicase/homing endonuclease	UvrD-like helicase/homing endonuclease
+contig_155688	gene_91_contig_155688	84268	84672	134_aa	-	 hypothetical protein	
+contig_155688	gene_92_contig_155688	84669	84875	68_aa	-	 hypothetical protein	
+contig_155688	gene_93_contig_155688	84872	85030	52_aa	-	 hypothetical protein	
+contig_155688	gene_94_contig_155688	85221	86702	493_aa	-	terminase	terminase
+contig_155688	gene_95_contig_155688	86707	87717	336_aa	-	 hypothetical protein	
+contig_155688	gene_96_contig_155688	87722	89887	721_aa	-	 hypothetical protein	
+contig_155688	gene_97_contig_155688	89884	91770	628_aa	-	 hypothetical protein	
+contig_155688	gene_98_contig_155688	91770	92450	226_aa	-	DUF1804 Protein of unknown function (DUF1804) ??	DUF1804 Protein of unknown function (DUF1804) ??
+contig_155688	gene_99_contig_155688	92995	93612	205_aa	-	 hypothetical protein	
+contig_155688	gene_100_contig_155688	93618	94547	309_aa	-	 hypothetical protein	
+contig_155688	gene_101_contig_155688	94550	94714	54_aa	-	 hypothetical protein	
+contig_155688	gene_102_contig_155688	94723	95439	238_aa	-	GTPase SAR1 family domain	
+contig_155688	gene_103_contig_155688	95439	95693	84_aa	-	 hypothetical protein	
+contig_155688	gene_104_contig_155688	95705	96232	175_aa	-	 hypothetical protein	
+contig_155688	gene_105_contig_155688	96549	99557	1002_aa	-	 hypothetical protein	
+contig_155688	gene_106_contig_155688	99566	101260	564_aa	-	 hypothetical protein	
+contig_155688	gene_107_contig_155688	101312	101917	201_aa	+	 hypothetical protein	
+contig_155688	gene_108_contig_155688	101911	102669	252_aa	-	 hypothetical protein	
+contig_155688	gene_109_contig_155688	102674	102922	82_aa	-	 hypothetical protein	
+contig_155688	gene_110_contig_155688	103446	104390	314_aa	+	 hypothetical protein	
+contig_155688	gene_111_contig_155688	105324	105617	97_aa	+		
+contig_155688	gene_112_contig_155688	105742	108294	850_aa	+		
+contig_155688	gene_113_contig_155688	108344	110755	803_aa	+		
+contig_155688	gene_114_contig_155688	110752	112017	421_aa	+		
+contig_155688	gene_115_contig_155688	112052	113335	427_aa	+		
+contig_155688	gene_116_contig_155688	113328	113651	107_aa	+		
+contig_155688	gene_117_contig_155688	113648	113872	74_aa	+		
+contig_155688	gene_118_contig_155688	113856	114458	200_aa	+		
+contig_155688	gene_119_contig_155688	114464	114676	70_aa	+		
+contig_155688	gene_120_contig_155688	114669	115040	123_aa	+		
+contig_155688	gene_121_contig_155688	115037	115378	113_aa	+		
+contig_155688	gene_122_contig_155688	115360	115635	91_aa	+		
+contig_155688	gene_123_contig_155688	115632	115970	112_aa	+		
+contig_155688	gene_124_contig_155688	115967	116203	78_aa	+		
+contig_155688	gene_125_contig_155688	116200	116430	76_aa	+		
+contig_155688	gene_126_contig_155688	116551	117174	207_aa	+		
+contig_155688	gene_127_contig_155688	117239	117448	69_aa	+		
+contig_155688	gene_128_contig_155688	117445	117702	85_aa	+		
+contig_155688	gene_129_contig_155688	117699	118181	160_aa	+		
+contig_155688	gene_130_contig_155688	118181	118519	112_aa	+		
+contig_155688	gene_131_contig_155688	118522	118725	67_aa	+		
+contig_155688	gene_132_contig_155688	118722	118982	86_aa	+		
+contig_155688	gene_133_contig_155688	118979	119155	58_aa	+		
+contig_155688	gene_134_contig_155688	119358	119792	144_aa	+		
+contig_155688	gene_135_contig_155688	119789	119908	39_aa	+		
+contig_155688	gene_136_contig_155688	120221	120424	67_aa	+		
+contig_155688	gene_137_contig_155688	120656	120979	107_aa	+		
+contig_155688	gene_138_contig_155688	120976	121221	81_aa	+		
+contig_155688	gene_139_contig_155688	121218	121370	50_aa	+		
+contig_155688	gene_140_contig_155688	121370	121534	54_aa	+		
+contig_155688	gene_141_contig_155688	121973	122083	36_aa	+		
+contig_155688	gene_142_contig_155688	122088	122339	83_aa	+		
+contig_155688	gene_143_contig_155688	122320	122733	137_aa	+		
+contig_155688	gene_144_contig_155688	122777	123286	169_aa	+		
+contig_155688	gene_145_contig_155688	123270	123449	59_aa	+		
+contig_155688	gene_146_contig_155688	123452	123664	70_aa	+		
+contig_155688	gene_147_contig_155688	123667	123921	84_aa	+		
+contig_155688	gene_148_contig_155688	123933	124094	53_aa	+		
+contig_155688	gene_149_contig_155688	124082	125128	348_aa	+		
+contig_155688	gene_150_contig_155688	125143	125352	69_aa	+		
+contig_155688	gene_151_contig_155688	125354	125638	95_aa	+		
+SAMEA2619923_17	gene_1_SAMEA2619923_17	316	693	125_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_2_SAMEA2619923_17	674	1261	195_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_3_SAMEA2619923_17	1264	1521	85_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_4_SAMEA2619923_17	1556	1930	124_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_5_SAMEA2619923_17	1935	2471	178_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_6_SAMEA2619923_17	2461	2616	51_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_7_SAMEA2619923_17	2647	2970	107_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_8_SAMEA2619923_17	3000	3173	57_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_9_SAMEA2619923_17	3166	3429	87_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_10_SAMEA2619923_17	3422	4267	281_aa	+	TIM_phosphate_binding superfamily protein	
+SAMEA2619923_17	gene_11_SAMEA2619923_17	4505	5554	349_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_12_SAMEA2619923_17	5547	7379	610_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_13_SAMEA2619923_17	7523	8110	195_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_14_SAMEA2619923_17	8120	8368	82_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_15_SAMEA2619923_17	8368	9090	240_aa	+	Ras-like GTPase	
+SAMEA2619923_17	gene_16_SAMEA2619923_17	9149	10156	335_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_17_SAMEA2619923_17	10167	10856	229_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_18_SAMEA2619923_17	10858	11118	86_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_19_SAMEA2619923_17	11418	12149	243_aa	+	DUF1804 Protein of unknown function (DUF1804) ??	DUF1804 Protein of unknown function (DUF1804) ??
+SAMEA2619923_17	gene_20_SAMEA2619923_17	12151	13395	414_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_21_SAMEA2619923_17	13395	15359	654_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_22_SAMEA2619923_17	15352	16455	367_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_23_SAMEA2619923_17	16459	17949	496_aa	+	terminase	terminase
+SAMEA2619923_17	gene_24_SAMEA2619923_17	17962	19266	434_aa	+	UvrD-like helicase/homing endonuclease	UvrD-like helicase/homing endonuclease
+SAMEA2619923_17	gene_25_SAMEA2619923_17	19266	21014	582_aa	+	phage portal protein	phage portal protein
+SAMEA2619923_17	gene_26_SAMEA2619923_17	21051	21392	113_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_27_SAMEA2619923_17	21401	21751	116_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_28_SAMEA2619923_17	21753	22166	137_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_29_SAMEA2619923_17	22180	27885	1901_aa	+	ATP-dependent DNA ligase	ATP-dependent DNA ligase
+SAMEA2619923_17	gene_30_SAMEA2619923_17	27914	29293	459_aa	+	phage prohead protease	phage prohead protease
+SAMEA2619923_17	gene_31_SAMEA2619923_17	29330	30514	394_aa	+	major capsid protein	major capsid protein
+SAMEA2619923_17	gene_32_SAMEA2619923_17	30552	30995	147_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_33_SAMEA2619923_17	31037	31411	124_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_34_SAMEA2619923_17	31414	31941	175_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_35_SAMEA2619923_17	31962	32291	109_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_36_SAMEA2619923_17	32291	32623	110_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_37_SAMEA2619923_17	32620	32967	115_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_38_SAMEA2619923_17	32972	33172	66_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_39_SAMEA2619923_17	33194	33475	93_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_40_SAMEA2619923_17	33472	35112	546_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_41_SAMEA2619923_17	35152	36717	521_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_42_SAMEA2619923_17	36723	37169	148_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_43_SAMEA2619923_17	37181	39214	677_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_44_SAMEA2619923_17	39221	39664	147_aa	+	SAP domain	
+SAMEA2619923_17	gene_45_SAMEA2619923_17	39651	39941	96_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_46_SAMEA2619923_17	39938	40183	81_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_47_SAMEA2619923_17	40185	40715	176_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_48_SAMEA2619923_17	40718	44539	1273_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_49_SAMEA2619923_17	44598	46499	633_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_50_SAMEA2619923_17	46510	65502	6330_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_51_SAMEA2619923_17	65484	66926	480_aa	+	Putative phage tail protein	
+SAMEA2619923_17	gene_52_SAMEA2619923_17	66929	67282	117_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_53_SAMEA2619923_17	67284	69404	706_aa	+	hypothetical protein	
+SAMEA2619923_17	gene_54_SAMEA2619923_17	69760	70107	115_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_55_SAMEA2619923_17	70125	71636	503_aa	-	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)
+SAMEA2619923_17	gene_56_SAMEA2619923_17	71667	72269	200_aa	-	DnaQ-like 3'-5' exonuclease	 gene18	DnaQ-like 3'-5' exonuclease	 gene18
+SAMEA2619923_17	gene_57_SAMEA2619923_17	72283	72531	82_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_58_SAMEA2619923_17	72524	73963	479_aa	-	DNA replicative helicase	 â€œgene19â€ù	DNA replicative helicase	 â€œgene19â€ù
+SAMEA2619923_17	gene_59_SAMEA2619923_17	73938	74630	230_aa	-	ERCC4-type nuclease	 â€œgene20â€ù	ERCC4-type nuclease	 â€œgene20â€ù
+SAMEA2619923_17	gene_60_SAMEA2619923_17	74672	74980	102_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_61_SAMEA2619923_17	74981	76087	368_aa	-	Primase AE_Prim_S	 â€œgene21â€ù	Primase AE_Prim_S	 â€œgene21â€ù
+SAMEA2619923_17	gene_62_SAMEA2619923_17	76071	76394	107_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_63_SAMEA2619923_17	76391	77362	323_aa	-	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù
+SAMEA2619923_17	gene_64_SAMEA2619923_17	77359	77547	62_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_65_SAMEA2619923_17	77547	77777	76_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_66_SAMEA2619923_17	77774	77992	72_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_67_SAMEA2619923_17	77989	80391	800_aa	-	DNA polymerase family B	DNA polymerase family B
+SAMEA2619923_17	gene_68_SAMEA2619923_17	80947	81711	254_aa	-	DNA polymerase sliding clamp	 gene27	DNA polymerase sliding clamp	 gene27
+SAMEA2619923_17	gene_69_SAMEA2619923_17	81721	82767	348_aa	-	radB-like recombinase	radB-like recombinase
+SAMEA2619923_17	gene_70_SAMEA2619923_17	82770	84080	436_aa	-	putative DNA-binding protein	 gene29	putative DNA-binding protein	 gene29
+SAMEA2619923_17	gene_71_SAMEA2619923_17	84077	85018	313_aa	-	Replication factor C small subunit	 â€œgene30â€ù	Replication factor C small subunit	 â€œgene30â€ù
+SAMEA2619923_17	gene_72_SAMEA2619923_17	85050	86519	489_aa	-	putative thermostable DNA ligase	putative thermostable DNA ligase
+SAMEA2619923_17	gene_73_SAMEA2619923_17	86522	86788	88_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_74_SAMEA2619923_17	86794	87516	240_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_75_SAMEA2619923_17	87500	87826	108_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_76_SAMEA2619923_17	87832	89469	545_aa	-	Domain of unknown function (DUF932)	
+SAMEA2619923_17	gene_77_SAMEA2619923_17	89456	89713	85_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_78_SAMEA2619923_17	89706	89966	86_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_79_SAMEA2619923_17	89968	90384	138_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_80_SAMEA2619923_17	90387	90611	74_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_81_SAMEA2619923_17	90664	90897	77_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_82_SAMEA2619923_17	91069	91509	146_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_83_SAMEA2619923_17	91616	93574	652_aa	-	SNF2 family helicase	
+SAMEA2619923_17	gene_84_SAMEA2619923_17	93555	94037	160_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_85_SAMEA2619923_17	94039	94263	74_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_86_SAMEA2619923_17	94260	94424	54_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_87_SAMEA2619923_17	94421	94513	30_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_88_SAMEA2619923_17	94510	94965	151_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_89_SAMEA2619923_17	95081	96316	411_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_90_SAMEA2619923_17	96317	96532	71_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_91_SAMEA2619923_17	96532	98004	490_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_92_SAMEA2619923_17	98006	98395	129_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_93_SAMEA2619923_17	98392	98817	141_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_94_SAMEA2619923_17	98821	98958	45_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_95_SAMEA2619923_17	98955	99242	95_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_96_SAMEA2619923_17	99256	99741	161_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_97_SAMEA2619923_17	99811	99963	50_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_98_SAMEA2619923_17	99960	100928	322_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_99_SAMEA2619923_17	100915	101517	200_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_100_SAMEA2619923_17	101504	101806	100_aa	-	hypothetical protein	
+SAMEA2619923_17	gene_101_SAMEA2619923_17	101953	102681	242_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_1_SAMEA2621085_65	452	745	97_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_2_SAMEA2621085_65	745	1248	167_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_3_SAMEA2621085_65	1248	1814	188_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_4_SAMEA2621085_65	1818	2129	103_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_5_SAMEA2621085_65	2126	3271	381_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_6_SAMEA2621085_65	3330	3518	62_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_7_SAMEA2621085_65	3515	3916	133_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_8_SAMEA2621085_65	4175	4747	190_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_9_SAMEA2621085_65	4744	5163	139_aa	+	HD domain	
+SAMEA2621085_65	gene_10_SAMEA2621085_65	5160	6077	305_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_11_SAMEA2621085_65	6074	6856	260_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_12_SAMEA2621085_65	6907	7227	106_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_13_SAMEA2621085_65	7436	7594	52_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_14_SAMEA2621085_65	7591	7911	106_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_15_SAMEA2621085_65	8067	8699	210_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_16_SAMEA2621085_65	8711	8968	85_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_17_SAMEA2621085_65	8969	9682	237_aa	+	Ras-like GTPase	
+SAMEA2621085_65	gene_18_SAMEA2621085_65	9718	9915	65_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_19_SAMEA2621085_65	9905	10879	324_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_20_SAMEA2621085_65	10876	11484	202_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_21_SAMEA2621085_65	11490	11744	84_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_22_SAMEA2621085_65	11777	12454	225_aa	+	DUF1804 Protein of unknown function (DUF1804) ??	DUF1804 Protein of unknown function (DUF1804) ??
+SAMEA2621085_65	gene_23_SAMEA2621085_65	12451	12855	134_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_24_SAMEA2621085_65	12852	14159	435_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_25_SAMEA2621085_65	14156	16522	788_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_26_SAMEA2621085_65	16524	17270	248_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_27_SAMEA2621085_65	17275	18750	491_aa	+	terminase	terminase
+SAMEA2621085_65	gene_28_SAMEA2621085_65	18847	20001	384_aa	+	UvrD-like helicase/homing endonuclease	UvrD-like helicase/homing endonuclease
+SAMEA2621085_65	gene_29_SAMEA2621085_65	20001	21761	586_aa	+	phage portal protein	phage portal protein
+SAMEA2621085_65	gene_30_SAMEA2621085_65	21803	22162	119_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_31_SAMEA2621085_65	22172	22504	110_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_32_SAMEA2621085_65	22504	23124	206_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_33_SAMEA2621085_65	23286	28529	1747_aa	+	ATP-dependent DNA ligase	ATP-dependent DNA ligase
+SAMEA2621085_65	gene_34_SAMEA2621085_65	28595	30001	468_aa	+	phage prohead protease	phage prohead protease
+SAMEA2621085_65	gene_35_SAMEA2621085_65	30007	31137	376_aa	+	major capsid protein	major capsid protein
+SAMEA2621085_65	gene_36_SAMEA2621085_65	31173	31601	142_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_37_SAMEA2621085_65	31603	32040	145_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_38_SAMEA2621085_65	32047	32328	93_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_39_SAMEA2621085_65	32552	32836	94_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_40_SAMEA2621085_65	32833	34347	504_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_41_SAMEA2621085_65	34347	35912	521_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_42_SAMEA2621085_65	35905	36282	125_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_43_SAMEA2621085_65	36282	36731	149_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_44_SAMEA2621085_65	36733	38760	675_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_45_SAMEA2621085_65	38769	39434	221_aa	+	SAP domain	
+SAMEA2621085_65	gene_46_SAMEA2621085_65	39481	39756	91_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_47_SAMEA2621085_65	39822	40031	69_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_48_SAMEA2621085_65	40031	40600	189_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_49_SAMEA2621085_65	40600	41715	371_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_50_SAMEA2621085_65	41720	58351	5543_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_51_SAMEA2621085_65	58348	59742	464_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_52_SAMEA2621085_65	59742	60089	115_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_53_SAMEA2621085_65	60089	62500	803_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_54_SAMEA2621085_65	62504	65035	843_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_55_SAMEA2621085_65	65061	66740	559_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_56_SAMEA2621085_65	66746	67357	203_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_57_SAMEA2621085_65	67397	67714	105_aa	+	hypothetical protein	
+SAMEA2621085_65	gene_58_SAMEA2621085_65	67996	68247	83_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_59_SAMEA2621085_65	68515	69297	260_aa	-	AdoMet_MTase	
+SAMEA2621085_65	gene_60_SAMEA2621085_65	69455	70972	505_aa	-	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)
+SAMEA2621085_65	gene_61_SAMEA2621085_65	70969	71136	55_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_62_SAMEA2621085_65	71139	71750	203_aa	-	DnaQ-like 3'-5' exonuclease	 gene18	DnaQ-like 3'-5' exonuclease	 gene18
+SAMEA2621085_65	gene_63_SAMEA2621085_65	71747	73144	465_aa	-	DNA replicative helicase	 â€œgene19â€ù	DNA replicative helicase	 â€œgene19â€ù
+SAMEA2621085_65	gene_64_SAMEA2621085_65	73247	73945	232_aa	-	ERCC4-type nuclease	 â€œgene20â€ù	ERCC4-type nuclease	 â€œgene20â€ù
+SAMEA2621085_65	gene_65_SAMEA2621085_65	73932	74108	58_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_66_SAMEA2621085_65	74105	75208	367_aa	-	Primase AE_Prim_S	 â€œgene21â€ù	Primase AE_Prim_S	 â€œgene21â€ù
+SAMEA2621085_65	gene_67_SAMEA2621085_65	75209	75514	101_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_68_SAMEA2621085_65	75511	76524	337_aa	-	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù
+SAMEA2621085_65	gene_69_SAMEA2621085_65	76530	78920	796_aa	-	DNA polymerase family B	DNA polymerase family B
+SAMEA2621085_65	gene_70_SAMEA2621085_65	78881	79639	252_aa	-	DNA polymerase sliding clamp	 gene27	DNA polymerase sliding clamp	 gene27
+SAMEA2621085_65	gene_71_SAMEA2621085_65	79644	80603	319_aa	-	radB-like recombinase	radB-like recombinase
+SAMEA2621085_65	gene_72_SAMEA2621085_65	80603	80788	61_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_73_SAMEA2621085_65	80788	81048	86_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_74_SAMEA2621085_65	81059	82441	460_aa	-	putative DNA-binding protein	 gene29	putative DNA-binding protein	 gene29
+SAMEA2621085_65	gene_75_SAMEA2621085_65	82438	82575	45_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_76_SAMEA2621085_65	82562	83527	321_aa	-	Replication factor C small subunit	 â€œgene30â€ù	Replication factor C small subunit	 â€œgene30â€ù
+SAMEA2621085_65	gene_77_SAMEA2621085_65	83565	83936	123_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_78_SAMEA2621085_65	83939	85255	438_aa	-	putative thermostable DNA ligase	putative thermostable DNA ligase
+SAMEA2621085_65	gene_79_SAMEA2621085_65	85236	85529	97_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_80_SAMEA2621085_65	85513	85848	111_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_81_SAMEA2621085_65	85848	86525	225_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_82_SAMEA2621085_65	86522	87118	198_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_83_SAMEA2621085_65	87115	87354	79_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_84_SAMEA2621085_65	87351	87620	89_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_85_SAMEA2621085_65	87592	87837	81_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_86_SAMEA2621085_65	87989	88270	93_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_87_SAMEA2621085_65	88267	88986	239_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_88_SAMEA2621085_65	89227	90702	491_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_89_SAMEA2621085_65	90699	91163	154_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_90_SAMEA2621085_65	91156	92250	364_aa	-	Protein-tyrosine phosphatase	
+SAMEA2621085_65	gene_91_SAMEA2621085_65	92256	94712	818_aa	-	PEP-utilizing enzyme	 mobile domain	
+SAMEA2621085_65	gene_92_SAMEA2621085_65	94709	96442	577_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_93_SAMEA2621085_65	96439	97068	209_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_94_SAMEA2621085_65	97474	97986	170_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_95_SAMEA2621085_65	97983	98399	138_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_96_SAMEA2621085_65	98396	98728	110_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_97_SAMEA2621085_65	98725	99426	233_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_98_SAMEA2621085_65	99423	99533	36_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_99_SAMEA2621085_65	99530	99655	41_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_100_SAMEA2621085_65	99656	100135	159_aa	-	hypothetical protein	
+SAMEA2621085_65	gene_101_SAMEA2621085_65	100147	102519	790_aa	-	SNF2 family helicase	
+SAMEA2621085_65	gene_102_SAMEA2621085_65	102516	102641	41_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_1_SAMEA2621151_40	1	471	156_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_2_SAMEA2621151_40	1231	1647	138_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_3_SAMEA2621151_40	1646	2125	159_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_4_SAMEA2621151_40	2122	2346	74_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_5_SAMEA2621151_40	2465	2794	109_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_6_SAMEA2621151_40	2791	3243	150_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_7_SAMEA2621151_40	3240	3368	42_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_8_SAMEA2621151_40	3365	3652	95_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_9_SAMEA2621151_40	3667	5736	689_aa	+	SNF2 family helicase	
+SAMEA2621151_40	gene_10_SAMEA2621151_40	5952	6143	63_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_11_SAMEA2621151_40	6143	6361	72_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_12_SAMEA2621151_40	6361	6492	43_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_13_SAMEA2621151_40	6489	6608	39_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_14_SAMEA2621151_40	6605	7111	168_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_15_SAMEA2621151_40	7166	9727	853_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_16_SAMEA2621151_40	9724	10971	415_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_17_SAMEA2621151_40	10968	11375	135_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_18_SAMEA2621151_40	11368	11640	90_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_19_SAMEA2621151_40	11640	12260	206_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_20_SAMEA2621151_40	12308	12910	200_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_21_SAMEA2621151_40	12911	14677	588_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_22_SAMEA2621151_40	14724	14993	89_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_23_SAMEA2621151_40	15152	15892	246_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_24_SAMEA2621151_40	16027	16560	177_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_25_SAMEA2621151_40	16557	16913	118_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_26_SAMEA2621151_40	16946	17194	82_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_27_SAMEA2621151_40	17175	17390	71_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_28_SAMEA2621151_40	17387	17671	94_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_29_SAMEA2621151_40	17700	18017	105_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_30_SAMEA2621151_40	18014	18313	99_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_31_SAMEA2621151_40	18316	18978	220_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_32_SAMEA2621151_40	18975	19178	67_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_33_SAMEA2621151_40	19211	20104	297_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_34_SAMEA2621151_40	20101	20835	244_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_35_SAMEA2621151_40	20835	21119	94_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_36_SAMEA2621151_40	21119	22381	420_aa	+	putative thermostable DNA ligase	putative thermostable DNA ligase
+SAMEA2621151_40	gene_37_SAMEA2621151_40	22371	22796	141_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_38_SAMEA2621151_40	22826	23755	309_aa	+	Replication factor C small subunit	 â€œgene30â€ù	Replication factor C small subunit	 â€œgene30â€ù
+SAMEA2621151_40	gene_39_SAMEA2621151_40	23748	25100	450_aa	+	putative DNA-binding protein	 gene29	putative DNA-binding protein	 gene29
+SAMEA2621151_40	gene_40_SAMEA2621151_40	25115	25363	82_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_41_SAMEA2621151_40	25347	25700	117_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_42_SAMEA2621151_40	25697	25933	78_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_43_SAMEA2621151_40	25968	26258	96_aa	+	Domain of unknown function (DUF3846)	
+SAMEA2621151_40	gene_44_SAMEA2621151_40	26255	26968	237_aa	+	radB-like recombinase	radB-like recombinase
+SAMEA2621151_40	gene_45_SAMEA2621151_40	27002	27778	258_aa	+	DNA polymerase sliding clamp	 gene27	DNA polymerase sliding clamp	 gene27
+SAMEA2621151_40	gene_46_SAMEA2621151_40	27781	30177	798_aa	+	DNA polymerase family B	DNA polymerase family B
+SAMEA2621151_40	gene_47_SAMEA2621151_40	30207	30560	117_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_48_SAMEA2621151_40	30547	30750	67_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_49_SAMEA2621151_40	31003	32040	345_aa	+	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù	Cas4_I-A_I-B_I-C_I-D_II-B Superfamily	 â€œgene24â€ù
+SAMEA2621151_40	gene_50_SAMEA2621151_40	32037	32369	110_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_51_SAMEA2621151_40	32374	33483	369_aa	+	Primase AE_Prim_S	 â€œgene21â€ù	Primase AE_Prim_S	 â€œgene21â€ù
+SAMEA2621151_40	gene_52_SAMEA2621151_40	33697	34383	228_aa	+	ERCC4-type nuclease	 â€œgene20â€ù	ERCC4-type nuclease	 â€œgene20â€ù
+SAMEA2621151_40	gene_53_SAMEA2621151_40	34505	35908	467_aa	+	DNA replicative helicase	 â€œgene19â€ù	DNA replicative helicase	 â€œgene19â€ù
+SAMEA2621151_40	gene_54_SAMEA2621151_40	36147	36755	202_aa	+	DnaQ-like 3'-5' exonuclease	 gene18	DnaQ-like 3'-5' exonuclease	 gene18
+SAMEA2621151_40	gene_55_SAMEA2621151_40	36749	36928	59_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_56_SAMEA2621151_40	36925	38529	534_aa	+	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)	GroupA: Archaeal cpn60 chaperonin family (gene16	 thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)
+SAMEA2621151_40	gene_57_SAMEA2621151_40	39001	39261	86_aa	+	hypothetical protein	
+SAMEA2621151_40	gene_58_SAMEA2621151_40	39559	39867	102_aa	-	Phage tail assembly chaperone protein	
+SAMEA2621151_40	gene_59_SAMEA2621151_40	39877	48426	2849_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_60_SAMEA2621151_40	48454	51981	1175_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_61_SAMEA2621151_40	51991	54462	823_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_62_SAMEA2621151_40	54464	54808	114_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_63_SAMEA2621151_40	54808	56214	468_aa	-	Putative phage tail protein	
+SAMEA2621151_40	gene_64_SAMEA2621151_40	56214	72716	5500_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_65_SAMEA2621151_40	72721	72930	69_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_66_SAMEA2621151_40	72927	73871	314_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_67_SAMEA2621151_40	73871	74632	253_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_68_SAMEA2621151_40	74632	74913	93_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_69_SAMEA2621151_40	74910	75272	120_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_70_SAMEA2621151_40	75229	75870	213_aa	-	SAP domain	
+SAMEA2621151_40	gene_71_SAMEA2621151_40	75867	77912	681_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_72_SAMEA2621151_40	77926	78375	149_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_73_SAMEA2621151_40	78375	78653	92_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_74_SAMEA2621151_40	78658	80244	528_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_75_SAMEA2621151_40	80244	80537	97_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_76_SAMEA2621151_40	80827	81141	104_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_77_SAMEA2621151_40	81241	81636	131_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_78_SAMEA2621151_40	81677	82852	391_aa	-	major capsid protein	major capsid protein
+SAMEA2621151_40	gene_79_SAMEA2621151_40	82890	84287	465_aa	-	phage prohead protease	phage prohead protease
+SAMEA2621151_40	gene_80_SAMEA2621151_40	84340	89823	1827_aa	-	ATP-dependent DNA ligase (?)	ATP-dependent DNA ligase
+SAMEA2621151_40	gene_81_SAMEA2621151_40	89966	90472	168_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_82_SAMEA2621151_40	90474	90818	114_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_83_SAMEA2621151_40	90828	91229	133_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_84_SAMEA2621151_40	91226	92863	545_aa	-	phage portal protein	phage portal protein
+SAMEA2621151_40	gene_85_SAMEA2621151_40	92950	94143	397_aa	-	UvrD-like helicase/homing endonuclease	UvrD-like helicase/homing endonuclease
+SAMEA2621151_40	gene_86_SAMEA2621151_40	94159	95634	491_aa	-	terminase	terminase
+SAMEA2621151_40	gene_87_SAMEA2621151_40	95631	96257	208_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_88_SAMEA2621151_40	96254	98641	795_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_89_SAMEA2621151_40	98638	100026	462_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_90_SAMEA2621151_40	100023	100436	137_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_91_SAMEA2621151_40	100433	101062	209_aa	-	DUF1804 Protein of unknown function (DUF1804) ??	DUF1804 Protein of unknown function (DUF1804) ??
+SAMEA2621151_40	gene_92_SAMEA2621151_40	101153	101407	84_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_93_SAMEA2621151_40	101407	102081	224_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_94_SAMEA2621151_40	102084	103067	327_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_95_SAMEA2621151_40	103292	104002	236_aa	-	Ras-like GTPase	
+SAMEA2621151_40	gene_96_SAMEA2621151_40	104009	104296	95_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_97_SAMEA2621151_40	104296	104889	197_aa	-	similar to herpesvirus large structural phosphoprotein UL32	
+SAMEA2621151_40	gene_98_SAMEA2621151_40	105182	105598	138_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_99_SAMEA2621151_40	105629	105961	110_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_100_SAMEA2621151_40	106067	106726	219_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_101_SAMEA2621151_40	106723	106962	79_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_102_SAMEA2621151_40	107338	107592	84_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_103_SAMEA2621151_40	107592	107870	92_aa	-	hypothetical protein	
+SAMEA2621151_40	gene_104_SAMEA2621151_40	107933	108352	140_aa	+	hypothetical protein	

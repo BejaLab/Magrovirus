@@ -1,0 +1,1557 @@
+>Feature ref|NC_021327.1|
+399	620	gene
+			gene	1
+			locus_tag	M200_gp001
+			old_locus_tag	HCTV5_1
+			db_xref	GeneID:16193775
+399	620	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059043.1|
+653	1138	gene
+			gene	2
+			locus_tag	M200_gp002
+			old_locus_tag	HCTV5_2
+			db_xref	GeneID:16193865
+653	1138	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059044.1|
+1315	1148	gene
+			gene	3
+			locus_tag	M200_gp003
+			old_locus_tag	HCTV5_3
+			db_xref	GeneID:16193762
+1315	1148	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059045.1|
+1518	1312	gene
+			gene	4
+			locus_tag	M200_gp004
+			old_locus_tag	HCTV5_4
+			db_xref	GeneID:16193784
+1518	1312	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059046.1|
+1832	1515	gene
+			gene	5
+			locus_tag	M200_gp005
+			old_locus_tag	HCTV5_5
+			db_xref	GeneID:16193731
+1832	1515	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059047.1|
+2467	1895	gene
+			gene	6
+			locus_tag	M200_gp006
+			old_locus_tag	HCTV5_6
+			db_xref	GeneID:16193730
+2467	1895	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059048.1|
+2543	2800	gene
+			gene	7
+			locus_tag	M200_gp007
+			old_locus_tag	HCTV5_7
+			db_xref	GeneID:16193717
+2543	2800	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059049.1|
+2979	2806	gene
+			gene	8
+			locus_tag	M200_gp008
+			old_locus_tag	HCTV5_8
+			db_xref	GeneID:16193713
+2979	2806	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059050.1|
+3282	3022	gene
+			gene	9
+			locus_tag	M200_gp009
+			old_locus_tag	HCTV5_9
+			db_xref	GeneID:16193711
+3282	3022	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059051.1|
+3431	3279	gene
+			gene	10
+			locus_tag	M200_gp010
+			old_locus_tag	HCTV5_10
+			db_xref	GeneID:16193707
+3431	3279	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059052.1|
+3708	3424	gene
+			gene	11
+			locus_tag	M200_gp011
+			old_locus_tag	HCTV5_11
+			db_xref	GeneID:16193820
+3708	3424	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059053.1|
+3925	3734	gene
+			gene	12
+			locus_tag	M200_gp012
+			old_locus_tag	HCTV5_12
+			db_xref	GeneID:16193851
+3925	3734	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059054.1|
+4059	3922	gene
+			gene	13
+			locus_tag	M200_gp013
+			old_locus_tag	HCTV5_13
+			db_xref	GeneID:16193869
+4059	3922	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059055.1|
+4223	4056	gene
+			gene	14
+			locus_tag	M200_gp014
+			old_locus_tag	HCTV5_14
+			db_xref	GeneID:16193725
+4223	4056	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059056.1|
+4759	4508	gene
+			gene	15
+			locus_tag	M200_gp015
+			old_locus_tag	HCTV5_15
+			db_xref	GeneID:16193737
+4759	4508	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059057.1|
+4857	4756	gene
+			gene	16
+			locus_tag	M200_gp016
+			old_locus_tag	HCTV5_16
+			db_xref	GeneID:16193814
+4857	4756	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059058.1|
+5339	4854	gene
+			gene	17
+			locus_tag	M200_gp017
+			old_locus_tag	HCTV5_17
+			db_xref	GeneID:16193821
+5339	4854	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059059.1|
+5596	5339	gene
+			gene	18
+			locus_tag	M200_gp018
+			old_locus_tag	HCTV5_18
+			db_xref	GeneID:16193715
+5596	5339	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059060.1|
+5648	5857	gene
+			gene	19
+			locus_tag	M200_gp019
+			old_locus_tag	HCTV5_19
+			db_xref	GeneID:16193806
+5648	5857	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059061.1|
+5966	6292	gene
+			gene	20
+			locus_tag	M200_gp020
+			old_locus_tag	HCTV5_20
+			db_xref	GeneID:16193735
+5966	6292	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059062.1|
+6294	6563	gene
+			gene	21
+			locus_tag	M200_gp021
+			old_locus_tag	HCTV5_21
+			db_xref	GeneID:16193768
+6294	6563	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059063.1|
+6642	7115	gene
+			gene	22
+			locus_tag	M200_gp022
+			old_locus_tag	HCTV5_22
+			db_xref	GeneID:16193773
+6642	7115	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059064.1|
+			note	HNH endonuclease domain
+7112	7429	gene
+			gene	23
+			locus_tag	M200_gp023
+			old_locus_tag	HCTV5_23
+			db_xref	GeneID:16193753
+7112	7429	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059065.1|
+7419	7811	gene
+			gene	24
+			locus_tag	M200_gp024
+			old_locus_tag	HCTV5_24
+			db_xref	GeneID:16193756
+7419	7811	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059066.1|
+7814	10792	gene
+			gene	25
+			locus_tag	M200_gp025
+			old_locus_tag	HCTV5_25
+			db_xref	GeneID:16193746
+7814	10792	CDS
+			product	ribonucleotide reductase
+			transl_table	11
+			protein_id	ref|YP_008059067.1|
+			note	Ribonucleotide reductase
+10861	11298	gene
+			gene	26
+			locus_tag	M200_gp026
+			old_locus_tag	HCTV5_26
+			db_xref	GeneID:16193729
+10861	11298	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059068.1|
+11332	11790	gene
+			gene	27
+			locus_tag	M200_gp027
+			old_locus_tag	HCTV5_27
+			db_xref	GeneID:16193728
+11332	11790	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059069.1|
+11783	12055	gene
+			gene	28
+			locus_tag	M200_gp028
+			old_locus_tag	HCTV5_28
+			db_xref	GeneID:16193726
+11783	12055	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059070.1|
+12057	12224	gene
+			gene	29
+			locus_tag	M200_gp029
+			old_locus_tag	HCTV5_29
+			db_xref	GeneID:16193744
+12057	12224	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059071.1|
+12310	13494	gene
+			gene	30
+			locus_tag	M200_gp030
+			old_locus_tag	HCTV5_30
+			db_xref	GeneID:16193849
+12310	13494	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059072.1|
+13638	14957	gene
+			gene	31
+			locus_tag	M200_gp031
+			old_locus_tag	HCTV5_31
+			db_xref	GeneID:16193704
+13638	14957	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059073.1|
+15001	15504	gene
+			gene	32
+			locus_tag	M200_gp032
+			old_locus_tag	HCTV5_32
+			db_xref	GeneID:16193850
+15001	15504	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059074.1|
+15504	15647	gene
+			gene	33
+			locus_tag	M200_gp033
+			old_locus_tag	HCTV5_33
+			db_xref	GeneID:16193813
+15504	15647	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059075.1|
+15644	15898	gene
+			gene	34
+			locus_tag	M200_gp034
+			old_locus_tag	HCTV5_34
+			db_xref	GeneID:16193815
+15644	15898	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059076.1|
+16016	17245	gene
+			gene	35
+			locus_tag	M200_gp035
+			old_locus_tag	HCTV5_35
+			db_xref	GeneID:16193760
+16016	17245	CDS
+			product	DNA polymerase II small subunit
+			transl_table	11
+			protein_id	ref|YP_008059077.1|
+			note	DNA polymerase II, small subunit
+17688	17305	gene
+			gene	36
+			locus_tag	M200_gp036
+			old_locus_tag	HCTV5_36
+			db_xref	GeneID:16193789
+17688	17305	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059078.1|
+18271	17690	gene
+			gene	37
+			locus_tag	M200_gp037
+			old_locus_tag	HCTV5_37
+			db_xref	GeneID:16193780
+18271	17690	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059079.1|
+18993	18268	gene
+			gene	38
+			locus_tag	M200_gp038
+			old_locus_tag	HCTV5_38
+			db_xref	GeneID:16193765
+18993	18268	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059080.1|
+19985	19032	gene
+			gene	39
+			locus_tag	M200_gp039
+			old_locus_tag	HCTV5_39
+			db_xref	GeneID:16193852
+19985	19032	CDS
+			product	thymidylate synthase
+			transl_table	11
+			protein_id	ref|YP_008059081.1|
+			note	Thymidylate synthase
+20903	20163	gene
+			gene	40
+			locus_tag	M200_gp040
+			old_locus_tag	HCTV5_40
+			db_xref	GeneID:16193797
+20903	20163	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059082.1|
+21478	20906	gene
+			gene	41
+			locus_tag	M200_gp041
+			old_locus_tag	HCTV5_41
+			db_xref	GeneID:16193860
+21478	20906	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059083.1|
+21962	21480	gene
+			gene	42
+			locus_tag	M200_gp042
+			old_locus_tag	HCTV5_42
+			db_xref	GeneID:16193720
+21962	21480	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059084.1|
+			note	HNH endonuclease domain
+22257	21946	gene
+			gene	43
+			locus_tag	M200_gp043
+			old_locus_tag	HCTV5_43
+			db_xref	GeneID:16193723
+22257	21946	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059085.1|
+			note	NTP-PPase MazG-like domain
+22393	22250	gene
+			gene	44
+			locus_tag	M200_gp044
+			old_locus_tag	HCTV5_44
+			db_xref	GeneID:16193805
+22393	22250	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059086.1|
+23850	22390	gene
+			gene	45
+			locus_tag	M200_gp045
+			old_locus_tag	HCTV5_45
+			db_xref	GeneID:16193754
+23850	22390	CDS
+			product	RtcB
+			transl_table	11
+			protein_id	ref|YP_008059087.1|
+			note	RtcB
+24073	23843	gene
+			gene	46
+			locus_tag	M200_gp046
+			old_locus_tag	HCTV5_46
+			db_xref	GeneID:16193738
+24073	23843	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059088.1|
+24240	24070	gene
+			gene	47
+			locus_tag	M200_gp047
+			old_locus_tag	HCTV5_47
+			db_xref	GeneID:16193769
+24240	24070	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059089.1|
+25132	24224	gene
+			gene	48
+			locus_tag	M200_gp048
+			old_locus_tag	HCTV5_48
+			db_xref	GeneID:16193749
+25132	24224	CDS
+			product	AdoMet-MTase
+			transl_table	11
+			protein_id	ref|YP_008059090.1|
+			note	AdoMet-MTase
+26303	25125	gene
+			gene	49
+			locus_tag	M200_gp049
+			old_locus_tag	HCTV5_49
+			db_xref	GeneID:16193751
+26303	25125	CDS
+			product	Hef and HNH endonuclease
+			transl_table	11
+			protein_id	ref|YP_008059091.1|
+			note	Hef and HNH endonuclease
+26437	26300	gene
+			gene	50
+			locus_tag	M200_gp050
+			old_locus_tag	HCTV5_50
+			db_xref	GeneID:16193747
+26437	26300	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059092.1|
+26579	26427	gene
+			gene	51
+			locus_tag	M200_gp051
+			old_locus_tag	HCTV5_51
+			db_xref	GeneID:16193748
+26579	26427	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059093.1|
+26832	26572	gene
+			gene	52
+			locus_tag	M200_gp052
+			old_locus_tag	HCTV5_52
+			db_xref	GeneID:16193837
+26832	26572	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059094.1|
+27082	26825	gene
+			gene	53
+			locus_tag	M200_gp053
+			old_locus_tag	HCTV5_53
+			db_xref	GeneID:16193712
+27082	26825	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059095.1|
+27543	27079	gene
+			gene	54
+			locus_tag	M200_gp054
+			old_locus_tag	HCTV5_54
+			db_xref	GeneID:16193727
+27543	27079	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059096.1|
+27925	27536	gene
+			gene	55
+			locus_tag	M200_gp055
+			old_locus_tag	HCTV5_55
+			db_xref	GeneID:16193741
+27925	27536	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059097.1|
+28401	27925	gene
+			gene	56
+			locus_tag	M200_gp056
+			old_locus_tag	HCTV5_56
+			db_xref	GeneID:16193830
+28401	27925	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059098.1|
+			note	HNH endonuclease domain
+28838	28404	gene
+			gene	57
+			locus_tag	M200_gp060
+			old_locus_tag	HCTV5_57
+			db_xref	GeneID:16193776
+28838	28404	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059099.1|
+28959	28885	gene
+			gene	58
+			locus_tag	M200_gt001
+			old_locus_tag	HCTV5_58
+			db_xref	GeneID:16193823
+28959	28885	tRNA
+			product	tRNA-Gln
+			note	tRNA Gln (ttg)
+29210	29049	gene
+			gene	59
+			locus_tag	M200_gp166
+			old_locus_tag	HCTV5_59
+			db_xref	GeneID:16193825
+29210	29049	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059100.1|
+31441	29210	gene
+			gene	60
+			locus_tag	M200_gp165
+			old_locus_tag	HCTV5_60
+			db_xref	GeneID:16193819
+31441	29210	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059101.1|
+			note	Von Willebrand factor type A domain
+31701	31513	gene
+			gene	61
+			locus_tag	M200_gp164
+			old_locus_tag	HCTV5_61
+			db_xref	GeneID:16193722
+31701	31513	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059102.1|
+33066	31729	gene
+			gene	62
+			locus_tag	M200_gp163
+			old_locus_tag	HCTV5_62
+			db_xref	GeneID:16193811
+33066	31729	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059103.1|
+			note	AAA domain
+33601	33140	gene
+			gene	63
+			locus_tag	M200_gp162
+			old_locus_tag	HCTV5_63
+			db_xref	GeneID:16193842
+33601	33140	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059104.1|
+34031	33579	gene
+			gene	64
+			locus_tag	M200_gp161
+			old_locus_tag	HCTV5_64
+			db_xref	GeneID:16193809
+34031	33579	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059105.1|
+34444	33998	gene
+			gene	65
+			locus_tag	M200_gp160
+			old_locus_tag	HCTV5_65
+			db_xref	GeneID:16193808
+34444	33998	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059106.1|
+35164	34502	gene
+			gene	66
+			locus_tag	M200_gp159
+			old_locus_tag	HCTV5_66
+			db_xref	GeneID:16193812
+35164	34502	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059107.1|
+			note	SprT
+35438	35235	gene
+			gene	67
+			locus_tag	M200_gp158
+			old_locus_tag	HCTV5_67
+			db_xref	GeneID:16193839
+35438	35235	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059108.1|
+36569	35454	gene
+			gene	68
+			locus_tag	M200_gp157
+			old_locus_tag	HCTV5_68
+			db_xref	GeneID:16193718
+36569	35454	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059109.1|
+37200	36571	gene
+			gene	69
+			locus_tag	M200_gp156
+			old_locus_tag	HCTV5_69
+			db_xref	GeneID:16193829
+37200	36571	CDS
+			product	GTP cyclohydrolase I
+			transl_table	11
+			protein_id	ref|YP_008059110.1|
+			note	GTP cyclohydrolase I
+37392	37213	gene
+			gene	70
+			locus_tag	M200_gp155
+			old_locus_tag	HCTV5_70
+			db_xref	GeneID:16193810
+37392	37213	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059111.1|
+37513	37385	gene
+			gene	71
+			locus_tag	M200_gp154
+			old_locus_tag	HCTV5_71
+			db_xref	GeneID:16193781
+37513	37385	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059112.1|
+38295	37510	gene
+			gene	72
+			locus_tag	M200_gp153
+			old_locus_tag	HCTV5_72
+			db_xref	GeneID:16193846
+38295	37510	CDS
+			product	QueE
+			transl_table	11
+			protein_id	ref|YP_008059113.1|
+			note	QueE
+38735	38292	gene
+			gene	73
+			locus_tag	M200_gp152
+			old_locus_tag	HCTV5_73
+			db_xref	GeneID:16193778
+38735	38292	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059114.1|
+38862	38728	gene
+			gene	74
+			locus_tag	M200_gp151
+			old_locus_tag	HCTV5_74
+			db_xref	GeneID:16193835
+38862	38728	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059115.1|
+39320	38862	gene
+			gene	75
+			locus_tag	M200_gp150
+			old_locus_tag	HCTV5_75
+			db_xref	GeneID:16193734
+39320	38862	CDS
+			product	QueD
+			transl_table	11
+			protein_id	ref|YP_008059116.1|
+			note	QueD
+40081	39317	gene
+			gene	76
+			locus_tag	M200_gp149
+			old_locus_tag	HCTV5_76
+			db_xref	GeneID:16193759
+40081	39317	CDS
+			product	QueC
+			transl_table	11
+			protein_id	ref|YP_008059117.1|
+			note	QueC
+40621	40139	gene
+			gene	77
+			locus_tag	M200_gp148
+			old_locus_tag	HCTV5_77
+			db_xref	GeneID:16193779
+40621	40139	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059118.1|
+			note	HNH endonuclease domain
+41050	40634	gene
+			gene	78
+			locus_tag	M200_gp147
+			old_locus_tag	HCTV5_78
+			db_xref	GeneID:16193840
+41050	40634	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059119.1|
+41265	41050	gene
+			gene	79
+			locus_tag	M200_gp146
+			old_locus_tag	HCTV5_79
+			db_xref	GeneID:16193855
+41265	41050	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059120.1|
+41611	41270	gene
+			gene	80
+			locus_tag	M200_gp145
+			old_locus_tag	HCTV5_80
+			db_xref	GeneID:16193752
+41611	41270	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059121.1|
+42072	41611	gene
+			gene	81
+			locus_tag	M200_gp144
+			old_locus_tag	HCTV5_81
+			db_xref	GeneID:16193777
+42072	41611	CDS
+			product	QueF
+			transl_table	11
+			protein_id	ref|YP_008059122.1|
+			note	QueF
+42601	42116	gene
+			gene	82
+			locus_tag	M200_gp143
+			old_locus_tag	HCTV5_82
+			db_xref	GeneID:16193859
+42601	42116	CDS
+			product	LAGLIDADG endonuclease
+			transl_table	11
+			protein_id	ref|YP_008059123.1|
+			note	LAGLIDADG endonuclease
+42732	42598	gene
+			gene	83
+			locus_tag	M200_gp142
+			old_locus_tag	HCTV5_83
+			db_xref	GeneID:16193816
+42732	42598	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059124.1|
+43892	43038	gene
+			gene	84
+			locus_tag	M200_gp141
+			old_locus_tag	HCTV5_84
+			db_xref	GeneID:16193822
+43892	43038	CDS
+			product	AdoMet-MTase
+			transl_table	11
+			protein_id	ref|YP_008059125.1|
+			note	AdoMet-MTase
+45139	43895	gene
+			gene	85
+			locus_tag	M200_gp140
+			old_locus_tag	HCTV5_85
+			db_xref	GeneID:16193818
+45139	43895	CDS
+			product	replication factor C large subunit
+			transl_table	11
+			protein_id	ref|YP_008059126.1|
+			note	Replication factor C, large subunit
+45329	45132	gene
+			gene	86
+			locus_tag	M200_gp139
+			old_locus_tag	HCTV5_86
+			db_xref	GeneID:16193716
+45329	45132	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059127.1|
+45829	45332	gene
+			gene	87
+			locus_tag	M200_gp138
+			old_locus_tag	HCTV5_87
+			db_xref	GeneID:16193826
+45829	45332	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059128.1|
+			note	N-Acyltransferase domain
+48564	45823	gene
+			gene	88
+			locus_tag	M200_gp137
+			old_locus_tag	HCTV5_88
+			db_xref	GeneID:16193742
+48564	45823	CDS
+			product	DNA polymerase elongation subunit (family B)
+			transl_table	11
+			protein_id	ref|YP_008059129.1|
+			note	DNA polymerase, elongation subunit (family B)
+49197	48586	gene
+			gene	89
+			locus_tag	M200_gp136
+			old_locus_tag	HCTV5_89
+			db_xref	GeneID:16193787
+49197	48586	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059130.1|
+			note	HNH endonuclease domain
+49994	49197	gene
+			gene	90
+			locus_tag	M200_gp135
+			old_locus_tag	HCTV5_90
+			db_xref	GeneID:16193832
+49994	49197	CDS
+			product	PD-(D/E)XK nuclease
+			transl_table	11
+			protein_id	ref|YP_008059131.1|
+			note	PD-(D/E)XK nuclease
+50304	49987	gene
+			gene	91
+			locus_tag	M200_gp134
+			old_locus_tag	HCTV5_91
+			db_xref	GeneID:16193745
+50304	49987	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059132.1|
+50494	50306	gene
+			gene	92
+			locus_tag	M200_gp133
+			old_locus_tag	HCTV5_92
+			db_xref	GeneID:16193863
+50494	50306	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059133.1|
+51474	50491	gene
+			gene	93
+			locus_tag	M200_gp132
+			old_locus_tag	HCTV5_93
+			db_xref	GeneID:16193743
+51474	50491	CDS
+			product	replication factor C small subunit
+			transl_table	11
+			protein_id	ref|YP_008059134.1|
+			note	Replication factor C, small subunit
+52131	51541	gene
+			gene	94
+			locus_tag	M200_gp131
+			old_locus_tag	HCTV5_94
+			db_xref	GeneID:16193858
+52131	51541	CDS
+			product	TMP kinase
+			transl_table	11
+			protein_id	ref|YP_008059135.1|
+			note	TMP kinase
+52586	52134	gene
+			gene	95
+			locus_tag	M200_gp130
+			old_locus_tag	HCTV5_95
+			db_xref	GeneID:16193750
+52586	52134	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059136.1|
+53739	52588	gene
+			gene	96
+			locus_tag	M200_gp129
+			old_locus_tag	HCTV5_96
+			db_xref	GeneID:16193755
+53739	52588	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059137.1|
+54611	53754	gene
+			gene	97
+			locus_tag	M200_gp128
+			old_locus_tag	HCTV5_97
+			db_xref	GeneID:16193732
+54611	53754	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059138.1|
+55101	54604	gene
+			gene	98
+			locus_tag	M200_gp127
+			old_locus_tag	HCTV5_98
+			db_xref	GeneID:16193772
+55101	54604	CDS
+			product	RadA
+			transl_table	11
+			protein_id	ref|YP_008059139.1|
+			note	RadA
+56614	55094	gene
+			gene	99
+			locus_tag	M200_gp126
+			old_locus_tag	HCTV5_99
+			db_xref	GeneID:16193757
+56614	55094	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059140.1|
+57654	56611	gene
+			gene	100
+			locus_tag	M200_gp125
+			old_locus_tag	HCTV5_100
+			db_xref	GeneID:16193770
+57654	56611	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059141.1|
+57888	58799	gene
+			gene	101
+			locus_tag	M200_gp124
+			old_locus_tag	HCTV5_101
+			db_xref	GeneID:16193771
+57888	58799	CDS
+			product	RadA
+			transl_table	11
+			protein_id	ref|YP_008059142.1|
+			note	RadA
+58893	59141	gene
+			gene	102
+			locus_tag	M200_gp059
+			old_locus_tag	HCTV5_102
+			db_xref	GeneID:16193719
+58893	59141	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059143.1|
+59388	60050	gene
+			gene	103
+			locus_tag	M200_gp123
+			old_locus_tag	HCTV5_103
+			db_xref	GeneID:16193714
+59388	60050	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059144.1|
+60047	60604	gene
+			gene	104
+			locus_tag	M200_gp122
+			old_locus_tag	HCTV5_104
+			db_xref	GeneID:16193796
+60047	60604	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059145.1|
+			note	HNH endonuclease domain
+60594	62039	gene
+			gene	105
+			locus_tag	M200_gp121
+			old_locus_tag	HCTV5_105
+			db_xref	GeneID:16193828
+60594	62039	CDS
+			product	terminase large subunit
+			transl_table	11
+			protein_id	ref|YP_008059146.1|
+			note	Terminase, large subunit
+62033	62620	gene
+			gene	106
+			locus_tag	M200_gp120
+			old_locus_tag	HCTV5_106
+			db_xref	GeneID:16193724
+62033	62620	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059147.1|
+			note	HNH endonuclease domain
+62624	64486	gene
+			gene	107
+			locus_tag	M200_gp119
+			old_locus_tag	HCTV5_107
+			db_xref	GeneID:16193733
+62624	64486	CDS
+			product	portal protein
+			transl_table	11
+			protein_id	ref|YP_008059148.1|
+			note	Portal
+64479	65225	gene
+			gene	108
+			locus_tag	M200_gp118
+			old_locus_tag	HCTV5_108
+			db_xref	GeneID:16193841
+64479	65225	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059149.1|
+			note	HNH endonuclease domain
+65222	66190	gene
+			gene	109
+			locus_tag	M200_gp117
+			old_locus_tag	HCTV5_109
+			db_xref	GeneID:16193736
+65222	66190	CDS
+			product	ADP-ribosyltransferase
+			transl_table	11
+			protein_id	ref|YP_008059150.1|
+			note	ADP-ribosyltransferase
+66183	67196	gene
+			gene	110
+			locus_tag	M200_gp116
+			old_locus_tag	HCTV5_110
+			db_xref	GeneID:16193802
+66183	67196	CDS
+			product	gpF-like protein
+			transl_table	11
+			protein_id	ref|YP_008059151.1|
+			note	Mu gpF-like protein
+67233	67976	gene
+			gene	111
+			locus_tag	M200_gp115
+			old_locus_tag	HCTV5_111
+			db_xref	GeneID:16193790
+67233	67976	CDS
+			product	HNH protein
+			transl_table	11
+			protein_id	ref|YP_008059152.1|
+			note	HNH endonuclease domain
+67992	69929	gene
+			gene	112
+			locus_tag	M200_gp114
+			old_locus_tag	HCTV5_112
+			db_xref	GeneID:16193763
+67992	69929	CDS
+			product	sialidase
+			transl_table	11
+			protein_id	ref|YP_008059153.1|
+			note	Sialidase
+70690	69989	gene
+			gene	113
+			locus_tag	M200_gp113
+			old_locus_tag	HCTV5_113
+			db_xref	GeneID:16193782
+70690	69989	CDS
+			product	integrase
+			transl_table	11
+			protein_id	ref|YP_008059154.1|
+			note	Integrase
+70811	74692	gene
+			gene	114
+			locus_tag	M200_gp112
+			old_locus_tag	HCTV5_114
+			db_xref	GeneID:16193783
+70811	74692	CDS
+			product	zeta toxin and ParB nuclease domain protein
+			transl_table	11
+			protein_id	ref|YP_008059155.1|
+			note	Zeta toxin and ParB nuclease domains
+75166	74693	gene
+			gene	115
+			locus_tag	M200_gp111
+			old_locus_tag	HCTV5_115
+			db_xref	GeneID:16193739
+75166	74693	CDS
+			product	LAGLIDADG endonuclease
+			transl_table	11
+			protein_id	ref|YP_008059156.1|
+			note	LAGLIDADG endonuclease
+75532	75365	gene
+			gene	116
+			locus_tag	M200_gp064
+			old_locus_tag	HCTV5_116
+			db_xref	GeneID:16193785
+75532	75365	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059157.1|
+75392	75583	gene
+			gene	117
+			locus_tag	M200_gp058
+			old_locus_tag	HCTV5_117
+			db_xref	GeneID:16193766
+75392	75583	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059158.1|
+75620	77494	gene
+			gene	118
+			locus_tag	M200_gp110
+			old_locus_tag	HCTV5_118
+			db_xref	GeneID:16193795
+75620	77494	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059159.1|
+77510	78883	gene
+			gene	119
+			locus_tag	M200_gp109
+			old_locus_tag	HCTV5_119
+			db_xref	GeneID:16193767
+77510	78883	CDS
+			product	major capsid protein
+			transl_table	11
+			protein_id	ref|YP_008059160.1|
+			note	Major Capsid
+78902	79279	gene
+			gene	120
+			locus_tag	M200_gp108
+			old_locus_tag	HCTV5_120
+			db_xref	GeneID:16193758
+78902	79279	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059161.1|
+79298	79630	gene
+			gene	121
+			locus_tag	M200_gp107
+			old_locus_tag	HCTV5_121
+			db_xref	GeneID:16193786
+79298	79630	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059162.1|
+79637	80050	gene
+			gene	122
+			locus_tag	M200_gp106
+			old_locus_tag	HCTV5_122
+			db_xref	GeneID:16193793
+79637	80050	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059163.1|
+80053	80385	gene
+			gene	123
+			locus_tag	M200_gp105
+			old_locus_tag	HCTV5_123
+			db_xref	GeneID:16193792
+80053	80385	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059164.1|
+80385	81065	gene
+			gene	124
+			locus_tag	M200_gp104
+			old_locus_tag	HCTV5_124
+			db_xref	GeneID:16193856
+80385	81065	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059165.1|
+81065	81676	gene
+			gene	125
+			locus_tag	M200_gp103
+			old_locus_tag	HCTV5_125
+			db_xref	GeneID:16193866
+81065	81676	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059166.1|
+81676	82146	gene
+			gene	126
+			locus_tag	M200_gp102
+			old_locus_tag	HCTV5_126
+			db_xref	GeneID:16193843
+81676	82146	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059167.1|
+82164	83177	gene
+			gene	127
+			locus_tag	M200_gp101
+			old_locus_tag	HCTV5_127
+			db_xref	GeneID:16193824
+82164	83177	CDS
+			product	tail tube
+			transl_table	11
+			protein_id	ref|YP_008059168.1|
+			note	Tail Tube
+83232	83986	gene
+			gene	129
+			locus_tag	M200_gp099
+			old_locus_tag	HCTV5_129
+			db_xref	GeneID:16193740
+83232	83615	CDS
+83615	83986
+			product	tail assembly chaperone
+			transl_table	11
+			protein_id	ref|YP_008059169.1|
+			note	Tail Assembly Chaperone
+			exception	ribosomal slippage
+83232	83648	gene
+			gene	128
+			locus_tag	M200_gp100
+			old_locus_tag	HCTV5_128
+			db_xref	GeneID:16193844
+83232	83648	CDS
+			product	tail assembly chaperone
+			transl_table	11
+			protein_id	ref|YP_008059170.1|
+			note	Tail Assembly Chaperone
+83988	85430	gene
+			gene	130
+			locus_tag	M200_gp098
+			old_locus_tag	HCTV5_130
+			db_xref	GeneID:16193831
+83988	85430	CDS
+			product	tape measure
+			transl_table	11
+			protein_id	ref|YP_008059171.1|
+			note	Tape Measure
+85427	85882	gene
+			gene	131
+			locus_tag	M200_gp097
+			old_locus_tag	HCTV5_131
+			db_xref	GeneID:16193845
+85427	85882	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059172.1|
+85889	87319	gene
+			gene	132
+			locus_tag	M200_gp096
+			old_locus_tag	HCTV5_132
+			db_xref	GeneID:16193847
+85889	87319	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059173.1|
+87312	88094	gene
+			gene	133
+			locus_tag	M200_gp095
+			old_locus_tag	HCTV5_133
+			db_xref	GeneID:16193800
+87312	88094	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059174.1|
+88094	89086	gene
+			gene	134
+			locus_tag	M200_gp094
+			old_locus_tag	HCTV5_134
+			db_xref	GeneID:16193853
+88094	89086	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059175.1|
+89100	90596	gene
+			gene	135
+			locus_tag	M200_gp093
+			old_locus_tag	HCTV5_135
+			db_xref	GeneID:16193848
+89100	90596	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059176.1|
+90599	91708	gene
+			gene	136
+			locus_tag	M200_gp092
+			old_locus_tag	HCTV5_136
+			db_xref	GeneID:16193798
+90599	91708	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059177.1|
+			note	Laminin G domain
+91710	92423	gene
+			gene	137
+			locus_tag	M200_gp091
+			old_locus_tag	HCTV5_137
+			db_xref	GeneID:16193721
+91710	92423	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059178.1|
+92479	92655	gene
+			gene	138
+			locus_tag	M200_gp090
+			old_locus_tag	HCTV5_138
+			db_xref	GeneID:16193791
+92479	92655	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059179.1|
+92918	92727	gene
+			gene	139
+			locus_tag	M200_gp089
+			old_locus_tag	HCTV5_139
+			db_xref	GeneID:16193833
+92918	92727	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059180.1|
+93267	92911	gene
+			gene	140
+			locus_tag	M200_gp088
+			old_locus_tag	HCTV5_140
+			db_xref	GeneID:16193709
+93267	92911	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059181.1|
+93351	93539	gene
+			gene	141
+			locus_tag	M200_gp087
+			old_locus_tag	HCTV5_141
+			db_xref	GeneID:16193836
+93351	93539	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059182.1|
+93536	93967	gene
+			gene	142
+			locus_tag	M200_gp057
+			old_locus_tag	HCTV5_142
+			db_xref	GeneID:16193862
+93536	93967	CDS
+			product	RNase HI
+			transl_table	11
+			protein_id	ref|YP_008059183.1|
+			note	RNase HI
+94341	93964	gene
+			gene	143
+			locus_tag	M200_gp063
+			old_locus_tag	HCTV5_143
+			db_xref	GeneID:16193838
+94341	93964	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059184.1|
+94594	95460	gene
+			gene	144
+			locus_tag	M200_gp086
+			old_locus_tag	HCTV5_144
+			db_xref	GeneID:16193706
+94594	95460	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059185.1|
+95457	95696	gene
+			gene	145
+			locus_tag	M200_gp085
+			old_locus_tag	HCTV5_145
+			db_xref	GeneID:16193864
+95457	95696	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059186.1|
+95728	95919	gene
+			gene	146
+			locus_tag	M200_gp084
+			old_locus_tag	HCTV5_146
+			db_xref	GeneID:16193857
+95728	95919	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059187.1|
+95910	96092	gene
+			gene	147
+			locus_tag	M200_gp083
+			old_locus_tag	HCTV5_147
+			db_xref	GeneID:16193708
+95910	96092	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059188.1|
+96085	96348	gene
+			gene	148
+			locus_tag	M200_gp082
+			old_locus_tag	HCTV5_148
+			db_xref	GeneID:16193861
+96085	96348	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059189.1|
+96350	96535	gene
+			gene	149
+			locus_tag	M200_gp081
+			old_locus_tag	HCTV5_149
+			db_xref	GeneID:16193834
+96350	96535	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059190.1|
+96532	96918	gene
+			gene	150
+			locus_tag	M200_gp080
+			old_locus_tag	HCTV5_150
+			db_xref	GeneID:16193774
+96532	96918	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059191.1|
+96915	97352	gene
+			gene	151
+			locus_tag	M200_gp079
+			old_locus_tag	HCTV5_151
+			db_xref	GeneID:16193803
+96915	97352	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059192.1|
+97349	97558	gene
+			gene	152
+			locus_tag	M200_gp078
+			old_locus_tag	HCTV5_152
+			db_xref	GeneID:16193710
+97349	97558	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059193.1|
+98196	97555	gene
+			gene	153
+			locus_tag	M200_gp077
+			old_locus_tag	HCTV5_153
+			db_xref	GeneID:16193799
+98196	97555	CDS
+			product	trimeric dUTPase
+			transl_table	11
+			protein_id	ref|YP_008059194.1|
+			note	Trimeric dUTPase
+98298	98627	gene
+			gene	154
+			locus_tag	M200_gp076
+			old_locus_tag	HCTV5_154
+			db_xref	GeneID:16193705
+98298	98627	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059195.1|
+98624	98857	gene
+			gene	155
+			locus_tag	M200_gp075
+			old_locus_tag	HCTV5_155
+			db_xref	GeneID:16193870
+98624	98857	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059196.1|
+98835	99035	gene
+			gene	156
+			locus_tag	M200_gp074
+			old_locus_tag	HCTV5_156
+			db_xref	GeneID:16193867
+98835	99035	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059197.1|
+99029	99202	gene
+			gene	157
+			locus_tag	M200_gp073
+			old_locus_tag	HCTV5_157
+			db_xref	GeneID:16193868
+99029	99202	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059198.1|
+99199	99390	gene
+			gene	158
+			locus_tag	M200_gp072
+			old_locus_tag	HCTV5_158
+			db_xref	GeneID:16193807
+99199	99390	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059199.1|
+99387	99578	gene
+			gene	159
+			locus_tag	M200_gp071
+			old_locus_tag	HCTV5_159
+			db_xref	GeneID:16193854
+99387	99578	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059200.1|
+99571	99726	gene
+			gene	160
+			locus_tag	M200_gp070
+			old_locus_tag	HCTV5_160
+			db_xref	GeneID:16193801
+99571	99726	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059201.1|
+99713	99874	gene
+			gene	161
+			locus_tag	M200_gp069
+			old_locus_tag	HCTV5_161
+			db_xref	GeneID:16193761
+99713	99874	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059202.1|
+99890	100111	gene
+			gene	162
+			locus_tag	M200_gp068
+			old_locus_tag	HCTV5_162
+			db_xref	GeneID:16193794
+99890	100111	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059203.1|
+100164	100643	gene
+			gene	163
+			locus_tag	M200_gp067
+			old_locus_tag	HCTV5_163
+			db_xref	GeneID:16193788
+100164	100643	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059204.1|
+100646	101233	gene
+			gene	164
+			locus_tag	M200_gp066
+			old_locus_tag	HCTV5_164
+			db_xref	GeneID:16193804
+100646	101233	CDS
+			product	GIY-YIG nuclease
+			transl_table	11
+			protein_id	ref|YP_008059205.1|
+			note	GIY-YIG nuclease
+101430	101287	gene
+			gene	165
+			locus_tag	M200_gp062
+			old_locus_tag	HCTV5_165
+			db_xref	GeneID:16193827
+101430	101287	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059206.1|
+101741	101427	gene
+			gene	166
+			locus_tag	M200_gp061
+			old_locus_tag	HCTV5_166
+			db_xref	GeneID:16193817
+101741	101427	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059207.1|
+101890	101738	gene
+			gene	167
+			locus_tag	M200_gp065
+			old_locus_tag	HCTV5_167
+			db_xref	GeneID:16193764
+101890	101738	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	ref|YP_008059208.1|
+

@@ -1,0 +1,102 @@
+name,start,end,strand,orf_annotation,conserved_proteins,col,gene_type,cex,lty,lwd,pch,chr
+gene_1_SAMEA2619923_17,316,693,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_2_SAMEA2619923_17,674,1261,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_3_SAMEA2619923_17,1264,1521,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_4_SAMEA2619923_17,1556,1930,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_5_SAMEA2619923_17,1935,2471,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_6_SAMEA2619923_17,2461,2616,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_7_SAMEA2619923_17,2647,2970,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_8_SAMEA2619923_17,3000,3173,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_9_SAMEA2619923_17,3166,3429,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_10_SAMEA2619923_17,3422,4267,+,TIM_phosphate_binding superfamily protein,,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_11_SAMEA2619923_17,4505,5554,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_12_SAMEA2619923_17,5547,7379,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_13_SAMEA2619923_17,7523,8110,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_14_SAMEA2619923_17,8120,8368,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_15_SAMEA2619923_17,8368,9090,+,Ras-like GTPase,,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_16_SAMEA2619923_17,9149,10156,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_17_SAMEA2619923_17,10167,10856,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_18_SAMEA2619923_17,10858,11118,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_19_SAMEA2619923_17,11418,12149,+,DUF1804 Protein of unknown function (DUF1804),DUF1804 Protein of unknown function (DUF1804),grey35,arrows,1,1,1,8,SAMEA2619923_17
+gene_20_SAMEA2619923_17,12151,13395,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_21_SAMEA2619923_17,13395,15359,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_22_SAMEA2619923_17,15352,16455,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_23_SAMEA2619923_17,16459,17949,+,terminase,terminase,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_24_SAMEA2619923_17,17962,19266,+,UvrD-like helicase/homing endonuclease,UvrD-like helicase/homing endonuclease,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_25_SAMEA2619923_17,19266,21014,+,phage portal protein,phage portal protein,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_26_SAMEA2619923_17,21051,21392,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_27_SAMEA2619923_17,21401,21751,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_28_SAMEA2619923_17,21753,22166,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_29_SAMEA2619923_17,22180,27885,+,ATP-dependent DNA ligase,ATP-dependent DNA ligase,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_30_SAMEA2619923_17,27914,29293,+,phage prohead protease,phage prohead protease,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_31_SAMEA2619923_17,29330,30514,+,major capsid protein,major capsid protein,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_32_SAMEA2619923_17,30552,30995,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_33_SAMEA2619923_17,31037,31411,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_34_SAMEA2619923_17,31414,31941,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_35_SAMEA2619923_17,31962,32291,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_36_SAMEA2619923_17,32291,32623,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_37_SAMEA2619923_17,32620,32967,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_38_SAMEA2619923_17,32972,33172,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_39_SAMEA2619923_17,33194,33475,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_40_SAMEA2619923_17,33472,35112,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_41_SAMEA2619923_17,35152,36717,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_42_SAMEA2619923_17,36723,37169,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_43_SAMEA2619923_17,37181,39214,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_44_SAMEA2619923_17,39221,39664,+,SAP domain,,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_45_SAMEA2619923_17,39651,39941,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_46_SAMEA2619923_17,39938,40183,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_47_SAMEA2619923_17,40185,40715,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_48_SAMEA2619923_17,40718,44539,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_49_SAMEA2619923_17,44598,46499,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_50_SAMEA2619923_17,46510,65502,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_51_SAMEA2619923_17,65484,66926,+,Putative phage tail protein,,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_52_SAMEA2619923_17,66929,67282,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_53_SAMEA2619923_17,67284,69404,+,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_54_SAMEA2619923_17,69760,70107,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_55_SAMEA2619923_17,70125,71636,-,"GroupA: Archaeal cpn60 chaperonin family (gene16, thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)","GroupA: Archaeal cpn60 chaperonin family (gene16, thermosome); other groups: GroEL_like type I chaperonin (bacterial and organelar)",Red,arrows,1,1,1,8,SAMEA2619923_17
+gene_56_SAMEA2619923_17,71667,72269,-,"DnaQ-like 3'-5' exonuclease, gene18","DnaQ-like 3'-5' exonuclease, gene18",whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_57_SAMEA2619923_17,72283,72531,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_58_SAMEA2619923_17,72524,73963,-,"DNA replicative helicase, gene19","DNA replicative helicase, gene19",whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_59_SAMEA2619923_17,73938,74630,-,"ERCC4-type nuclease, gene20","ERCC4-type nuclease, gene20",whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_60_SAMEA2619923_17,74672,74980,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_61_SAMEA2619923_17,74981,76087,-,"Primase AE_Prim_S, gene21","Primase AE_Prim_S, gene21",whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_62_SAMEA2619923_17,76071,76394,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_63_SAMEA2619923_17,76391,77362,-,"Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24","Cas4_I-A_I-B_I-C_I-D_II-B Superfamily, gene24",whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_64_SAMEA2619923_17,77359,77547,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_65_SAMEA2619923_17,77547,77777,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_66_SAMEA2619923_17,77774,77992,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_67_SAMEA2619923_17,77989,80391,-,DNA polymerase family B,DNA polymerase family B,Blue,arrows,1,1,1,8,SAMEA2619923_17
+gene_68_SAMEA2619923_17,80947,81711,-,"DNA polymerase sliding clamp, gene27","DNA polymerase sliding clamp, gene27",whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_69_SAMEA2619923_17,81721,82767,-,radB-like recombinase,radB-like recombinase,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_70_SAMEA2619923_17,82770,84080,-,"putative DNA-binding protein, gene29","putative DNA-binding protein, gene29",whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_71_SAMEA2619923_17,84077,85018,-,"Replication factor C small subunit, gene30","Replication factor C small subunit, gene30",whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_72_SAMEA2619923_17,85050,86519,-,putative thermostable DNA ligase,putative thermostable DNA ligase,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_73_SAMEA2619923_17,86522,86788,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_74_SAMEA2619923_17,86794,87516,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_75_SAMEA2619923_17,87500,87826,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_76_SAMEA2619923_17,87832,89469,-,Domain of unknown function (DUF932),,grey35,arrows,1,1,1,8,SAMEA2619923_17
+gene_77_SAMEA2619923_17,89456,89713,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_78_SAMEA2619923_17,89706,89966,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_79_SAMEA2619923_17,89968,90384,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_80_SAMEA2619923_17,90387,90611,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_81_SAMEA2619923_17,90664,90897,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_82_SAMEA2619923_17,91069,91509,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_83_SAMEA2619923_17,91616,93574,-,SNF2 family helicase,,whitesmoke,arrows,1,1,1,8,SAMEA2619923_17
+gene_84_SAMEA2619923_17,93555,94037,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_85_SAMEA2619923_17,94039,94263,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_86_SAMEA2619923_17,94260,94424,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_87_SAMEA2619923_17,94421,94513,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_88_SAMEA2619923_17,94510,94965,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_89_SAMEA2619923_17,95081,96316,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_90_SAMEA2619923_17,96317,96532,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_91_SAMEA2619923_17,96532,98004,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_92_SAMEA2619923_17,98006,98395,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_93_SAMEA2619923_17,98392,98817,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_94_SAMEA2619923_17,98821,98958,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_95_SAMEA2619923_17,98955,99242,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_96_SAMEA2619923_17,99256,99741,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_97_SAMEA2619923_17,99811,99963,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_98_SAMEA2619923_17,99960,100928,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_99_SAMEA2619923_17,100915,101517,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_100_SAMEA2619923_17,101504,101806,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17
+gene_101_SAMEA2619923_17,101953,102681,-,hypothetical protein,,Gray,arrows,1,1,1,8,SAMEA2619923_17

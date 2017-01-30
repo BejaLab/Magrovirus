@@ -1,0 +1,298 @@
+	genome_group	genome_hash	genome_name	genome_size
+214	Crenarchaeota	2ed23a21ef61ff4cb010e129e7614375	gi|343459436|gb|CP002838.1| Pyrolobus fumarii 1A, complete genome	1843267
+191	Crenarchaeota	eaa5b12e32fc179a2ba580563c42833e	gi|160338813|gb|CP000866.1| Nitrosopumilus maritimus SCM1, complete genome	1645259
+245	Crenarchaeota	10bec8571527712ce29ca5fa18e2414f	gi|756979970|ref|NZ_KI911318.1| Desulfurococcus amylolyticus Z-533 genomic scaffold scaffold1, whole genome shotgun sequence	1307099
+87	Cyanophage	d32dc705768ac025e86b4fd11732ce07	SAMEA2622821_608 /station=TARA_125 /depth=5 /filter=0.1-0.22	31032
+85	Cyanophage	a72a8538360159e4722ce3e92bc8d72e	SAMEA2622799_8590 /station=TARA_124 /depth=120 /filter=0.1-0.22	6203
+84	Cyanophage	f6a091806a6079ca9234537b2177b76d	SAMEA2622799_4583 /station=TARA_124 /depth=120 /filter=0.1-0.22	10242
+238	Cyanophage	2cf909f790ceb44ef8ee11829187d18f	gi|58532811|ref|NC_006820.1| Synechococcus phage S-PM2, complete genome	196280
+81	Cyanophage	20eb985a94b1a4baca0c52c540cdbab7	SAMEA2622736_279440 /station=TARA_123 /depth=150 /filter=0.1-0.22	39232
+80	Cyanophage	519591b03214e76ed771523659d24068	SAMEA2622694_4896 /station=TARA_122 /depth=115 /filter=0.1-0.22	8213
+79	Cyanophage	ad681e8899b1410519cd465733d106cd	SAMEA2622694_4368 /station=TARA_122 /depth=115 /filter=0.1-0.22	8872
+78	Cyanophage	3d23d5e775497479041e467f98ef0a52	SAMEA2622656_647526 /station=TARA_122 /depth=5 /filter=0.1-0.22	8210
+71	Cyanophage	d22a0af4a7860a53341e5edda689e011	SAMEA2621173_2106 /station=TARA_072 /depth=100 /filter=0-0.22	11072
+77	Cyanophage	5f7bf6ae46a38314ff97f9f67c2439b9	SAMEA2622331_5402 /station=TARA_109 /depth=5 /filter=0-0.22	5901
+72	Cyanophage	f75ea644ef589a74e11eeb1ac354dfca	SAMEA2621173_4401 /station=TARA_072 /depth=100 /filter=0-0.22	6343
+70	Cyanophage	68d505ed7e1bf469cfc93fad9186dbba	SAMEA2621173_1423 /station=TARA_072 /depth=100 /filter=0-0.22	12396
+56	Cyanophage	a04b70aebc69aea82b0cd695cda86b35	SAMEA2620894_1263 /station=TARA_065 /depth=30 /filter=0.1-0.22	12590
+51	Cyanophage	a1a4484522e7f197e93087a5e39ad10b	SAMEA2620812_6831 /station=TARA_064 /depth=5 /filter=0-0.22	6038
+49	Cyanophage	6ef844312eb622d1e3efcff2c9a4ae49	SAMEA2620273_7202 /station=TARA_042 /depth=80 /filter=0-0.22	8188
+48	Cyanophage	ad41b9a65623c6d4a1cff5cbb3349e92	SAMEA2620273_6003 /station=TARA_042 /depth=80 /filter=0-0.22	5918
+188	Cyanophage	0c92188f8bed66f363e58b34fe2c9bf5	gi|148724443|ref|NC_009531.1| Cyanophage Syn5, complete genome	46214
+230	Cyanophage	cb9b40de1fcb3da7b0f6eb62d1a1e6f5	gi|472341815|ref|NC_020857.1| Cyanophage MED4-117 genomic sequence	38834
+229	Cyanophage	044bab88ff99ff923efde82fbd605c6e	gi|472341521|ref|NC_020855.1| Cyanophage P-RSM6 genomic sequence	192497
+228	Cyanophage	ec6bc2d0a8055d648d0cde3779f38377	gi|472340512|ref|NC_020847.1| Cyanophage MED4-184 genomic sequence	38327
+203	Cyanophage	a5c910dc0412354d599a17709abdbac0	gi|326782024|ref|NC_015280.1| Prochlorococcus phage P-HM1, complete genome	181044
+205	Cyanophage	96a7b1bbf4b54b267e559ad999f994c8	gi|326783215|ref|NC_015285.1| Prochlorococcus phage Syn33, complete genome	174285
+202	Cyanophage	f2ca6439cbeb29ef429cb9dcc04efade	gi|326781756|ref|NC_015279.1| Synechococcus phage S-SM2, complete genome	190789
+201	Cyanophage	ffef92a620d53a5edcd431b12716af69	gi|312281391|ref|NC_006884.2| Prochlorococcus phage P-SSM4, complete genome	178249
+206	Cyanophage	015516e39eb83e97f499e8e20f5bda1e	gi|326783443|ref|NC_015286.1| Synechococcus phage Syn19, complete genome	175230
+207	Cyanophage	c84cc511d5c752080560170a686fbd8d	gi|326783659|ref|NC_015287.1| Synechococcus phage S-SSM7, complete genome	232878
+208	Cyanophage	b091c6d83853c37ee83293845ba5e048	gi|326783979|ref|NC_015288.1| Prochlorococcus phage Syn1, complete genome	191195
+43	Cyanophage	367bbaaa2e2f57c2d434092e94455763	SAMEA2620094_1815 /station=TARA_039 /depth=25 /filter=0-0.22	9305
+209	Cyanophage	49e6164297ec0b0e47191950180468d4	gi|331028007|ref|NC_015465.1| Synechococcus phage S-CBS3, complete genome	33004
+215	Cyanophage	2af8aea700d4534ade0ffe6b9c7e6e00	gi|356870794|ref|NC_016164.1| Synechococcus phage S-CBS1, complete genome	30332
+216	Cyanophage	32bc08f1eb174b2d44ee1b845e9dd161	gi|372217655|ref|NC_016656.1| Cyanophage P-SSP2, complete genome	45890
+217	Cyanophage	96be44ae1056b4b10926847e9eb4acce	gi|372217768|ref|NC_016658.1| Cyanophage NATL1A-7, complete genome	47741
+219	Cyanophage	dffc692e00cfa653e11cf72b29b5dd32	gi|388483859|ref|NC_006882.2| Prochlorococcus phage P-SSP7, complete genome	45176
+220	Cyanophage	d263f720f0de0cd6f25fca938c1f5ece	gi|418487144|ref|NC_019443.1| Synechococcus phage metaG-MbCM1, complete genome	172879
+221	Cyanophage	6194f8df3c275ef9889ef82e670951fa	gi|422936140|ref|NC_019516.1| Cyanophage S-TIM5, complete genome	161440
+227	Cyanophage	38b99740a870581c2ab4437f6753629e	gi|472340220|ref|NC_020845.1| Cyanophage MED4-213, complete genome	180977
+200	Cyanophage	25ede89c915b210d655d6c7a5d362db6	gi|312281379|ref|NC_006883.2| Prochlorococcus phage P-SSM2, complete genome	252401
+42	Cyanophage	0349bfb700b2f841be42be3a501633fe	SAMEA2620078_7852 /station=TARA_039 /depth=5 /filter=0-0.22	6115
+204	Cyanophage	588d9ff15714092a51ed4f06e0a02090	gi|326782732|ref|NC_015283.1| Prochlorococcus phage P-RSM4, complete genome	176428
+17	Cyanophage	42b81963f54377986bd8aac34c4643f4	SAMEA2619686_1031 /station=TARA_018 /depth=60 /filter=0-0.22	25611
+29	Cyanophage	aa0f4f51402c7d7ec3d792ffd8e4c55f	SAMEA2619935_167 /station=TARA_036 /depth=5 /filter=0.1-0.22	18853
+33	Cyanophage	ba4c7ed1b0489104225a36696dc73b03	SAMEA2619962_238 /station=TARA_036 /depth=17 /filter=0-0.22	21678
+26	Cyanophage	7a99bf369c0b478306ccb6ad1e75e153	SAMEA2619903_3744 /station=TARA_034 /depth=5 /filter=0-0.22	8947
+35	Cyanophage	d450b0c9a0999d85ad1940b3e7b00aef	SAMEA2620004_3044 /station=TARA_038 /depth=5 /filter=0.1-0.22	6720
+24	Cyanophage	355ddc067ef5b0a90e8eaf638bfabc14	SAMEA2619888_5466 /station=TARA_034 /depth=5 /filter=0.1-0.22	7649
+23	Cyanophage	165478a4cc06f7e8baa954a50c532cd9	SAMEA2619888_3130 /station=TARA_034 /depth=5 /filter=0.1-0.22	10425
+20	Cyanophage	cc92fe0361fa718786cfd15f8f5f90fc	SAMEA2619791_5652 /station=TARA_025 /depth=50 /filter=0-0.22	6387
+19	Cyanophage	bfd475119efb1baa1c91a4409c3239b0	SAMEA2619791_458 /station=TARA_025 /depth=50 /filter=0-0.22	45155
+32	Cyanophage	1bae9bbd112189ed403602b6b83f0214	SAMEA2619962_2313 /station=TARA_036 /depth=17 /filter=0-0.22	6753
+36	Cyanophage	f6e8a24f0f899dd4a20049b6d84d96db	SAMEA2620014_177 /station=TARA_038 /depth=5 /filter=0-0.22	37920
+196	Cyanophage	e1d3fceac37b1441f116eb9865b8eb84	gi|265525079|gb|GU071092.1| Prochlorococcus phage P-SSM2, complete genome	252407
+31	Cyanophage	50de7c01090dec5d0d9bc82584d1131e	SAMEA2619950_1649 /station=TARA_036 /depth=5 /filter=0-0.22	9014
+293	Cyanophage	5978f2c6499e3ca590e060b1ad62698f	gi|971760222|ref|NC_028955.1| Prochlorococcus phage P-TIM68, complete genome	197361
+292	Cyanophage	376803a97948d742149e460c5f9f1169	gi|966198239|ref|NC_028663.1| Cyanophage P-TIM40, complete genome	188632
+39	Cyanophage	b6045dd7874016ed8077ecf5f498ed7c	SAMEA2620078_1066 /station=TARA_039 /depth=5 /filter=0-0.22	14433
+195	Cyanophage	126daea7cb41406f686dbe50a98dca81	gi|255928922|ref|NC_013085.1| Synechococcus phage S-RSM4, complete genome	194454
+285	Euryarchaeota	b68e82dcffd84ddc7b8c7ac2c908b79b	gi|932823002|dbj|BBBE01000007.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00007, whole genome shotgun sequence	86596
+277	Euryarchaeota	9f2a5a4f25b2a444982caa0684a5ddec	gi|932822994|dbj|BBBE01000015.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00015, whole genome shotgun sequence	30537
+278	Euryarchaeota	15e959cb28794f369241a8acbce07fe1	gi|932822995|dbj|BBBE01000014.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00014, whole genome shotgun sequence	67774
+279	Euryarchaeota	790dffecf0995b43d78fa92e5cd1e364	gi|932822996|dbj|BBBE01000013.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00013, whole genome shotgun sequence	71728
+291	Euryarchaeota	64f933c865bfe77bb9182ea6541f77bb	gi|932823008|dbj|BBBE01000001.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00001, whole genome shotgun sequence	465255
+290	Euryarchaeota	6a2febaab7319f825591ad51a17c2cf7	gi|932823007|dbj|BBBE01000002.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00002, whole genome shotgun sequence	204148
+280	Euryarchaeota	29ee5fcd9c3443fee940f1b271aec5dc	gi|932822997|dbj|BBBE01000012.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00012, whole genome shotgun sequence	74625
+272	Euryarchaeota	e39653a22439cd6ec1e9b5136bcb072e	gi|932822989|dbj|BBBE01000020.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00020, whole genome shotgun sequence	5883
+281	Euryarchaeota	66dbb4bebc0fc361bfe961fc053fa3c1	gi|932822998|dbj|BBBE01000011.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00011, whole genome shotgun sequence	79664
+282	Euryarchaeota	0e4bdb44098c8ba5e9cba8d0c964a83e	gi|932822999|dbj|BBBE01000010.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00010, whole genome shotgun sequence	81314
+288	Euryarchaeota	881131f3ca2ac6911144655b367b024a	gi|932823005|dbj|BBBE01000004.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00004, whole genome shotgun sequence	96488
+287	Euryarchaeota	17d1fbfc42024b86a59a24bb16b1d787	gi|932823004|dbj|BBBE01000005.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00005, whole genome shotgun sequence	96478
+283	Euryarchaeota	f1958ab9a99f217ddc72579b96611e3e	gi|932823000|dbj|BBBE01000009.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00009, whole genome shotgun sequence	82519
+286	Euryarchaeota	131b46c04662b2796c71166a0003fa15	gi|932823003|dbj|BBBE01000006.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00006, whole genome shotgun sequence	90645
+284	Euryarchaeota	7256396477ada3c26f22096fa46a25df	gi|932823001|dbj|BBBE01000008.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00008, whole genome shotgun sequence	83999
+218	Euryarchaeota	51bac63bf5988ce37fdf1c5d8ce7634f	gi|385802382|ref|NC_017459.1| Haloquadratum walsbyi C23 complete genome	3148033
+197	Euryarchaeota	d914c82014bbcb67671b315e5e0201ae	gi|288892655|gb|CP001899.1| Ferroglobus placidus DSM 10642, complete genome	2196266
+289	Euryarchaeota	c63c475535cd2d837431f59c16915ee4	gi|932823006|dbj|BBBE01000003.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00003, whole genome shotgun sequence	153738
+273	Euryarchaeota	ff8910ff99a4b250d5f3019ac143b1bd	gi|932822990|dbj|BBBE01000019.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00019, whole genome shotgun sequence	17575
+185	Euryarchaeota	757266918d1450e9a79ebb633f20b48b	gi|126177952|ref|NC_009051.1| Methanoculleus marisnigri JR1, complete genome	2478101
+260	Euryarchaeota	a16941d6e2509ea3764b2a64742c322a	gi|932822977|dbj|BBBE01000032.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00032, whole genome shotgun sequence	1449
+275	Euryarchaeota	7cdb38d70dd2e1def9f3633410d690fa	gi|932822992|dbj|BBBE01000017.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00017, whole genome shotgun sequence	24006
+258	Euryarchaeota	c127e86973eb8b7b633f4637d4b3d883	gi|932822975|dbj|BBBE01000034.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00034, whole genome shotgun sequence	1365
+274	Euryarchaeota	a3d19fff4deb7711adc404a497413386	gi|932822991|dbj|BBBE01000018.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00018, whole genome shotgun sequence	22132
+257	Euryarchaeota	935a49d2f0e1d884d32acb78a18fe5b6	gi|932822974|dbj|BBBE01000035.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00035, whole genome shotgun sequence	1177
+256	Euryarchaeota	f85a93f6b10cbaf17d539d22e9332b7f	gi|932822973|dbj|BBBE01000036.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00036, whole genome shotgun sequence	1091
+255	Euryarchaeota	8240c9371003f0786be345fefe69d9ee	gi|932822972|dbj|BBBE01000037.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00037, whole genome shotgun sequence	939
+254	Euryarchaeota	d00c6b9330b2ca7da9c58e995760881e	gi|932822971|dbj|BBBE01000038.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00038, whole genome shotgun sequence	714
+261	Euryarchaeota	b71baede37e73a56e86a045b1d63e33d	gi|932822978|dbj|BBBE01000031.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00031, whole genome shotgun sequence	1865
+262	Euryarchaeota	b67c4a47e31e0bd3c8712ea6940bec3e	gi|932822979|dbj|BBBE01000030.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00030, whole genome shotgun sequence	1955
+268	Euryarchaeota	1c26e6ac2e30ab04e094cf4950ae5e2e	gi|932822985|dbj|BBBE01000024.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00024, whole genome shotgun sequence	4118
+263	Euryarchaeota	e3085b25fedc1064bd16b67cc16c723c	gi|932822980|dbj|BBBE01000029.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00029, whole genome shotgun sequence	2100
+259	Euryarchaeota	c8ffc229189268e7a890dbaf55538381	gi|932822976|dbj|BBBE01000033.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00033, whole genome shotgun sequence	1378
+270	Euryarchaeota	c466a8eed0ae163dba5ddc3a5b22d482	gi|932822987|dbj|BBBE01000022.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00022, whole genome shotgun sequence	5101
+269	Euryarchaeota	8f69be0be506a44878a909bff44101b8	gi|932822986|dbj|BBBE01000023.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00023, whole genome shotgun sequence	4341
+252	Euryarchaeota	c81b033ad27709a0c24d1638c2b6b297	gi|932822969|dbj|BBBE01000040.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00040, whole genome shotgun sequence	681
+246	Euryarchaeota	d90b1fcd27a4bc0b91b8504d7b18043c	gi|757142838|ref|NZ_AUMX01000001.1| [strain=DSM 4179], whole genome shotgun sequence	324318
+266	Euryarchaeota	d07b9c8628faa09fa7a7a9f7b28a586e	gi|932822983|dbj|BBBE01000026.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00026, whole genome shotgun sequence	2720
+276	Euryarchaeota	4ebf00dd5dbea5a9f83d29b9cc546ad7	gi|932822993|dbj|BBBE01000016.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00016, whole genome shotgun sequence	28413
+265	Euryarchaeota	59ecb0e14c847d4e33ef792120381d65	gi|932822982|dbj|BBBE01000027.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00027, whole genome shotgun sequence	2325
+249	Euryarchaeota	e3a1f2c87d440f6d995f6b0035b494bf	gi|851114167|ref|NZ_LN515531.1| Methanobacterium formicicum genome assembly DSM1535, chromosome : chrI	2478074
+253	Euryarchaeota	01165ceea3e09dcee8ff1519b0a501ae	gi|932822970|dbj|BBBE01000039.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00039, whole genome shotgun sequence	687
+267	Euryarchaeota	bdd86345c53282a14ecd785cfa1b4ae2	gi|932822984|dbj|BBBE01000025.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00025, whole genome shotgun sequence	3824
+264	Euryarchaeota	f99450e50963d34400448fc2d38bebba	gi|932822981|dbj|BBBE01000028.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00028, whole genome shotgun sequence	2198
+271	Euryarchaeota	f49d9f096c003c9a81bd57b6d41046a7	gi|932822988|dbj|BBBE01000021.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00021, whole genome shotgun sequence	5398
+251	Euryarchaeota	6156c84e4535eca879979c338e2b67e9	gi|932822968|dbj|BBBE01000041.1| Thermococcus peptonophilus JCM 9653 DNA, contig: JCM9653.contig00041, whole genome shotgun sequence	503
+231	Halovirus	f0a09d1f6102da0977952375b4475e56	gi|509140160|ref|NC_021327.1| Halovirus HCTV-5, complete genome	102105
+233	Halovirus	0c292bf3f4cd772946893ad5f449442b	gi|509141110|ref|NC_021335.1| Halovirus HRTV-7, complete genome	69048
+232	Halovirus	77051e9d9c4b9c92befb4f7520ed6bad	gi|509140683|ref|NC_021330.1| Halovirus HCTV-1, complete genome	103257
+222	Halovirus	87919bb77887eb43a8479f5d181309e2	gi|443404569|ref|NC_020158.1| Halovirus HVTV-1, complete genome	102319
+234	Halovirus	134bcd25e8b416c2dbe0a7d2b4d47a16	gi|511534117|ref|NC_021471.1| Halovirus HSTV-1, complete genome	32189
+156	MGII	ea618c6ddf391139c2c7c7bcb74d714f	contig__172706	146253
+154	MGII	4a1743f8da64feca9e97662122c1ba53	contig__172500	134949
+157	MGII	d4aabdb483cea2cb83826488296a6742	contig__173007	42429
+153	MGII	6b480bfc649fd78b62cca13a98f92f16	contig__172446	177335
+152	MGII	720dcfbed855c0e58edfd70d3c8f6661	contig__167199	37179
+150	MGII	68d4fc2ce4bcbf4e9c72d6eb7f486574	contig__162378	44726
+147	MGII	6fd110929c3138baad44331c02213f77	contig__159728	142884
+146	MGII	be15da15e189a0bf9bfc096d16e1d1ea	contig__158854	142770
+145	MGII	a8b6137ae2453c67945e42dd2d56dd0c	contig__158556	108302
+155	MGII	0a4d42aa39ee1d656370599e4c958fc5	contig__172640	65472
+158	MGII	0c48d9221d2a92e6a3edccaa4a129dd4	contig__173319	117816
+178	MGII	ef3cc855ea2a03e5ec98be24202b5624	contig__412943	14303
+160	MGII	3495d2881ab44b4bf0169752d3620be3	contig__175248	117062
+176	MGII	3339359fdd6969f587a25e51167e9a05	contig__402642	12780
+144	MGII	c9d3e2fbf1bdac6a55a4553a34e744f0	contig__158470	41947
+175	MGII	d59f7f229b022f84c2a3c596fe92b55e	contig__402223	93454
+174	MGII	f2bdb09f7befeea6945c389b339735f0	contig__400168	29549
+172	MGII	a299987148f42490acf66b4e710c8c6a	contig__389883	35799
+171	MGII	7a613c8787ec27a3c0679fee1ccca5d3	contig__367655	20389
+170	MGII	d4b6410d16bbb030cd19396e956549a6	contig__367509	80299
+169	MGII	b2357f1ce9bb484731c646c8c84542fb	contig__347528	18807
+168	MGII	258cd229425a35ad39eef1e707d00fab	contig__344836	100120
+167	MGII	c756c8241cb7523552193850f2fe0665	contig__3236544	2423
+166	MGII	4a9c8747b7c56abf5de9ff52eaeb2c65	contig__2498119	2681
+165	MGII	fed8519c6389f29dc5b2b6e1ca6434f0	contig__2447543	4118
+164	MGII	656359dcbf52294a89fe80b0e0a543c6	contig__2441869	2132
+177	MGII	f354e982e7da93ed3af2c8f84964cc25	contig__403162	46760
+163	MGII	3bc58051098f4248f98619506973afa3	contig__2314329	2816
+179	MGII	1c662196f135daaaffa12bd2540752ca	contig__418747	6789
+193	MGII	cb8a73007236dcb3edb2eff36f62937b	gi|170516806|gb|EU556724.1| Uncultured marine group II euryarchaeote DeepAnt-15E7 genomic sequence	38890
+159	MGII	35c1af6e5eda2905fcf4c987c9b1235c	contig__173937	179967
+173	MGII	ba8de44645a7ed6cca4c586892fbfc2f	contig__390204	31418
+149	MGII	0e5e80ff656568ea45afbb2880337647	contig__160241	54988
+141	MGII	f26b0f74740a9323ff7cf08be9e60604	contig__157847	78899
+100	MGII	3c2ef9c65b0f3424cddb62c38a06058f	contig__152314	94506
+99	MGII	b23a2f71f062b689ebb32920559f5916	contig__152292	159845
+98	MGII	5d7188a9ed6e7467b685a6a08a944039	contig__152290	176293
+97	MGII	182202ca4e5fd4cbf09785232a6b766b	contig__152276	101502
+96	MGII	5df967460616a78f13eb1776d779cec8	contig__152245	64308
+95	MGII	34ca9520c481bd520c7cd13698babd07	contig__152209	153805
+94	MGII	e5aad4e3a39e2da75e5220fb0a901c2f	contig__1209387	24119
+92	MGII	3c571a295dbba22dcf45957159cdc242	contig__1205742	75983
+91	MGII	0c7f30d475d2937d9b0d28f0123419ce	contig__1205679	76215
+90	MGII	26bea47ea11d41e56515006673886ab0	contig__1205646	79519
+241	MGII	38fb5b9fa398b72ad1841fcebd6378d0	gi|663515939|gb|KF900769.1| Uncultured marine group II/III euryarchaeote KM3_192_B10 genomic sequence	42084
+242	MGII	4e986d9bc778ea6bd2ff7ea2093f14e6	gi|663526170|gb|KF901053.1| Uncultured marine group II/III euryarchaeote KM3_74_A11 genomic sequence	38908
+243	MGII	3ebe5a78b626ed68771cc76a2e9bcff5	gi|663530238|gb|KF901159.1| Uncultured marine group II/III euryarchaeote KM3_88_H06 genomic sequence	36624
+15	MGII	082ebca091d9b65cc9324332993a777a	Eury_contig__182440	78898
+14	MGII	4997286285315acda0a42f15d7f1b5ea	Eury_MGII_archaea contig__155189	251420
+13	MGII	8e73b3a8a5f66fba0e53c10d537cb429	ENA|CM001443|CM001443.1 uncultured marine group II euryarchaeote chromosome, whole genome shotgun sequence. 	2064136
+11	MGII	339a11c9fbc20afce016d9ef6c789e96	gi|482770381|gb|ARPJ01000001.1| Marine group II euryarchaeote SCGC AAA288-C18 A288C18DRAFT_2505694915.1_C, whole genome shotgun sequence	70285
+106	MGII	d16c939b4b4038355588b3b6708b6fb0	contig__154640	156695
+143	MGII	a9c3fbec81ba3d304bbda624939496f5	contig__158356	211028
+109	MGII	7726354a5e13671052ad42e070483dac	contig__154776	51983
+114	MGII	4d33c70765f3be349acb8f68c9d5b9f0	contig__155189	251420
+140	MGII	42011220d38100dcac36834b222aab4f	contig__157756	54081
+139	MGII	374d112a90d61db8c233e986d45061dd	contig__157656	67929
+138	MGII	b21a5bfca1812440d510ffc3e276ebed	contig__157643	90504
+137	MGII	54b4685d31d999a744f3b643815f624a	contig__157638	84849
+135	MGII	0a15dce371a33035be2f0aee5c8e5117	contig__157517	18063
+134	MGII	61c89861d20f65e76b0921a264d386ab	contig__157361	86539
+133	MGII	f92922d3d161a9750092e666815d2d7b	contig__157027	55337
+112	MGII	f0b26e0d7b784d572cdc58bfe2bb4ec1	contig__154932	84226
+132	MGII	579f11f66207bda055fe72553d706e14	contig__156895	46714
+130	MGII	2b2dce9ced89e317e51e37c5660ba588	contig__156581	27867
+128	MGII	a70e8a02337fcd124857e3149c4ed229	contig__156469	58977
+125	MGII	c3440cf054721023133f4642eee1593b	contig__156257	143228
+123	MGII	a79a89db0349892cbe51525c92cbd0bb	contig__156040	184753
+122	MGII	2487ad689f0700fdf0386f4abc4bf57c	contig__156027	154857
+121	MGII	67db24533894a8e101cfb4897967df79	contig__155937	24978
+120	MGII	1b1ca8b3cd60d96ff8d087f285443ca5	contig__155828	272699
+118	MGII	c17605ff6c4aa09b04d9c6600888c2b3	contig__155598	92064
+131	MGII	8586ceb4c5e2ee96e910beb46cf09baf	contig__156856	83322
+93	MGII	6b869cfde771592b82279c412c5aca77	contig__1209332	90418
+295	MGII_virus	25dcd4c18adf16377c21a5e90dc13fa8	contig__154940	60318
+297	MGII_virus	68b78412a7f11f18f4a50f5605957f04	contig__172037	61133
+76	MGII_virus	280f9c178a97d12990e63f3d3a6d8e64	SAMEA2621271_44	96570
+73	MGII_virus	cbf2db1c15167953bf11d3db5cc289b9	SAMEA2621173_5	102711
+74	MGII_virus	533ef7cb50513d7f06eb2ddb93ff3423	SAMEA2621173_6	102476
+75	MGII_virus	226ca292b2eda35c2f1f6002b9b17d57	SAMEA2621191_131	91826
+44	MGII_virus	02371106a19ff000140973baf116de33	SAMEA2620094_25	96254
+82	MGII_virus	77ff92da624585a62f5fc3af6623e032	SAMEA2622799_18	108631
+83	MGII_virus	021526ee7d2b6443a61822ee165426e4	SAMEA2622799_215	106078
+41	MGII_virus	e5c431bb485aa1f53e7d70757d569c40	SAMEA2620078_50	104411
+86	MGII_virus	67cac3c5a6b8923c8f2e4dcb0163be26	SAMEA2622821_47	97372
+88	MGII_virus	af8ccfb92ece0a3237d7d90e23efbf8e	SAMEA2622841_50	97105
+89	MGII_virus	389fd651c4ca3b76da9a807a2b49a3f9	X_contig__155773 DNApol similar to the split but is not a split	84959
+40	MGII_virus	9910c3ed60ea261e51c35c08abf62ee5	SAMEA2620078_38	94102
+38	MGII_virus	91f502bc416ff9167f3e35cd1c722a52	SAMEA2620027_12	114450
+103	MGII_virus	a65af550e93971815c6159b37c576d8d	contig__154564 thermosome	96892
+104	MGII_virus	1ab1e0133df14226dd7900da4f82e01d	contig__154566	105939
+52	MGII_virus	a9189a8b26d9309ff2883e5890e48281	SAMEA2620852_5	93625
+45	MGII_virus	ec217253134190ffba70b809531248a7	SAMEA2620094_9	109805
+37	MGII_virus	8247b1bb85c6a05834b51271f0c5ef23	SAMEA2620014_23	105628
+46	MGII_virus	cd5ee01db6380a109a1ad3d2eac1ab55	SAMEA2620256_34	96344
+47	MGII_virus	f799edd6b8f8042e9a00c054af09c4f8	SAMEA2620273_4	111550
+53	MGII_virus	5e4a7cf8ce806279a14e631ee78c9323	SAMEA2620879_17	97621
+54	MGII_virus	466fbeb45467972549dd4cc22276a97e	SAMEA2620879_23	93879
+55	MGII_virus	ed0f28e0337de62bc80ef96dae65c523	SAMEA2620879_92	110464
+57	MGII_virus	421adc2e0ca45d2bbd47daa40c61e298	SAMEA2620947_215	91441
+58	MGII_virus	79ef58e8896a8180fade5d68efe79d72	SAMEA2620947_256	107544
+59	MGII_virus	fa45ecd316869b308c0ec96b9506fa76	SAMEA2620947_89	103300
+60	MGII_virus	9f39ff00bb2361a6f2ca57bf13da56af	SAMEA2620991_38	91135
+61	MGII_virus	567c49bf8de1d40115dfb0c376a64192	SAMEA2621033_64	91572
+62	MGII_virus	60c64fc2a20eae08c2dbeb954dd49c84	SAMEA2621061_122	106637
+63	MGII_virus	cad91562d22fd21280ae3941b8d0e1c9	SAMEA2621085_54	96049
+64	MGII_virus	a4337bdf71da69dc3ef2f03e1f2f937f	SAMEA2621085_65	102641
+65	MGII_virus	93ed4de81d1e165e49723c892ef57243	SAMEA2621085_75_2	105626
+66	MGII_virus	301d83db1d76369d2b53d4acf18f1e46	SAMEA2621151_104	92290
+67	MGII_virus	b5e5136c89f1159814a7c417b9a87903	SAMEA2621151_40	108353
+68	MGII_virus	a7dd04ecfd3ceaa945fede92d37f230b	SAMEA2621151_45	95721
+69	MGII_virus	56e32ef9119d78737628d12f98db2f0e	SAMEA2621173_12	93579
+34	MGII_virus	789a0753a83a4783250efeadeed9b852	SAMEA2619974_229	111219
+105	MGII_virus	b18af36ea2e34feba618d892a21af8e8	contig__154592	96096
+28	MGII_virus	1d0c8edc90633df0840edcb1970241b8	SAMEA2619923_17	102781
+161	MGII_virus	2c5214ca8d1d3e8ec3c0e847752b045a	contig__175897 Group A? Thermosome, DNApol	100883
+296	MGII_virus	ca46d0f32d64d17530afd51851c136d3	contig__155057	63764
+136	MGII_virus	36a41241ea79db520cbdeca650a294c1	contig__157565	78017
+30	MGII_virus	304524a2b6692ffb42363678ded8bace	SAMEA2619950_102	102994
+12	MGII_virus	2871a030d5f4d04037a9b6f405e19c5a	Z1	110390
+119	MGII_virus	954166d7cce519dc8f98283b0288d990	contig__155688	104483
+16	MGII_virus	77cc87d0c3db21870ba195f3dd9ae65f	SAMEA2591132_39	111435
+127	MGII_virus	1afaeedd5afa425942c445f666d5344d	contig__156409	118049
+21	MGII_virus	694324f7d2e0808591ed7410c8eea0ad	SAMEA2619791_70	106050
+107	MGII_virus	63be4f1f9347ff68268e519c05affbbf	contig__154676 Group B? Split DNA pol  Candidate tRNA Predictions in BED format:	53712
+108	MGII_virus	c85469d5670f460cf1d2794478ed34b4	contig__154680	102054
+18	MGII_virus	4df27eccd1c88d8d5ea4ae3cbfac2ee1	SAMEA2619686_19	114285
+27	MGII_virus	4c9122896711021519fd392d1a04a875	SAMEA2619903_78	106012
+25	MGII_virus	cc494ca52718071f37103a120d78b112	SAMEA2619903_161	94240
+50	MGII_virus	067818cbe750e84a2079e8976e77f2c3	SAMEA2620384_30	107302
+22	MGII_virus	b67f2c471d3bcd980e0daf08e7e10d42	SAMEA2619888_18	106776
+211	Prochlorococcus	3a7029d4297604cd7c5288ec6bc85724	gi|33860560|ref|NC_005072.1| Prochlorococcus marinus MED4 complete genome	1657990
+182	Prochlorococcus	8d38f90e14ff33a235b5934da2f88dcf	gi|123967536|ref|NC_008816.1| Prochlorococcus marinus_AS9601, complete genome	1669886
+192	Prochlorococcus	c3355f2daa823304da8a5f204955f2b2	gi|162958048|ref|NC_007335.2| Prochlorococcus marinus_NATL2A, complete genome	1842899
+212	Prochlorococcus	80365997f7308a4df30ca101fe0f3514	gi|33862273|ref|NC_005071.1| Prochlorococcus marinus MIT9313 complete genome	2410873
+190	Prochlorococcus	57328953415733bfc592ab8c8fad6940	gi|159887716|gb|CP000878.1| Prochlorococcus marinus_MIT 9211 genome	1688963
+183	Prochlorococcus	e583b8b86a6d640da112fa80728e697e	gi|124021714|ref|NC_008820.1| Prochlorococcus marinus_MIT 9303, complete genome	2682675
+189	Prochlorococcus	3ae5e734b7686a101252fcbe401886da	gi|157412338|ref|NC_009840.1| Prochlorococcus marinus_MIT 9215, complete genome	1738790
+184	Prochlorococcus	41395afd3460252eef1e5e1f3b347536	gi|124024712|ref|NC_008819.1| Prochlorococcus marinus_NATL1A, complete genome	1864731
+210	Prochlorococcus	8e038047f40341068e99881350501927	gi|33239452|ref|NC_005042.1| Prochlorococcus marinus subsp. marinus_CCMP1375 complete genome	1751080
+181	Prochlorococcus	0eb9432d2d6360d1e041fa144d9b6c11	gi|123965234|ref|NC_008817.1| Prochlorococcus marinus_MIT 9515, complete genome	1704176
+294	Roseobacter_phage	0d65beade4848d49021c8145f4544090	gi|9964607|ref|NC_002519.1| Roseobacter phage SIO1, complete genome	39898
+194	SAR11	34b42784973a37a0c72b7383a24a57ee	gi|211594022|ref|NZ_CH724130.1| Candidatus Pelagibacter ubique HTCC1002 scf_1099314759170 genomic scaffold, whole genome shotgun sequence	1324008
+237	SAR11	37b6dfae2296d915aadef66678c4b4ba	gi|564614004|ref|NZ_AZAL01000001.1| Candidatus Pelagibacter ubique HIMB083 Pelub83DRAFT_scaffold_0.1_C, whole genome shotgun sequence	1395997
+236	SAR11	7f5d1435b7cf76f187f136ea9c973228	gi|560891698|ref|NZ_KI421440.1| Candidatus Pelagibacter ubique HTCC8051 genomic scaffold HTC8051_Contig1.1, whole genome shotgun sequence	1395018
+244	SAR11	8e11ad3e05b209639eb00032621b696c	gi|71082709|ref|NC_007205.1| Candidatus Pelagibacter ubique HTCC1062, complete genome	1308759
+240	SAR11	8c6a88095c19dea562223f8fda8afc3e	gi|657651831|ref|NZ_JNIU01000001.1| Candidatus Pelagibacter ubique HTCC7217 P773DRAFT_scaffold00001.1_C, whole genome shotgun sequence	1433611
+239	SAR11	658393987e8720edadbe9513b44d4c7c	gi|657650469|ref|NZ_KL370779.1| Candidatus Pelagibacter ubique HTCC7214 genomic scaffold P769DRAFT_scaffold00001.1, whole genome shotgun sequence	1375060
+4	SAR116	506e83bd223300ae6271d68a6fa5120b	NZ_AFXB01000007.1 SAR116 cluster alpha proteobacterium HIMB100 contig7, whole genome shotgun sequence	85335
+3	SAR116	6b845873e123dcf4ccf8c652576d09b1	NZ_AFXB01000008.1 SAR116 cluster alpha proteobacterium HIMB100 contig8, whole genome shotgun sequence	142711
+5	SAR116	0f101ef24251f710f0bc1ff79080a2ef	NZ_AFXB01000006.1 SAR116 cluster alpha proteobacterium HIMB100 contig6, whole genome shotgun sequence	286759
+7	SAR116	db86585cb551d5c7747f28e2553d951b	NZ_AFXB01000004.1 SAR116 cluster alpha proteobacterium HIMB100 contig4, whole genome shotgun sequence	244129
+8	SAR116	09234f657cabe917e8cf9dc0aaadd745	NZ_AFXB01000003.1 SAR116 cluster alpha proteobacterium HIMB100 contig3, whole genome shotgun sequence	30717
+9	SAR116	a2ce005e2a19d7287ee2bd25b5e55971	NZ_AFXB01000002.1 SAR116 cluster alpha proteobacterium HIMB100 contig2, whole genome shotgun sequence	61268
+10	SAR116	3ab1ff6d028e2f1765b11b18f23b8cae	NZ_AFXB01000001.1 SAR116 cluster alpha proteobacterium HIMB100 contig1, whole genome shotgun sequence	307337
+2	SAR116	602a7c45cb87055f607c5b1bbe7c8b3c	NZ_AFXB01000009.1 SAR116 cluster alpha proteobacterium HIMB100 contig9, whole genome shotgun sequence	96421
+6	SAR116	ff3c408860c04d599bec0bca75c9f77e	NZ_AFXB01000005.1 SAR116 cluster alpha proteobacterium HIMB100 contig5, whole genome shotgun sequence	36778
+1	SAR116	0dafb4aa9e8b1bb83a0b200d446ec278	NZ_AFXB01000010.1 SAR116 cluster alpha proteobacterium HIMB100 contig10, whole genome shotgun sequence	1167490
+198	SAR116	5d9ed38b79c583a0b30811a9ed0939f0	gi|294083570:675264-676151 Candidatus Puniceispirillum marinum IMCC1322, complete genome	888
+199	SAR116	29c75c5631de23c1827c89ceaf340705	gi|294083570|ref|NC_014010.1| Candidatus Puniceispirillum marinum IMCC1322, complete genome	2753527
+235	SAR116_Phage	6cac5ef27b5bb375bad180ca8be5b842	gi|526244935|ref|NC_021864.1| Puniceispirillum phage HMO-2011, complete genome	55282
+226	SAR11_Phage	d5f367ab54b642e92d56052f007ee5cd	gi|460042436|ref|NC_020484.1| Pelagibacter phage HTVC008M, complete genome	147284
+225	SAR11_Phage	fbb305f5028edd53a339faf7210545a4	gi|460042372|ref|NC_020483.1| Pelagibacter phage HTVC019P, complete genome	42084
+224	SAR11_Phage	cb7453592e09e5e69ca3fdceb1193237	gi|460042324|ref|NC_020482.1| Pelagibacter phage HTVC011P, complete genome	39921
+223	SAR11_Phage	4c953349c0c841a0f96f34a721b72895	gi|460042257|ref|NC_020481.1| Pelagibacter phage HTVC010P, complete genome	34892
+248	Synechococcus	f281517deca2898c8275b06f6f599367	gi|78211558|ref|NC_007516.1| Synechococcus sp. CC9605, complete genome	2510659
+180	Synechococcus	294a3f47a65c5a1743e833ae95d0f637	gi|113952711|ref|NC_008319.1| Synechococcus sp. CC9311, complete genome	2606748
+213	Synechococcus	90fe2e7cc91610ca7559de61b5bdea83	gi|33864539|ref|NC_005070.1| Synechococcus sp. WH 8102 complete genome	2434428
+250	Synechococcus	2b09bd6e04204d8f7eae98f1ccac97d7	gi|902974237|ref|NZ_LN847356.1| Synechococcus sp. WH 8103 genome assembly WH8103.1, chromosome : 1	2429688
+187	Synechococcus	1dd8c9b56486d604b5dde7f9e4b6bbd9	gi|148241099|ref|NC_009482.1| Synechococcus sp. RCC307 genomic DNA sequence	2224914
+247	Synechococcus	f1eb2c1bca17fba504a38cb916f5c892	gi|78183584|ref|NC_007513.1| Synechococcus sp. CC9902, complete genome	2234828
+186	Synechococcus	a31b740c698fca554a560d7180cfd429	gi|148238336|ref|NC_009481.1| Synechococcus WH7803 complete genome sequence	2366980
+113	Uncultured_phage	d13407530eec0d174f681d194eac317d	contig__155031_phage	48113
+162	Uncultured_phage	facfc719c79f973070be0afa9116cc53	contig__176529_SAR116_phage	57976
+101	Uncultured_phage	f0486fcdb1a26658929548dc282955d6	contig__152381_phage	66548
+151	Uncultured_phage	65e4316453507f114515ff0434ac44bd	contig__164390_phage	51792
+148	Uncultured_phage	07289743cc9f6cb00a56a665f2a3b005	contig__160110_phage	47811
+111	Uncultured_phage	3fc3273bc56b36d7c67f808021eec9da	contig__154839_phage	53520
+142	Uncultured_phage	017fff5f96c4e9f3ecfb78ef0d0c1341	contig__158275_phage	56140
+126	Uncultured_phage	8dfacd6f21a76f3b50ae70ce334c0503	contig__156293_SAR116_phage	71469
+124	Uncultured_phage	1720ce7f2bdc976e6eb702ea762b0a67	contig__156190_phage	48218
+102	Uncultured_phage	03199d14462d1ed9e6d5ea9c1c2df849	contig__152495_phage	69224
+117	Uncultured_phage	1e942354b8cefc0d11af69b4c6557b45	contig__155537_phage	63643
+110	Uncultured_phage	d51e6446a49434418901bfc92c1b4bf3	contig__154829_alpha_phage	89623
+115	Uncultured_phage	b8a826ff187df28f88929d83edcb51b6	contig__155255_phage	69446
+129	Uncultured_phage	ce5f13eddf742fd215830ac8d2cc1cd7	contig__156547_phage	49148
+116	Uncultured_phage	1d04b5164cb58543f68e2454476252dd	contig__155256_phage	52029

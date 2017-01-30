@@ -1,0 +1,1222 @@
+>Feature gb|KC117377.1|
+541	1128	gene
+			gene	1
+			locus_tag	HVTV1_1
+541	1128	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34373.1||gnl|PBI|HVTV1_1
+1308	1144	gene
+			gene	2
+			locus_tag	HVTV1_2
+1308	1144	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34374.1||gnl|PBI|HVTV1_2
+1595	1305	gene
+			gene	3
+			locus_tag	HVTV1_3
+1595	1305	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34375.1||gnl|PBI|HVTV1_3
+1828	1676	gene
+			gene	4
+			locus_tag	HVTV1_4
+1828	1676	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34376.1||gnl|PBI|HVTV1_4
+2106	1825	gene
+			gene	5
+			locus_tag	HVTV1_5
+2106	1825	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34377.1||gnl|PBI|HVTV1_5
+2323	2132	gene
+			gene	6
+			locus_tag	HVTV1_6
+2323	2132	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34378.1||gnl|PBI|HVTV1_6
+2457	2320	gene
+			gene	7
+			locus_tag	HVTV1_7
+2457	2320	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34379.1||gnl|PBI|HVTV1_7
+2591	2454	gene
+			gene	8
+			locus_tag	HVTV1_8
+2591	2454	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34380.1||gnl|PBI|HVTV1_8
+2811	2578	gene
+			gene	9
+			locus_tag	HVTV1_9
+2811	2578	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34381.1||gnl|PBI|HVTV1_9
+3031	2789	gene
+			gene	10
+			locus_tag	HVTV1_10
+3031	2789	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34382.1||gnl|PBI|HVTV1_10
+3334	3122	gene
+			gene	11
+			locus_tag	HVTV1_11
+3334	3122	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34543.1||gnl|PBI|HVTV1_11
+3698	3438	gene
+			gene	12
+			locus_tag	HVTV1_12
+3698	3438	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34383.1||gnl|PBI|HVTV1_12
+3883	3695	gene
+			gene	13
+			locus_tag	HVTV1_13
+3883	3695	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34384.1||gnl|PBI|HVTV1_13
+4116	3883	gene
+			gene	14
+			locus_tag	HVTV1_14
+4116	3883	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34385.1||gnl|PBI|HVTV1_14
+4361	4176	gene
+			gene	15
+			locus_tag	HVTV1_15
+4361	4176	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34544.1||gnl|PBI|HVTV1_15
+4476	4778	gene
+			gene	16
+			locus_tag	HVTV1_16
+4476	4778	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34386.1||gnl|PBI|HVTV1_16
+4714	4992	gene
+			gene	17
+			locus_tag	HVTV1_17
+4714	4992	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34387.1||gnl|PBI|HVTV1_17
+4989	5189	gene
+			gene	18
+			locus_tag	HVTV1_18
+4989	5189	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34388.1||gnl|PBI|HVTV1_18
+5267	5572	gene
+			gene	19
+			locus_tag	HVTV1_19
+5267	5572	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34389.1||gnl|PBI|HVTV1_19
+5562	5954	gene
+			gene	20
+			locus_tag	HVTV1_20
+5562	5954	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34390.1||gnl|PBI|HVTV1_20
+5957	8938	gene
+			gene	21
+			locus_tag	HVTV1_21
+5957	8938	CDS
+			product	ribonucleotide reductase alpha subunit
+			transl_table	11
+			protein_id	gb|AGC34391.1||gnl|PBI|HVTV1_21
+8969	9256	gene
+			gene	22
+			locus_tag	HVTV1_22
+8969	9256	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34392.1||gnl|PBI|HVTV1_22
+9259	9528	gene
+			gene	23
+			locus_tag	HVTV1_23
+9259	9528	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34393.1||gnl|PBI|HVTV1_23
+9521	9697	gene
+			gene	24
+			locus_tag	HVTV1_24
+9521	9697	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34394.1||gnl|PBI|HVTV1_24
+9815	10966	gene
+			gene	25
+			locus_tag	HVTV1_25
+9815	10966	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34395.1||gnl|PBI|HVTV1_25
+11056	11646	gene
+			gene	26
+			locus_tag	HVTV1_26
+11056	11646	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34396.1||gnl|PBI|HVTV1_26
+11780	13096	gene
+			gene	27
+			locus_tag	HVTV1_27
+11780	13096	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34397.1||gnl|PBI|HVTV1_27
+13141	13638	gene
+			gene	28
+			locus_tag	HVTV1_28
+13141	13638	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34398.1||gnl|PBI|HVTV1_28
+13635	13781	gene
+			gene	29
+			locus_tag	HVTV1_29
+13635	13781	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34399.1||gnl|PBI|HVTV1_29
+13778	14062	gene
+			gene	30
+			locus_tag	HVTV1_30
+13778	14062	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34400.1||gnl|PBI|HVTV1_30
+14059	14361	gene
+			gene	31
+			locus_tag	HVTV1_31
+14059	14361	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34401.1||gnl|PBI|HVTV1_31
+14361	14606	gene
+			gene	32
+			locus_tag	HVTV1_32
+14361	14606	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34402.1||gnl|PBI|HVTV1_32
+14659	15150	gene
+			gene	33
+			locus_tag	HVTV1_33
+14659	15150	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34403.1||gnl|PBI|HVTV1_33
+15170	16465	gene
+			gene	34
+			locus_tag	HVTV1_34
+15170	16465	CDS
+			product	YonJ-like protein
+			transl_table	11
+			protein_id	gb|AGC34404.1||gnl|PBI|HVTV1_34
+16908	16525	gene
+			gene	35
+			locus_tag	HVTV1_35
+16908	16525	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34405.1||gnl|PBI|HVTV1_35
+17491	16910	gene
+			gene	36
+			locus_tag	HVTV1_36
+17491	16910	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34406.1||gnl|PBI|HVTV1_36
+18213	17488	gene
+			gene	37
+			locus_tag	HVTV1_37
+18213	17488	CDS
+			product	replication factor C small subunit
+			transl_table	11
+			protein_id	gb|AGC34407.1||gnl|PBI|HVTV1_37
+19157	18252	gene
+			gene	38
+			locus_tag	HVTV1_38
+19157	18252	CDS
+			product	thymidylate synthetase
+			transl_table	11
+			protein_id	gb|AGC34408.1||gnl|PBI|HVTV1_38
+20122	19382	gene
+			gene	39
+			locus_tag	HVTV1_39
+20122	19382	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34409.1||gnl|PBI|HVTV1_39
+20697	20125	gene
+			gene	40
+			locus_tag	HVTV1_40
+20697	20125	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34410.1||gnl|PBI|HVTV1_40
+21184	20699	gene
+			gene	41
+			locus_tag	HVTV1_41
+21184	20699	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34411.1||gnl|PBI|HVTV1_41
+21453	21187	gene
+			gene	42
+			locus_tag	HVTV1_42
+21453	21187	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34412.1||gnl|PBI|HVTV1_42
+21764	21453	gene
+			gene	43
+			locus_tag	HVTV1_43
+21764	21453	CDS
+			product	MazG-like protein
+			transl_table	11
+			protein_id	gb|AGC34413.1||gnl|PBI|HVTV1_43
+21940	21761	gene
+			gene	44
+			locus_tag	HVTV1_44
+21940	21761	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34414.1||gnl|PBI|HVTV1_44
+22041	21937	gene
+			gene	45
+			locus_tag	HVTV1_45
+22041	21937	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34415.1||gnl|PBI|HVTV1_45
+22724	22038	gene
+			gene	46
+			locus_tag	HVTV1_46
+22724	22038	CDS
+			product	Hef nuclease
+			transl_table	11
+			protein_id	gb|AGC34416.1||gnl|PBI|HVTV1_46
+22858	22721	gene
+			gene	47
+			locus_tag	HVTV1_47
+22858	22721	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34417.1||gnl|PBI|HVTV1_47
+23000	22848	gene
+			gene	48
+			locus_tag	HVTV1_48
+23000	22848	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34418.1||gnl|PBI|HVTV1_48
+23253	22993	gene
+			gene	49
+			locus_tag	HVTV1_49
+23253	22993	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34419.1||gnl|PBI|HVTV1_49
+23503	23246	gene
+			gene	50
+			locus_tag	HVTV1_50
+23503	23246	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34420.1||gnl|PBI|HVTV1_50
+23964	23500	gene
+			gene	51
+			locus_tag	HVTV1_51
+23964	23500	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34421.1||gnl|PBI|HVTV1_51
+24346	23957	gene
+			gene	52
+			locus_tag	HVTV1_52
+24346	23957	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34422.1||gnl|PBI|HVTV1_52
+24822	24346	gene
+			gene	53
+			locus_tag	HVTV1_53
+24822	24346	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34423.1||gnl|PBI|HVTV1_53
+25286	24825	gene
+			gene	54
+			locus_tag	HVTV1_54
+25286	24825	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34424.1||gnl|PBI|HVTV1_54
+25380	25306	gene
+			gene	55
+			locus_tag	HVTV1_55
+25380	25306	tRNA
+			product	tRNA-Gln
+			note	tRNA Gln (ttg)
+25607	25470	gene
+			gene	56
+			locus_tag	HVTV1_56
+25607	25470	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34425.1||gnl|PBI|HVTV1_56
+27838	25607	gene
+			gene	57
+			locus_tag	HVTV1_57
+27838	25607	CDS
+			product	von Willebrand factor type A
+			transl_table	11
+			protein_id	gb|AGC34426.1||gnl|PBI|HVTV1_57
+28098	27910	gene
+			gene	58
+			locus_tag	HVTV1_58
+28098	27910	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34427.1||gnl|PBI|HVTV1_58
+29463	28126	gene
+			gene	59
+			locus_tag	HVTV1_59
+29463	28126	CDS
+			product	ATPase AAA
+			transl_table	11
+			protein_id	gb|AGC34428.1||gnl|PBI|HVTV1_59
+29992	29540	gene
+			gene	60
+			locus_tag	HVTV1_60
+29992	29540	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34429.1||gnl|PBI|HVTV1_60
+30392	29970	gene
+			gene	61
+			locus_tag	HVTV1_61
+30392	29970	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34430.1||gnl|PBI|HVTV1_61
+30613	30389	gene
+			gene	62
+			locus_tag	HVTV1_62
+30613	30389	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34431.1||gnl|PBI|HVTV1_62
+31035	30610	gene
+			gene	63
+			locus_tag	HVTV1_63
+31035	30610	CDS
+			product	HNH endonuclease
+			transl_table	11
+			protein_id	gb|AGC34432.1||gnl|PBI|HVTV1_63
+31561	31037	gene
+			gene	64
+			locus_tag	HVTV1_64
+31561	31037	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34433.1||gnl|PBI|HVTV1_64
+32250	31534	gene
+			gene	65
+			locus_tag	HVTV1_65
+32250	31534	CDS
+			product	SprT-like protein
+			transl_table	11
+			protein_id	gb|AGC34434.1||gnl|PBI|HVTV1_65
+32427	33206	gene
+			gene	66
+			locus_tag	HVTV1_66
+32427	33206	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34435.1||gnl|PBI|HVTV1_66
+33455	33231	gene
+			gene	67
+			locus_tag	HVTV1_67
+33455	33231	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34436.1||gnl|PBI|HVTV1_67
+33793	33599	gene
+			gene	68
+			locus_tag	HVTV1_68
+33793	33599	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34437.1||gnl|PBI|HVTV1_68
+34963	33803	gene
+			gene	69
+			locus_tag	HVTV1_69
+34963	33803	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34438.1||gnl|PBI|HVTV1_69
+35565	34966	gene
+			gene	70
+			locus_tag	HVTV1_70
+35565	34966	CDS
+			product	GTP cyclohydrolase
+			transl_table	11
+			protein_id	gb|AGC34439.1||gnl|PBI|HVTV1_70
+35784	35608	gene
+			gene	71
+			locus_tag	HVTV1_71
+35784	35608	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34440.1||gnl|PBI|HVTV1_71
+35899	35777	gene
+			gene	72
+			locus_tag	HVTV1_72
+35899	35777	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34441.1||gnl|PBI|HVTV1_72
+36687	35902	gene
+			gene	73
+			locus_tag	HVTV1_73
+36687	35902	CDS
+			product	radical SAM family-like protein
+			transl_table	11
+			protein_id	gb|AGC34442.1||gnl|PBI|HVTV1_73
+36950	36684	gene
+			gene	74
+			locus_tag	HVTV1_74
+36950	36684	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34443.1||gnl|PBI|HVTV1_74
+37077	36943	gene
+			gene	75
+			locus_tag	HVTV1_75
+37077	36943	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34444.1||gnl|PBI|HVTV1_75
+37538	37077	gene
+			gene	76
+			locus_tag	HVTV1_76
+37538	37077	CDS
+			product	QueD
+			transl_table	11
+			protein_id	gb|AGC34445.1||gnl|PBI|HVTV1_76
+38299	37535	gene
+			gene	77
+			locus_tag	HVTV1_77
+38299	37535	CDS
+			product	QueC
+			transl_table	11
+			protein_id	gb|AGC34446.1||gnl|PBI|HVTV1_77
+38845	38357	gene
+			gene	78
+			locus_tag	HVTV1_78
+38845	38357	CDS
+			product	HNH endonuclease
+			transl_table	11
+			protein_id	gb|AGC34447.1||gnl|PBI|HVTV1_78
+39268	38852	gene
+			gene	79
+			locus_tag	HVTV1_79
+39268	38852	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34448.1||gnl|PBI|HVTV1_79
+39483	39268	gene
+			gene	80
+			locus_tag	HVTV1_80
+39483	39268	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34449.1||gnl|PBI|HVTV1_80
+39811	39488	gene
+			gene	81
+			locus_tag	HVTV1_81
+39811	39488	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34450.1||gnl|PBI|HVTV1_81
+40269	39808	gene
+			gene	82
+			locus_tag	HVTV1_82
+40269	39808	CDS
+			product	7-cyano-7-deazaguanine reductase
+			transl_table	11
+			protein_id	gb|AGC34451.1||gnl|PBI|HVTV1_82
+			note	7-cyano-7-deazaguanine reductase
+41261	40344	gene
+			gene	83
+			locus_tag	HVTV1_83
+41261	40344	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34452.1||gnl|PBI|HVTV1_83
+41644	41567	gene
+			gene	84
+			locus_tag	HVTV1_84
+41644	41567	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34453.1||gnl|PBI|HVTV1_84
+41796	41641	gene
+			gene	85
+			locus_tag	HVTV1_85
+41796	41641	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34454.1||gnl|PBI|HVTV1_85
+42302	41793	gene
+			gene	86
+			locus_tag	HVTV1_86
+42302	41793	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34455.1||gnl|PBI|HVTV1_86
+43697	42444	gene
+			gene	87
+			locus_tag	HVTV1_87
+43697	42444	CDS
+			product	replication factor C large subunit
+			transl_table	11
+			protein_id	gb|AGC34456.1||gnl|PBI|HVTV1_87
+44133	43663	gene
+			gene	88
+			locus_tag	HVTV1_88
+44133	43663	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34457.1||gnl|PBI|HVTV1_88
+45023	44172	gene
+			gene	89
+			locus_tag	HVTV1_89
+45023	44172	CDS
+			product	N6-adenine DNA methyltransferase
+			transl_table	11
+			protein_id	gb|AGC34458.1||gnl|PBI|HVTV1_89
+45523	45026	gene
+			gene	90
+			locus_tag	HVTV1_90
+45523	45026	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34459.1||gnl|PBI|HVTV1_90
+48258	45517	gene
+			gene	91
+			locus_tag	HVTV1_91
+48258	45517	CDS
+			product	DNA polymerase
+			transl_table	11
+			protein_id	gb|AGC34460.1||gnl|PBI|HVTV1_91
+48576	48280	gene
+			gene	92
+			locus_tag	HVTV1_92
+48576	48280	CDS
+			product	HNH domain endonuclease
+			transl_table	11
+			protein_id	gb|AGC34461.1||gnl|PBI|HVTV1_92
+49383	48580	gene
+			gene	93
+			locus_tag	HVTV1_93
+49383	48580	CDS
+			product	RecB
+			transl_table	11
+			protein_id	gb|AGC34462.1||gnl|PBI|HVTV1_93
+49693	49376	gene
+			gene	94
+			locus_tag	HVTV1_94
+49693	49376	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34463.1||gnl|PBI|HVTV1_94
+49884	49696	gene
+			gene	95
+			locus_tag	HVTV1_95
+49884	49696	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34464.1||gnl|PBI|HVTV1_95
+50864	49881	gene
+			gene	96
+			locus_tag	HVTV1_96
+50864	49881	CDS
+			product	replication factor C small subunit
+			transl_table	11
+			protein_id	gb|AGC34465.1||gnl|PBI|HVTV1_96
+51113	50931	gene
+			gene	97
+			locus_tag	HVTV1_97
+51113	50931	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34466.1||gnl|PBI|HVTV1_97
+51702	51115	gene
+			gene	98
+			locus_tag	HVTV1_98
+51702	51115	CDS
+			product	thymidylate kinase
+			transl_table	11
+			protein_id	gb|AGC34467.1||gnl|PBI|HVTV1_98
+52209	51706	gene
+			gene	99
+			locus_tag	HVTV1_99
+52209	51706	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34468.1||gnl|PBI|HVTV1_99
+53309	52161	gene
+			gene	100
+			locus_tag	HVTV1_100
+53309	52161	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34469.1||gnl|PBI|HVTV1_100
+54181	53324	gene
+			gene	101
+			locus_tag	HVTV1_101
+54181	53324	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34470.1||gnl|PBI|HVTV1_101
+54671	54174	gene
+			gene	102
+			locus_tag	HVTV1_102
+54671	54174	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34471.1||gnl|PBI|HVTV1_102
+56214	54664	gene
+			gene	103
+			locus_tag	HVTV1_103
+56214	54664	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34472.1||gnl|PBI|HVTV1_103
+57254	56211	gene
+			gene	104
+			locus_tag	HVTV1_104
+57254	56211	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34473.1||gnl|PBI|HVTV1_104
+57489	58400	gene
+			gene	105
+			locus_tag	HVTV1_105
+57489	58400	CDS
+			product	DNA repair, RadA-like protein
+			transl_table	11
+			protein_id	gb|AGC34474.1||gnl|PBI|HVTV1_105
+58549	58397	gene
+			gene	106
+			locus_tag	HVTV1_106
+58549	58397	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34475.1||gnl|PBI|HVTV1_106
+58665	58552	gene
+			gene	107
+			locus_tag	HVTV1_107
+58665	58552	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34476.1||gnl|PBI|HVTV1_107
+59003	59665	gene
+			gene	108
+			locus_tag	HVTV1_108
+59003	59665	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34477.1||gnl|PBI|HVTV1_108
+59662	60306	gene
+			gene	109
+			locus_tag	HVTV1_109
+59662	60306	CDS
+			product	HNH endonuclease
+			transl_table	11
+			protein_id	gb|AGC34478.1||gnl|PBI|HVTV1_109
+60303	61748	gene
+			gene	110
+			locus_tag	HVTV1_110
+60303	61748	CDS
+			product	terminase large subunit
+			transl_table	11
+			protein_id	gb|AGC34479.1||gnl|PBI|HVTV1_110
+61742	62368	gene
+			gene	111
+			locus_tag	HVTV1_111
+61742	62368	CDS
+			product	HNH domain endonuclease
+			transl_table	11
+			protein_id	gb|AGC34480.1||gnl|PBI|HVTV1_111
+62368	64236	gene
+			gene	112
+			locus_tag	HVTV1_112
+62368	64236	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34481.1||gnl|PBI|HVTV1_112
+64229	67375	gene
+			gene	113
+			locus_tag	HVTV1_113
+64229	67375	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34482.1||gnl|PBI|HVTV1_113
+67378	68610	gene
+			gene	114
+			locus_tag	HVTV1_114
+67378	68610	CDS
+			product	head assembly
+			transl_table	11
+			protein_id	gb|AGC34483.1||gnl|PBI|HVTV1_114
+68622	72563	gene
+			gene	115
+			locus_tag	HVTV1_115
+68622	72563	CDS
+			product	zeta toxin
+			transl_table	11
+			protein_id	gb|AGC34484.1||gnl|PBI|HVTV1_115
+72556	73017	gene
+			gene	116
+			locus_tag	HVTV1_116
+72556	73017	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34485.1||gnl|PBI|HVTV1_116
+73512	73018	gene
+			gene	117
+			locus_tag	HVTV1_117
+73512	73018	CDS
+			product	HNH domain endonuclease
+			transl_table	11
+			protein_id	gb|AGC34486.1||gnl|PBI|HVTV1_117
+73742	73933	gene
+			gene	118
+			locus_tag	HVTV1_118
+73742	73933	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34487.1||gnl|PBI|HVTV1_118
+73933	75846	gene
+			gene	119
+			locus_tag	HVTV1_119
+73933	75846	CDS
+			product	prohead protease
+			transl_table	11
+			protein_id	gb|AGC34488.1||gnl|PBI|HVTV1_119
+75862	77235	gene
+			gene	120
+			locus_tag	HVTV1_120
+75862	77235	CDS
+			product	major capsid protein
+			transl_table	11
+			protein_id	gb|AGC34489.1||gnl|PBI|HVTV1_120
+77254	77631	gene
+			gene	121
+			locus_tag	HVTV1_121
+77254	77631	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34490.1||gnl|PBI|HVTV1_121
+77650	77982	gene
+			gene	122
+			locus_tag	HVTV1_122
+77650	77982	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34491.1||gnl|PBI|HVTV1_122
+77989	78402	gene
+			gene	123
+			locus_tag	HVTV1_123
+77989	78402	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34492.1||gnl|PBI|HVTV1_123
+78405	78737	gene
+			gene	124
+			locus_tag	HVTV1_124
+78405	78737	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34493.1||gnl|PBI|HVTV1_124
+78737	79417	gene
+			gene	125
+			locus_tag	HVTV1_125
+78737	79417	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34494.1||gnl|PBI|HVTV1_125
+79417	80028	gene
+			gene	126
+			locus_tag	HVTV1_126
+79417	80028	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34495.1||gnl|PBI|HVTV1_126
+80028	80498	gene
+			gene	127
+			locus_tag	HVTV1_127
+80028	80498	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34496.1||gnl|PBI|HVTV1_127
+80516	81529	gene
+			gene	128
+			locus_tag	HVTV1_128
+80516	81529	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34497.1||gnl|PBI|HVTV1_128
+81584	82338	gene
+			gene	130
+			locus_tag	HVTV1_130
+81584	81968	CDS
+81968	82338
+			product	tail assembly chaperone
+			transl_table	11
+			protein_id	gb|AGC34499.1||gnl|PBI|HVTV1_130
+			exception	ribosomal slippage
+81584	82000	gene
+			gene	129
+			locus_tag	HVTV1_129
+81584	82000	CDS
+			product	tail assembly chaperone
+			transl_table	11
+			protein_id	gb|AGC34498.1||gnl|PBI|HVTV1_129
+82340	83782	gene
+			gene	131
+			locus_tag	HVTV1_131
+82340	83782	CDS
+			product	tape measure
+			transl_table	11
+			protein_id	gb|AGC34500.1||gnl|PBI|HVTV1_131
+83779	84234	gene
+			gene	132
+			locus_tag	HVTV1_132
+83779	84234	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34501.1||gnl|PBI|HVTV1_132
+84241	85671	gene
+			gene	133
+			locus_tag	HVTV1_133
+84241	85671	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34502.1||gnl|PBI|HVTV1_133
+85664	86503	gene
+			gene	134
+			locus_tag	HVTV1_134
+85664	86503	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34503.1||gnl|PBI|HVTV1_134
+86500	87492	gene
+			gene	135
+			locus_tag	HVTV1_135
+86500	87492	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34504.1||gnl|PBI|HVTV1_135
+87506	89080	gene
+			gene	136
+			locus_tag	HVTV1_136
+87506	89080	CDS
+			product	tail baseplate
+			transl_table	11
+			protein_id	gb|AGC34505.1||gnl|PBI|HVTV1_136
+89077	90180	gene
+			gene	137
+			locus_tag	HVTV1_137
+89077	90180	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34506.1||gnl|PBI|HVTV1_137
+90182	90943	gene
+			gene	138
+			locus_tag	HVTV1_138
+90182	90943	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34507.1||gnl|PBI|HVTV1_138
+90999	91139	gene
+			gene	139
+			locus_tag	HVTV1_139
+90999	91139	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34508.1||gnl|PBI|HVTV1_139
+91136	91273	gene
+			gene	140
+			locus_tag	HVTV1_140
+91136	91273	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34509.1||gnl|PBI|HVTV1_140
+91537	91319	gene
+			gene	141
+			locus_tag	HVTV1_141
+91537	91319	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34510.1||gnl|PBI|HVTV1_141
+91898	91527	gene
+			gene	142
+			locus_tag	HVTV1_142
+91898	91527	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34511.1||gnl|PBI|HVTV1_142
+92413	91889	gene
+			gene	143
+			locus_tag	HVTV1_143
+92413	91889	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34512.1||gnl|PBI|HVTV1_143
+92608	92790	gene
+			gene	144
+			locus_tag	HVTV1_144
+92608	92790	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34513.1||gnl|PBI|HVTV1_144
+92787	93215	gene
+			gene	145
+			locus_tag	HVTV1_145
+92787	93215	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34514.1||gnl|PBI|HVTV1_145
+93434	94294	gene
+			gene	146
+			locus_tag	HVTV1_146
+93434	94294	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34515.1||gnl|PBI|HVTV1_146
+94224	94850	gene
+			gene	147
+			locus_tag	HVTV1_147
+94224	94850	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34516.1||gnl|PBI|HVTV1_147
+94909	95160	gene
+			gene	148
+			locus_tag	HVTV1_148
+94909	95160	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34517.1||gnl|PBI|HVTV1_148
+95157	95396	gene
+			gene	149
+			locus_tag	HVTV1_149
+95157	95396	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34518.1||gnl|PBI|HVTV1_149
+95428	95619	gene
+			gene	150
+			locus_tag	HVTV1_150
+95428	95619	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34519.1||gnl|PBI|HVTV1_150
+95610	95792	gene
+			gene	151
+			locus_tag	HVTV1_151
+95610	95792	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34520.1||gnl|PBI|HVTV1_151
+95785	96048	gene
+			gene	152
+			locus_tag	HVTV1_152
+95785	96048	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34521.1||gnl|PBI|HVTV1_152
+96050	96235	gene
+			gene	153
+			locus_tag	HVTV1_153
+96050	96235	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34522.1||gnl|PBI|HVTV1_153
+96232	96612	gene
+			gene	154
+			locus_tag	HVTV1_154
+96232	96612	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34523.1||gnl|PBI|HVTV1_154
+96616	97092	gene
+			gene	155
+			locus_tag	HVTV1_155
+96616	97092	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34524.1||gnl|PBI|HVTV1_155
+97089	97298	gene
+			gene	156
+			locus_tag	HVTV1_156
+97089	97298	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34525.1||gnl|PBI|HVTV1_156
+97939	97295	gene
+			gene	157
+			locus_tag	HVTV1_157
+97939	97295	CDS
+			product	dCTP deaminase
+			transl_table	11
+			protein_id	gb|AGC34526.1||gnl|PBI|HVTV1_157
+98038	98367	gene
+			gene	158
+			locus_tag	HVTV1_158
+98038	98367	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34527.1||gnl|PBI|HVTV1_158
+98364	98597	gene
+			gene	159
+			locus_tag	HVTV1_159
+98364	98597	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34528.1||gnl|PBI|HVTV1_159
+98590	98802	gene
+			gene	160
+			locus_tag	HVTV1_160
+98590	98802	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34529.1||gnl|PBI|HVTV1_160
+98799	98939	gene
+			gene	161
+			locus_tag	HVTV1_161
+98799	98939	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34530.1||gnl|PBI|HVTV1_161
+98936	99136	gene
+			gene	162
+			locus_tag	HVTV1_162
+98936	99136	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34531.1||gnl|PBI|HVTV1_162
+99133	99303	gene
+			gene	163
+			locus_tag	HVTV1_163
+99133	99303	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34532.1||gnl|PBI|HVTV1_163
+99300	99494	gene
+			gene	164
+			locus_tag	HVTV1_164
+99300	99494	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34533.1||gnl|PBI|HVTV1_164
+99487	99672	gene
+			gene	165
+			locus_tag	HVTV1_165
+99487	99672	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34534.1||gnl|PBI|HVTV1_165
+99669	99860	gene
+			gene	166
+			locus_tag	HVTV1_166
+99669	99860	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34535.1||gnl|PBI|HVTV1_166
+99853	100038	gene
+			gene	167
+			locus_tag	HVTV1_167
+99853	100038	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34536.1||gnl|PBI|HVTV1_167
+100031	100189	gene
+			gene	168
+			locus_tag	HVTV1_168
+100031	100189	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34537.1||gnl|PBI|HVTV1_168
+100247	100447	gene
+			gene	169
+			locus_tag	HVTV1_169
+100247	100447	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34538.1||gnl|PBI|HVTV1_169
+100444	100554	gene
+			gene	170
+			locus_tag	HVTV1_170
+100444	100554	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34539.1||gnl|PBI|HVTV1_170
+100551	100739	gene
+			gene	171
+			locus_tag	HVTV1_171
+100551	100739	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34540.1||gnl|PBI|HVTV1_171
+100743	100901	gene
+			gene	172
+			locus_tag	HVTV1_172
+100743	100901	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34545.1||gnl|PBI|HVTV1_172
+100906	101463	gene
+			gene	173
+			locus_tag	HVTV1_173
+100906	101463	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34541.1||gnl|PBI|HVTV1_173
+101578	101709	gene
+			gene	174
+			locus_tag	HVTV1_174
+101578	101709	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AGC34542.1||gnl|PBI|HVTV1_174
+

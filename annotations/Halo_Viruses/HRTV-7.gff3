@@ -1,0 +1,217 @@
+##sequence-region NC_021335.1 1 69048
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1273754
+NC_021335.1	RefSeq	region	1	69048	.	+	.	ID=id0;Dbxref=taxon:1273754;gbkey=Src;genome=genomic;lab-host=Halorubrum sp. B2-2;mol_type=genomic DNA
+NC_021335.1	RefSeq	gene	898	1785	.	+	.	ID=gene0;Dbxref=GeneID:16194602;Name=1;gbkey=Gene;gene=1;gene_biotype=protein_coding;locus_tag=M193_gp001;old_locus_tag=HRTV7_1
+NC_021335.1	RefSeq	CDS	898	1785	.	+	0	ID=cds0;Parent=gene0;Dbxref=Genbank:YP_008059985.1,GeneID:16194602;Name=YP_008059985.1;gbkey=CDS;gene=1;product=hypothetical protein;protein_id=YP_008059985.1;transl_table=11
+NC_021335.1	RefSeq	gene	1778	2065	.	+	.	ID=gene1;Dbxref=GeneID:16194612;Name=2;gbkey=Gene;gene=2;gene_biotype=protein_coding;locus_tag=M193_gp002;old_locus_tag=HRTV7_2
+NC_021335.1	RefSeq	CDS	1778	2065	.	+	0	ID=cds1;Parent=gene1;Dbxref=Genbank:YP_008059986.1,GeneID:16194612;Name=YP_008059986.1;gbkey=CDS;gene=2;product=hypothetical protein;protein_id=YP_008059986.1;transl_table=11
+NC_021335.1	RefSeq	gene	2072	2194	.	+	.	ID=gene2;Dbxref=GeneID:16194616;Name=3;gbkey=Gene;gene=3;gene_biotype=protein_coding;locus_tag=M193_gp003;old_locus_tag=HRTV7_3
+NC_021335.1	RefSeq	CDS	2072	2194	.	+	0	ID=cds2;Parent=gene2;Dbxref=Genbank:YP_008059987.1,GeneID:16194616;Name=YP_008059987.1;gbkey=CDS;gene=3;product=hypothetical protein;protein_id=YP_008059987.1;transl_table=11
+NC_021335.1	RefSeq	gene	2187	2516	.	+	.	ID=gene3;Dbxref=GeneID:16194576;Name=4;gbkey=Gene;gene=4;gene_biotype=protein_coding;locus_tag=M193_gp004;old_locus_tag=HRTV7_4
+NC_021335.1	RefSeq	CDS	2187	2516	.	+	0	ID=cds3;Parent=gene3;Dbxref=Genbank:YP_008059988.1,GeneID:16194576;Name=YP_008059988.1;gbkey=CDS;gene=4;product=hypothetical protein;protein_id=YP_008059988.1;transl_table=11
+NC_021335.1	RefSeq	gene	2545	2772	.	+	.	ID=gene4;Dbxref=GeneID:16194611;Name=5;gbkey=Gene;gene=5;gene_biotype=protein_coding;locus_tag=M193_gp005;old_locus_tag=HRTV7_5
+NC_021335.1	RefSeq	CDS	2545	2772	.	+	0	ID=cds4;Parent=gene4;Dbxref=Genbank:YP_008059989.1,GeneID:16194611;Name=YP_008059989.1;gbkey=CDS;gene=5;product=hypothetical protein;protein_id=YP_008059989.1;transl_table=11
+NC_021335.1	RefSeq	gene	2769	2978	.	+	.	ID=gene5;Dbxref=GeneID:16194631;Name=6;gbkey=Gene;gene=6;gene_biotype=protein_coding;locus_tag=M193_gp006;old_locus_tag=HRTV7_6
+NC_021335.1	RefSeq	CDS	2769	2978	.	+	0	ID=cds5;Parent=gene5;Dbxref=Genbank:YP_008059990.1,GeneID:16194631;Name=YP_008059990.1;gbkey=CDS;gene=6;product=hypothetical protein;protein_id=YP_008059990.1;transl_table=11
+NC_021335.1	RefSeq	gene	2991	4763	.	+	.	ID=gene6;Dbxref=GeneID:16194566;Name=7;gbkey=Gene;gene=7;gene_biotype=protein_coding;locus_tag=M193_gp007;old_locus_tag=HRTV7_7
+NC_021335.1	RefSeq	CDS	2991	4763	.	+	0	ID=cds6;Parent=gene6;Dbxref=Genbank:YP_008059991.1,GeneID:16194566;Name=YP_008059991.1;Note=Terminase%2C large subunit;gbkey=CDS;gene=7;product=terminase large subunit;protein_id=YP_008059991.1;transl_table=11
+NC_021335.1	RefSeq	gene	4770	6287	.	+	.	ID=gene7;Dbxref=GeneID:16194646;Name=8;gbkey=Gene;gene=8;gene_biotype=protein_coding;locus_tag=M193_gp008;old_locus_tag=HRTV7_8
+NC_021335.1	RefSeq	CDS	4770	6287	.	+	0	ID=cds7;Parent=gene7;Dbxref=Genbank:YP_008059992.1,GeneID:16194646;Name=YP_008059992.1;Note=Portal;gbkey=CDS;gene=8;product=portal protein;protein_id=YP_008059992.1;transl_table=11
+NC_021335.1	RefSeq	gene	6290	6574	.	+	.	ID=gene8;Dbxref=GeneID:16194655;Name=9;gbkey=Gene;gene=9;gene_biotype=protein_coding;locus_tag=M193_gp009;old_locus_tag=HRTV7_9
+NC_021335.1	RefSeq	CDS	6290	6574	.	+	0	ID=cds8;Parent=gene8;Dbxref=Genbank:YP_008059993.1,GeneID:16194655;Name=YP_008059993.1;gbkey=CDS;gene=9;product=hypothetical protein;protein_id=YP_008059993.1;transl_table=11
+NC_021335.1	RefSeq	gene	6571	7731	.	+	.	ID=gene9;Dbxref=GeneID:16194622;Name=10;gbkey=Gene;gene=10;gene_biotype=protein_coding;locus_tag=M193_gp010;old_locus_tag=HRTV7_10
+NC_021335.1	RefSeq	CDS	6571	7731	.	+	0	ID=cds9;Parent=gene9;Dbxref=Genbank:YP_008059994.1,GeneID:16194622;Name=YP_008059994.1;Note=Prohead protease;gbkey=CDS;gene=10;product=prohead protease;protein_id=YP_008059994.1;transl_table=11
+NC_021335.1	RefSeq	gene	7740	8213	.	+	.	ID=gene10;Dbxref=GeneID:16194645;Name=11;gbkey=Gene;gene=11;gene_biotype=protein_coding;locus_tag=M193_gp011;old_locus_tag=HRTV7_11
+NC_021335.1	RefSeq	CDS	7740	8213	.	+	0	ID=cds10;Parent=gene10;Dbxref=Genbank:YP_008059995.1,GeneID:16194645;Name=YP_008059995.1;gbkey=CDS;gene=11;product=hypothetical protein;protein_id=YP_008059995.1;transl_table=11
+NC_021335.1	RefSeq	gene	8217	8753	.	+	.	ID=gene11;Dbxref=GeneID:16194652;Name=12;gbkey=Gene;gene=12;gene_biotype=protein_coding;locus_tag=M193_gp012;old_locus_tag=HRTV7_12
+NC_021335.1	RefSeq	CDS	8217	8753	.	+	0	ID=cds11;Parent=gene11;Dbxref=Genbank:YP_008059996.1,GeneID:16194652;Name=YP_008059996.1;gbkey=CDS;gene=12;product=hypothetical protein;protein_id=YP_008059996.1;transl_table=11
+NC_021335.1	RefSeq	gene	8800	9774	.	+	.	ID=gene12;Dbxref=GeneID:16194648;Name=13;gbkey=Gene;gene=13;gene_biotype=protein_coding;locus_tag=M193_gp013;old_locus_tag=HRTV7_13
+NC_021335.1	RefSeq	CDS	8800	9774	.	+	0	ID=cds12;Parent=gene12;Dbxref=Genbank:YP_008059997.1,GeneID:16194648;Name=YP_008059997.1;Note=Major Capsid;gbkey=CDS;gene=13;product=major capsid protein;protein_id=YP_008059997.1;transl_table=11
+NC_021335.1	RefSeq	gene	9788	10264	.	+	.	ID=gene13;Dbxref=GeneID:16194651;Name=14;gbkey=Gene;gene=14;gene_biotype=protein_coding;locus_tag=M193_gp014;old_locus_tag=HRTV7_14
+NC_021335.1	RefSeq	CDS	9788	10264	.	+	0	ID=cds13;Parent=gene13;Dbxref=Genbank:YP_008059998.1,GeneID:16194651;Name=YP_008059998.1;gbkey=CDS;gene=14;product=hypothetical protein;protein_id=YP_008059998.1;transl_table=11
+NC_021335.1	RefSeq	gene	10251	10640	.	+	.	ID=gene14;Dbxref=GeneID:16194607;Name=15;gbkey=Gene;gene=15;gene_biotype=protein_coding;locus_tag=M193_gp015;old_locus_tag=HRTV7_15
+NC_021335.1	RefSeq	CDS	10251	10640	.	+	0	ID=cds14;Parent=gene14;Dbxref=Genbank:YP_008059999.1,GeneID:16194607;Name=YP_008059999.1;gbkey=CDS;gene=15;product=hypothetical protein;protein_id=YP_008059999.1;transl_table=11
+NC_021335.1	RefSeq	gene	10647	12119	.	+	.	ID=gene15;Dbxref=GeneID:16194564;Name=16;gbkey=Gene;gene=16;gene_biotype=protein_coding;locus_tag=M193_gp016;old_locus_tag=HRTV7_16
+NC_021335.1	RefSeq	CDS	10647	12119	.	+	0	ID=cds15;Parent=gene15;Dbxref=Genbank:YP_008060000.1,GeneID:16194564;Name=YP_008060000.1;gbkey=CDS;gene=16;product=hypothetical protein;protein_id=YP_008060000.1;transl_table=11
+NC_021335.1	RefSeq	gene	12109	12339	.	+	.	ID=gene16;Dbxref=GeneID:16194600;Name=17;gbkey=Gene;gene=17;gene_biotype=protein_coding;locus_tag=M193_gp017;old_locus_tag=HRTV7_17
+NC_021335.1	RefSeq	CDS	12109	12339	.	+	0	ID=cds16;Parent=gene16;Dbxref=Genbank:YP_008060001.1,GeneID:16194600;Name=YP_008060001.1;gbkey=CDS;gene=17;product=hypothetical protein;protein_id=YP_008060001.1;transl_table=11
+NC_021335.1	RefSeq	gene	12340	12555	.	+	.	ID=gene17;Dbxref=GeneID:16194555;Name=18;gbkey=Gene;gene=18;gene_biotype=protein_coding;locus_tag=M193_gp018;old_locus_tag=HRTV7_18
+NC_021335.1	RefSeq	CDS	12340	12555	.	+	0	ID=cds17;Parent=gene17;Dbxref=Genbank:YP_008060002.1,GeneID:16194555;Name=YP_008060002.1;gbkey=CDS;gene=18;product=hypothetical protein;protein_id=YP_008060002.1;transl_table=11
+NC_021335.1	RefSeq	gene	12559	13071	.	+	.	ID=gene18;Dbxref=GeneID:16194650;Name=19;gbkey=Gene;gene=19;gene_biotype=protein_coding;locus_tag=M193_gp019;old_locus_tag=HRTV7_19
+NC_021335.1	RefSeq	CDS	12559	13071	.	+	0	ID=cds18;Parent=gene18;Dbxref=Genbank:YP_008060003.1,GeneID:16194650;Name=YP_008060003.1;Note=Tail Tube;gbkey=CDS;gene=19;product=tail tube;protein_id=YP_008060003.1;transl_table=11
+NC_021335.1	RefSeq	gene	13079	14392	.	+	.	ID=gene19;Dbxref=GeneID:16194594;Name=20;gbkey=Gene;gene=20;gene_biotype=protein_coding;locus_tag=M193_gp020;old_locus_tag=HRTV7_20
+NC_021335.1	RefSeq	CDS	13079	14392	.	+	0	ID=cds19;Parent=gene19;Dbxref=Genbank:YP_008060004.1,GeneID:16194594;Name=YP_008060004.1;Note=Tail Sheath;gbkey=CDS;gene=20;product=tail sheath;protein_id=YP_008060004.1;transl_table=11
+NC_021335.1	RefSeq	gene	14421	14909	.	+	.	ID=gene20;Dbxref=GeneID:16194630;Name=21;gbkey=Gene;gene=21;gene_biotype=protein_coding;locus_tag=M193_gp021;old_locus_tag=HRTV7_21
+NC_021335.1	RefSeq	CDS	14421	14909	.	+	0	ID=cds20;Parent=gene20;Dbxref=Genbank:YP_008060005.1,GeneID:16194630;Name=YP_008060005.1;gbkey=CDS;gene=21;product=hypothetical protein;protein_id=YP_008060005.1;transl_table=11
+NC_021335.1	RefSeq	gene	14949	15482	.	+	.	ID=gene21;Dbxref=GeneID:16194601;Name=22;gbkey=Gene;gene=22;gene_biotype=protein_coding;locus_tag=M193_gp022;old_locus_tag=HRTV7_22
+NC_021335.1	RefSeq	CDS	14949	15482	.	+	0	ID=cds21;Parent=gene21;Dbxref=Genbank:YP_008060006.1,GeneID:16194601;Name=YP_008060006.1;gbkey=CDS;gene=22;product=hypothetical protein;protein_id=YP_008060006.1;transl_table=11
+NC_021335.1	RefSeq	gene	15445	15780	.	+	.	ID=gene22;Dbxref=GeneID:16194557;Name=23;gbkey=Gene;gene=23;gene_biotype=protein_coding;locus_tag=M193_gp023;old_locus_tag=HRTV7_23
+NC_021335.1	RefSeq	CDS	15445	15780	.	+	0	ID=cds22;Parent=gene22;Dbxref=Genbank:YP_008060007.1,GeneID:16194557;Name=YP_008060007.1;gbkey=CDS;gene=23;product=hypothetical protein;protein_id=YP_008060007.1;transl_table=11
+NC_021335.1	RefSeq	gene	15784	17748	.	+	.	ID=gene23;Dbxref=GeneID:16194551;Name=24;gbkey=Gene;gene=24;gene_biotype=protein_coding;locus_tag=M193_gp024;old_locus_tag=HRTV7_24
+NC_021335.1	RefSeq	CDS	15784	17748	.	+	0	ID=cds23;Parent=gene23;Dbxref=Genbank:YP_008060008.1,GeneID:16194551;Name=YP_008060008.1;Note=Tape Measure;gbkey=CDS;gene=24;product=tape measure;protein_id=YP_008060008.1;transl_table=11
+NC_021335.1	RefSeq	gene	17748	18275	.	+	.	ID=gene24;Dbxref=GeneID:16194569;Name=25;gbkey=Gene;gene=25;gene_biotype=protein_coding;locus_tag=M193_gp025;old_locus_tag=HRTV7_25
+NC_021335.1	RefSeq	CDS	17748	18275	.	+	0	ID=cds24;Parent=gene24;Dbxref=Genbank:YP_008060009.1,GeneID:16194569;Name=YP_008060009.1;gbkey=CDS;gene=25;product=hypothetical protein;protein_id=YP_008060009.1;transl_table=11
+NC_021335.1	RefSeq	gene	18280	19800	.	+	.	ID=gene25;Dbxref=GeneID:16194577;Name=26;gbkey=Gene;gene=26;gene_biotype=protein_coding;locus_tag=M193_gp026;old_locus_tag=HRTV7_26
+NC_021335.1	RefSeq	CDS	18280	19800	.	+	0	ID=cds25;Parent=gene25;Dbxref=Genbank:YP_008060010.1,GeneID:16194577;Name=YP_008060010.1;gbkey=CDS;gene=26;product=hypothetical protein;protein_id=YP_008060010.1;transl_table=11
+NC_021335.1	RefSeq	gene	19849	20259	.	+	.	ID=gene26;Dbxref=GeneID:16194575;Name=27;gbkey=Gene;gene=27;gene_biotype=protein_coding;locus_tag=M193_gp027;old_locus_tag=HRTV7_27
+NC_021335.1	RefSeq	CDS	19849	20259	.	+	0	ID=cds26;Parent=gene26;Dbxref=Genbank:YP_008060011.1,GeneID:16194575;Name=YP_008060011.1;gbkey=CDS;gene=27;product=hypothetical protein;protein_id=YP_008060011.1;transl_table=11
+NC_021335.1	RefSeq	gene	20259	20624	.	+	.	ID=gene27;Dbxref=GeneID:16194583;Name=28;gbkey=Gene;gene=28;gene_biotype=protein_coding;locus_tag=M193_gp028;old_locus_tag=HRTV7_28
+NC_021335.1	RefSeq	CDS	20259	20624	.	+	0	ID=cds27;Parent=gene27;Dbxref=Genbank:YP_008060012.1,GeneID:16194583;Name=YP_008060012.1;gbkey=CDS;gene=28;product=hypothetical protein;protein_id=YP_008060012.1;transl_table=11
+NC_021335.1	RefSeq	gene	20626	20955	.	+	.	ID=gene28;Dbxref=GeneID:16194636;Name=29;gbkey=Gene;gene=29;gene_biotype=protein_coding;locus_tag=M193_gp029;old_locus_tag=HRTV7_29
+NC_021335.1	RefSeq	CDS	20626	20955	.	+	0	ID=cds28;Parent=gene28;Dbxref=Genbank:YP_008060013.1,GeneID:16194636;Name=YP_008060013.1;gbkey=CDS;gene=29;product=hypothetical protein;protein_id=YP_008060013.1;transl_table=11
+NC_021335.1	RefSeq	gene	20957	22246	.	+	.	ID=gene29;Dbxref=GeneID:16194654;Name=30;gbkey=Gene;gene=30;gene_biotype=protein_coding;locus_tag=M193_gp030;old_locus_tag=HRTV7_30
+NC_021335.1	RefSeq	CDS	20957	22246	.	+	0	ID=cds29;Parent=gene29;Dbxref=Genbank:YP_008060014.1,GeneID:16194654;Name=YP_008060014.1;Note=Baseplate J-like protein;gbkey=CDS;gene=30;product=baseplate J-like protein;protein_id=YP_008060014.1;transl_table=11
+NC_021335.1	RefSeq	gene	22252	22944	.	+	.	ID=gene30;Dbxref=GeneID:16194614;Name=31;gbkey=Gene;gene=31;gene_biotype=protein_coding;locus_tag=M193_gp031;old_locus_tag=HRTV7_31
+NC_021335.1	RefSeq	CDS	22252	22944	.	+	0	ID=cds30;Parent=gene30;Dbxref=Genbank:YP_008060015.1,GeneID:16194614;Name=YP_008060015.1;gbkey=CDS;gene=31;product=hypothetical protein;protein_id=YP_008060015.1;transl_table=11
+NC_021335.1	RefSeq	gene	22948	24363	.	+	.	ID=gene31;Dbxref=GeneID:16194563;Name=32;gbkey=Gene;gene=32;gene_biotype=protein_coding;locus_tag=M193_gp032;old_locus_tag=HRTV7_32
+NC_021335.1	RefSeq	CDS	22948	24363	.	+	0	ID=cds31;Parent=gene31;Dbxref=Genbank:YP_008060016.1,GeneID:16194563;Name=YP_008060016.1;gbkey=CDS;gene=32;product=hypothetical protein;protein_id=YP_008060016.1;transl_table=11
+NC_021335.1	RefSeq	gene	24366	25355	.	+	.	ID=gene32;Dbxref=GeneID:16194589;Name=33;gbkey=Gene;gene=33;gene_biotype=protein_coding;locus_tag=M193_gp033;old_locus_tag=HRTV7_33
+NC_021335.1	RefSeq	CDS	24366	25355	.	+	0	ID=cds32;Parent=gene32;Dbxref=Genbank:YP_008060017.1,GeneID:16194589;Name=YP_008060017.1;gbkey=CDS;gene=33;product=hypothetical protein;protein_id=YP_008060017.1;transl_table=11
+NC_021335.1	RefSeq	gene	25355	25699	.	+	.	ID=gene33;Dbxref=GeneID:16194597;Name=34;gbkey=Gene;gene=34;gene_biotype=protein_coding;locus_tag=M193_gp034;old_locus_tag=HRTV7_34
+NC_021335.1	RefSeq	CDS	25355	25699	.	+	0	ID=cds33;Parent=gene33;Dbxref=Genbank:YP_008060018.1,GeneID:16194597;Name=YP_008060018.1;gbkey=CDS;gene=34;product=hypothetical protein;protein_id=YP_008060018.1;transl_table=11
+NC_021335.1	RefSeq	gene	25701	26207	.	+	.	ID=gene34;Dbxref=GeneID:16194558;Name=35;gbkey=Gene;gene=35;gene_biotype=protein_coding;locus_tag=M193_gp035;old_locus_tag=HRTV7_35
+NC_021335.1	RefSeq	CDS	25701	26207	.	+	0	ID=cds34;Parent=gene34;Dbxref=Genbank:YP_008060019.1,GeneID:16194558;Name=YP_008060019.1;gbkey=CDS;gene=35;product=hypothetical protein;protein_id=YP_008060019.1;transl_table=11
+NC_021335.1	RefSeq	gene	26222	26356	.	+	.	ID=gene35;Dbxref=GeneID:16194632;Name=36;gbkey=Gene;gene=36;gene_biotype=protein_coding;locus_tag=M193_gp036;old_locus_tag=HRTV7_36
+NC_021335.1	RefSeq	CDS	26222	26356	.	+	0	ID=cds35;Parent=gene35;Dbxref=Genbank:YP_008060020.1,GeneID:16194632;Name=YP_008060020.1;gbkey=CDS;gene=36;product=hypothetical protein;protein_id=YP_008060020.1;transl_table=11
+NC_021335.1	RefSeq	gene	26517	26654	.	-	.	ID=gene36;Dbxref=GeneID:16194565;Name=37;gbkey=Gene;gene=37;gene_biotype=protein_coding;locus_tag=M193_gp037;old_locus_tag=HRTV7_37
+NC_021335.1	RefSeq	CDS	26517	26654	.	-	0	ID=cds36;Parent=gene36;Dbxref=Genbank:YP_008060021.1,GeneID:16194565;Name=YP_008060021.1;gbkey=CDS;gene=37;product=hypothetical protein;protein_id=YP_008060021.1;transl_table=11
+NC_021335.1	RefSeq	gene	26718	27608	.	-	.	ID=gene37;Dbxref=GeneID:16194587;Name=38;gbkey=Gene;gene=38;gene_biotype=protein_coding;locus_tag=M193_gp038;old_locus_tag=HRTV7_38
+NC_021335.1	RefSeq	CDS	26718	27608	.	-	0	ID=cds37;Parent=gene37;Dbxref=Genbank:YP_008060022.1,GeneID:16194587;Name=YP_008060022.1;gbkey=CDS;gene=38;product=hypothetical protein;protein_id=YP_008060022.1;transl_table=11
+NC_021335.1	RefSeq	gene	28026	28757	.	-	.	ID=gene38;Dbxref=GeneID:16194649;Name=39;gbkey=Gene;gene=39;gene_biotype=protein_coding;locus_tag=M193_gp039;old_locus_tag=HRTV7_39
+NC_021335.1	RefSeq	CDS	28026	28757	.	-	0	ID=cds38;Parent=gene38;Dbxref=Genbank:YP_008060023.1,GeneID:16194649;Name=YP_008060023.1;Note=Thymidylate synthase;gbkey=CDS;gene=39;product=thymidylate synthase;protein_id=YP_008060023.1;transl_table=11
+NC_021335.1	RefSeq	gene	28966	29082	.	-	.	ID=gene39;Dbxref=GeneID:16194582;Name=40;gbkey=Gene;gene=40;gene_biotype=protein_coding;locus_tag=M193_gp040;old_locus_tag=HRTV7_40
+NC_021335.1	RefSeq	CDS	28966	29082	.	-	0	ID=cds39;Parent=gene39;Dbxref=Genbank:YP_008060024.1,GeneID:16194582;Name=YP_008060024.1;gbkey=CDS;gene=40;product=hypothetical protein;protein_id=YP_008060024.1;transl_table=11
+NC_021335.1	RefSeq	gene	29060	29251	.	-	.	ID=gene40;Dbxref=GeneID:16194591;Name=41;gbkey=Gene;gene=41;gene_biotype=protein_coding;locus_tag=M193_gp041;old_locus_tag=HRTV7_41
+NC_021335.1	RefSeq	CDS	29060	29251	.	-	0	ID=cds40;Parent=gene40;Dbxref=Genbank:YP_008060025.1,GeneID:16194591;Name=YP_008060025.1;gbkey=CDS;gene=41;product=hypothetical protein;protein_id=YP_008060025.1;transl_table=11
+NC_021335.1	RefSeq	gene	29251	31902	.	-	.	ID=gene41;Dbxref=GeneID:16194642;Name=42;gbkey=Gene;gene=42;gene_biotype=protein_coding;locus_tag=M193_gp042;old_locus_tag=HRTV7_42
+NC_021335.1	RefSeq	CDS	29251	31902	.	-	0	ID=cds41;Parent=gene41;Dbxref=Genbank:YP_008060026.1,GeneID:16194642;Name=YP_008060026.1;Note=DNA polymerase%2C elongation subunit (family B);gbkey=CDS;gene=42;product=DNA polymerase elongation subunit (family B);protein_id=YP_008060026.1;transl_table=11
+NC_021335.1	RefSeq	gene	31899	32330	.	-	.	ID=gene42;Dbxref=GeneID:16194567;Name=43;gbkey=Gene;gene=43;gene_biotype=protein_coding;locus_tag=M193_gp043;old_locus_tag=HRTV7_43
+NC_021335.1	RefSeq	CDS	31899	32330	.	-	0	ID=cds42;Parent=gene42;Dbxref=Genbank:YP_008060027.1,GeneID:16194567;Name=YP_008060027.1;gbkey=CDS;gene=43;product=hypothetical protein;protein_id=YP_008060027.1;transl_table=11
+NC_021335.1	RefSeq	gene	32297	32686	.	-	.	ID=gene43;Dbxref=GeneID:16194641;Name=44;gbkey=Gene;gene=44;gene_biotype=protein_coding;locus_tag=M193_gp044;old_locus_tag=HRTV7_44
+NC_021335.1	RefSeq	CDS	32297	32686	.	-	0	ID=cds43;Parent=gene43;Dbxref=Genbank:YP_008060028.1,GeneID:16194641;Name=YP_008060028.1;gbkey=CDS;gene=44;product=hypothetical protein;protein_id=YP_008060028.1;transl_table=11
+NC_021335.1	RefSeq	gene	32683	32868	.	-	.	ID=gene44;Dbxref=GeneID:16194625;Name=45;gbkey=Gene;gene=45;gene_biotype=protein_coding;locus_tag=M193_gp045;old_locus_tag=HRTV7_45
+NC_021335.1	RefSeq	CDS	32683	32868	.	-	0	ID=cds44;Parent=gene44;Dbxref=Genbank:YP_008060029.1,GeneID:16194625;Name=YP_008060029.1;gbkey=CDS;gene=45;product=hypothetical protein;protein_id=YP_008060029.1;transl_table=11
+NC_021335.1	RefSeq	gene	32961	33716	.	-	.	ID=gene45;Dbxref=GeneID:16194606;Name=46;gbkey=Gene;gene=46;gene_biotype=protein_coding;locus_tag=M193_gp046;old_locus_tag=HRTV7_46
+NC_021335.1	RefSeq	CDS	32961	33716	.	-	0	ID=cds45;Parent=gene45;Dbxref=Genbank:YP_008060030.1,GeneID:16194606;Name=YP_008060030.1;Note=AAA domain;gbkey=CDS;gene=46;product=hypothetical protein;protein_id=YP_008060030.1;transl_table=11
+NC_021335.1	RefSeq	gene	33716	33874	.	-	.	ID=gene46;Dbxref=GeneID:16194553;Name=47;gbkey=Gene;gene=47;gene_biotype=protein_coding;locus_tag=M193_gp047;old_locus_tag=HRTV7_47
+NC_021335.1	RefSeq	CDS	33716	33874	.	-	0	ID=cds46;Parent=gene46;Dbxref=Genbank:YP_008060031.1,GeneID:16194553;Name=YP_008060031.1;gbkey=CDS;gene=47;product=hypothetical protein;protein_id=YP_008060031.1;transl_table=11
+NC_021335.1	RefSeq	gene	33983	34432	.	-	.	ID=gene47;Dbxref=GeneID:16194579;Name=48;gbkey=Gene;gene=48;gene_biotype=protein_coding;locus_tag=M193_gp048;old_locus_tag=HRTV7_48
+NC_021335.1	RefSeq	CDS	33983	34432	.	-	0	ID=cds47;Parent=gene47;Dbxref=Genbank:YP_008060032.1,GeneID:16194579;Name=YP_008060032.1;Note=Ser/Thr and Tyr protein phosphatase;gbkey=CDS;gene=48;product=Ser/Thr and Tyr protein phosphatase;protein_id=YP_008060032.1;transl_table=11
+NC_021335.1	RefSeq	gene	34429	34551	.	-	.	ID=gene48;Dbxref=GeneID:16194644;Name=49;gbkey=Gene;gene=49;gene_biotype=protein_coding;locus_tag=M193_gp049;old_locus_tag=HRTV7_49
+NC_021335.1	RefSeq	CDS	34429	34551	.	-	0	ID=cds48;Parent=gene48;Dbxref=Genbank:YP_008060033.1,GeneID:16194644;Name=YP_008060033.1;gbkey=CDS;gene=49;product=hypothetical protein;protein_id=YP_008060033.1;transl_table=11
+NC_021335.1	RefSeq	gene	34586	35251	.	-	.	ID=gene49;Dbxref=GeneID:16194570;Name=50;gbkey=Gene;gene=50;gene_biotype=protein_coding;locus_tag=M193_gp050;old_locus_tag=HRTV7_50
+NC_021335.1	RefSeq	CDS	34586	35251	.	-	0	ID=cds49;Parent=gene49;Dbxref=Genbank:YP_008060034.1,GeneID:16194570;Name=YP_008060034.1;Note=HNH endonuclease domain;gbkey=CDS;gene=50;product=HNH protein;protein_id=YP_008060034.1;transl_table=11
+NC_021335.1	RefSeq	gene	35248	36309	.	-	.	ID=gene50;Dbxref=GeneID:16194603;Name=51;gbkey=Gene;gene=51;gene_biotype=protein_coding;locus_tag=M193_gp051;old_locus_tag=HRTV7_51
+NC_021335.1	RefSeq	CDS	35248	36309	.	-	0	ID=cds50;Parent=gene50;Dbxref=Genbank:YP_008060035.1,GeneID:16194603;Name=YP_008060035.1;Note=PD-(D/E)XK nuclease;gbkey=CDS;gene=51;product=PD-(D/E)XK nuclease;protein_id=YP_008060035.1;transl_table=11
+NC_021335.1	RefSeq	gene	36302	36541	.	-	.	ID=gene51;Dbxref=GeneID:16194562;Name=52;gbkey=Gene;gene=52;gene_biotype=protein_coding;locus_tag=M193_gp052;old_locus_tag=HRTV7_52
+NC_021335.1	RefSeq	CDS	36302	36541	.	-	0	ID=cds51;Parent=gene51;Dbxref=Genbank:YP_008060036.1,GeneID:16194562;Name=YP_008060036.1;gbkey=CDS;gene=52;product=hypothetical protein;protein_id=YP_008060036.1;transl_table=11
+NC_021335.1	RefSeq	gene	36534	36698	.	-	.	ID=gene52;Dbxref=GeneID:16194610;Name=53;gbkey=Gene;gene=53;gene_biotype=protein_coding;locus_tag=M193_gp053;old_locus_tag=HRTV7_53
+NC_021335.1	RefSeq	CDS	36534	36698	.	-	0	ID=cds52;Parent=gene52;Dbxref=Genbank:YP_008060037.1,GeneID:16194610;Name=YP_008060037.1;gbkey=CDS;gene=53;product=hypothetical protein;protein_id=YP_008060037.1;transl_table=11
+NC_021335.1	RefSeq	gene	36688	36906	.	-	.	ID=gene53;Dbxref=GeneID:16194628;Name=54;gbkey=Gene;gene=54;gene_biotype=protein_coding;locus_tag=M193_gp054;old_locus_tag=HRTV7_54
+NC_021335.1	RefSeq	CDS	36688	36906	.	-	0	ID=cds53;Parent=gene53;Dbxref=Genbank:YP_008060038.1,GeneID:16194628;Name=YP_008060038.1;gbkey=CDS;gene=54;product=hypothetical protein;protein_id=YP_008060038.1;transl_table=11
+NC_021335.1	RefSeq	gene	36906	37052	.	-	.	ID=gene54;Dbxref=GeneID:16194629;Name=55;gbkey=Gene;gene=55;gene_biotype=protein_coding;locus_tag=M193_gp055;old_locus_tag=HRTV7_55
+NC_021335.1	RefSeq	CDS	36906	37052	.	-	0	ID=cds54;Parent=gene54;Dbxref=Genbank:YP_008060039.1,GeneID:16194629;Name=YP_008060039.1;gbkey=CDS;gene=55;product=hypothetical protein;protein_id=YP_008060039.1;transl_table=11
+NC_021335.1	RefSeq	gene	37042	37455	.	-	.	ID=gene55;Dbxref=GeneID:16194609;Name=56;gbkey=Gene;gene=56;gene_biotype=protein_coding;locus_tag=M193_gp056;old_locus_tag=HRTV7_56
+NC_021335.1	RefSeq	CDS	37042	37455	.	-	0	ID=cds55;Parent=gene55;Dbxref=Genbank:YP_008060040.1,GeneID:16194609;Name=YP_008060040.1;gbkey=CDS;gene=56;product=hypothetical protein;protein_id=YP_008060040.1;transl_table=11
+NC_021335.1	RefSeq	gene	37457	37798	.	-	.	ID=gene56;Dbxref=GeneID:16194617;Name=57;gbkey=Gene;gene=57;gene_biotype=protein_coding;locus_tag=M193_gp057;old_locus_tag=HRTV7_57
+NC_021335.1	RefSeq	CDS	37457	37798	.	-	0	ID=cds56;Parent=gene56;Dbxref=Genbank:YP_008060041.1,GeneID:16194617;Name=YP_008060041.1;gbkey=CDS;gene=57;product=hypothetical protein;protein_id=YP_008060041.1;transl_table=11
+NC_021335.1	RefSeq	gene	37887	38267	.	-	.	ID=gene57;Dbxref=GeneID:16194571;Name=58;gbkey=Gene;gene=58;gene_biotype=protein_coding;locus_tag=M193_gp058;old_locus_tag=HRTV7_58
+NC_021335.1	RefSeq	CDS	37887	38267	.	-	0	ID=cds57;Parent=gene57;Dbxref=Genbank:YP_008060042.1,GeneID:16194571;Name=YP_008060042.1;gbkey=CDS;gene=58;product=hypothetical protein;protein_id=YP_008060042.1;transl_table=11
+NC_021335.1	RefSeq	gene	38269	38595	.	-	.	ID=gene58;Dbxref=GeneID:16194643;Name=59;gbkey=Gene;gene=59;gene_biotype=protein_coding;locus_tag=M193_gp059;old_locus_tag=HRTV7_59
+NC_021335.1	RefSeq	CDS	38269	38595	.	-	0	ID=cds58;Parent=gene58;Dbxref=Genbank:YP_008060043.1,GeneID:16194643;Name=YP_008060043.1;gbkey=CDS;gene=59;product=hypothetical protein;protein_id=YP_008060043.1;transl_table=11
+NC_021335.1	RefSeq	gene	38702	39964	.	-	.	ID=gene59;Dbxref=GeneID:16194626;Name=60;gbkey=Gene;gene=60;gene_biotype=protein_coding;locus_tag=M193_gp060;old_locus_tag=HRTV7_60
+NC_021335.1	RefSeq	CDS	38702	39964	.	-	0	ID=cds59;Parent=gene59;Dbxref=Genbank:YP_008060044.1,GeneID:16194626;Name=YP_008060044.1;Note=DNA polymerase II%2C small subunit;gbkey=CDS;gene=60;product=DNA polymerase II small subunit;protein_id=YP_008060044.1;transl_table=11
+NC_021335.1	RefSeq	gene	40029	41291	.	-	.	ID=gene60;Dbxref=GeneID:16194635;Name=61;gbkey=Gene;gene=61;gene_biotype=protein_coding;locus_tag=M193_gp061;old_locus_tag=HRTV7_61
+NC_021335.1	RefSeq	CDS	40029	41291	.	-	0	ID=cds60;Parent=gene60;Dbxref=Genbank:YP_008060045.1,GeneID:16194635;Name=YP_008060045.1;gbkey=CDS;gene=61;product=hypothetical protein;protein_id=YP_008060045.1;transl_table=11
+NC_021335.1	RefSeq	gene	41288	41479	.	-	.	ID=gene61;Dbxref=GeneID:16194640;Name=62;gbkey=Gene;gene=62;gene_biotype=protein_coding;locus_tag=M193_gp062;old_locus_tag=HRTV7_62
+NC_021335.1	RefSeq	CDS	41288	41479	.	-	0	ID=cds61;Parent=gene61;Dbxref=Genbank:YP_008060046.1,GeneID:16194640;Name=YP_008060046.1;gbkey=CDS;gene=62;product=hypothetical protein;protein_id=YP_008060046.1;transl_table=11
+NC_021335.1	RefSeq	gene	41476	42957	.	-	.	ID=gene62;Dbxref=GeneID:16194653;Name=63;gbkey=Gene;gene=63;gene_biotype=protein_coding;locus_tag=M193_gp063;old_locus_tag=HRTV7_63
+NC_021335.1	RefSeq	CDS	41476	42957	.	-	0	ID=cds62;Parent=gene62;Dbxref=Genbank:YP_008060047.1,GeneID:16194653;Name=YP_008060047.1;Note=Winged-helix domain;gbkey=CDS;gene=63;product=hypothetical protein;protein_id=YP_008060047.1;transl_table=11
+NC_021335.1	RefSeq	gene	43036	43335	.	-	.	ID=gene63;Dbxref=GeneID:16194615;Name=64;gbkey=Gene;gene=64;gene_biotype=protein_coding;locus_tag=M193_gp064;old_locus_tag=HRTV7_64
+NC_021335.1	RefSeq	CDS	43036	43335	.	-	0	ID=cds63;Parent=gene63;Dbxref=Genbank:YP_008060048.1,GeneID:16194615;Name=YP_008060048.1;gbkey=CDS;gene=64;product=hypothetical protein;protein_id=YP_008060048.1;transl_table=11
+NC_021335.1	RefSeq	gene	43328	43750	.	-	.	ID=gene64;Dbxref=GeneID:16194638;Name=65;gbkey=Gene;gene=65;gene_biotype=protein_coding;locus_tag=M193_gp065;old_locus_tag=HRTV7_65
+NC_021335.1	RefSeq	CDS	43328	43750	.	-	0	ID=cds64;Parent=gene64;Dbxref=Genbank:YP_008060049.1,GeneID:16194638;Name=YP_008060049.1;gbkey=CDS;gene=65;product=hypothetical protein;protein_id=YP_008060049.1;transl_table=11
+NC_021335.1	RefSeq	gene	43750	44847	.	-	.	ID=gene65;Dbxref=GeneID:16194586;Name=66;gbkey=Gene;gene=66;gene_biotype=protein_coding;locus_tag=M193_gp066;old_locus_tag=HRTV7_66
+NC_021335.1	RefSeq	CDS	43750	44847	.	-	0	ID=cds65;Parent=gene65;Dbxref=Genbank:YP_008060050.1,GeneID:16194586;Name=YP_008060050.1;gbkey=CDS;gene=66;product=hypothetical protein;protein_id=YP_008060050.1;transl_table=11
+NC_021335.1	RefSeq	gene	45281	45787	.	-	.	ID=gene66;Dbxref=GeneID:16194647;Name=67;gbkey=Gene;gene=67;gene_biotype=protein_coding;locus_tag=M193_gp067;old_locus_tag=HRTV7_67
+NC_021335.1	RefSeq	CDS	45281	45787	.	-	0	ID=cds66;Parent=gene66;Dbxref=Genbank:YP_008060051.1,GeneID:16194647;Name=YP_008060051.1;gbkey=CDS;gene=67;product=hypothetical protein;protein_id=YP_008060051.1;transl_table=11
+NC_021335.1	RefSeq	gene	45813	45885	.	-	.	ID=gene67;Dbxref=GeneID:16194634;Name=68;gbkey=Gene;gene=68;gene_biotype=tRNA;locus_tag=M193_gt001;old_locus_tag=HRTV7_68
+NC_021335.1	RefSeq	tRNA	45813	45885	.	-	.	ID=rna0;Parent=gene67;Dbxref=GeneID:16194634;Note=tRNA Gln (ttg);gbkey=tRNA;gene=68;product=tRNA-Gln
+NC_021335.1	RefSeq	exon	45813	45885	.	-	.	ID=id1;Parent=rna0;Dbxref=GeneID:16194634;Note=tRNA Gln (ttg);gbkey=tRNA;gene=68;product=tRNA-Gln
+NC_021335.1	RefSeq	gene	46461	47069	.	+	.	ID=gene68;Dbxref=GeneID:16194656;Name=69;gbkey=Gene;gene=69;gene_biotype=protein_coding;locus_tag=M193_gp105;old_locus_tag=HRTV7_69
+NC_021335.1	RefSeq	CDS	46461	47069	.	+	0	ID=cds67;Parent=gene68;Dbxref=Genbank:YP_008060052.1,GeneID:16194656;Name=YP_008060052.1;gbkey=CDS;gene=69;product=hypothetical protein;protein_id=YP_008060052.1;transl_table=11
+NC_021335.1	RefSeq	gene	47066	47554	.	-	.	ID=gene69;Dbxref=GeneID:16194578;Name=70;gbkey=Gene;gene=70;gene_biotype=protein_coding;locus_tag=M193_gp104;old_locus_tag=HRTV7_70
+NC_021335.1	RefSeq	CDS	47066	47554	.	-	0	ID=cds68;Parent=gene69;Dbxref=Genbank:YP_008060053.1,GeneID:16194578;Name=YP_008060053.1;gbkey=CDS;gene=70;product=hypothetical protein;protein_id=YP_008060053.1;transl_table=11
+NC_021335.1	RefSeq	gene	47897	48415	.	+	.	ID=gene70;Dbxref=GeneID:16194560;Name=71;gbkey=Gene;gene=71;gene_biotype=protein_coding;locus_tag=M193_gp103;old_locus_tag=HRTV7_71
+NC_021335.1	RefSeq	CDS	47897	48415	.	+	0	ID=cds69;Parent=gene70;Dbxref=Genbank:YP_008060054.1,GeneID:16194560;Name=YP_008060054.1;gbkey=CDS;gene=71;product=hypothetical protein;protein_id=YP_008060054.1;transl_table=11
+NC_021335.1	RefSeq	gene	48415	48900	.	+	.	ID=gene71;Dbxref=GeneID:16194593;Name=72;gbkey=Gene;gene=72;gene_biotype=protein_coding;locus_tag=M193_gp102;old_locus_tag=HRTV7_72
+NC_021335.1	RefSeq	CDS	48415	48900	.	+	0	ID=cds70;Parent=gene71;Dbxref=Genbank:YP_008060055.1,GeneID:16194593;Name=YP_008060055.1;Note=ERCC4-type nuclease;gbkey=CDS;gene=72;product=ERCC4-type nuclease;protein_id=YP_008060055.1;transl_table=11
+NC_021335.1	RefSeq	gene	49220	50383	.	+	.	ID=gene72;Dbxref=GeneID:16194590;Name=73;gbkey=Gene;gene=73;gene_biotype=protein_coding;locus_tag=M193_gp101;old_locus_tag=HRTV7_73
+NC_021335.1	RefSeq	CDS	49220	50383	.	+	0	ID=cds71;Parent=gene72;Dbxref=Genbank:YP_008060056.1,GeneID:16194590;Name=YP_008060056.1;Note=Integrase;gbkey=CDS;gene=73;product=integrase;protein_id=YP_008060056.1;transl_table=11
+NC_021335.1	RefSeq	gene	50380	50652	.	-	.	ID=gene73;Dbxref=GeneID:16194623;Name=74;gbkey=Gene;gene=74;gene_biotype=protein_coding;locus_tag=M193_gp100;old_locus_tag=HRTV7_74
+NC_021335.1	RefSeq	CDS	50380	50652	.	-	0	ID=cds72;Parent=gene73;Dbxref=Genbank:YP_008060057.1,GeneID:16194623;Name=YP_008060057.1;gbkey=CDS;gene=74;product=hypothetical protein;protein_id=YP_008060057.1;transl_table=11
+NC_021335.1	RefSeq	gene	50649	50834	.	-	.	ID=gene74;Dbxref=GeneID:16194621;Name=75;gbkey=Gene;gene=75;gene_biotype=protein_coding;locus_tag=M193_gp099;old_locus_tag=HRTV7_75
+NC_021335.1	RefSeq	CDS	50649	50834	.	-	0	ID=cds73;Parent=gene74;Dbxref=Genbank:YP_008060058.1,GeneID:16194621;Name=YP_008060058.1;gbkey=CDS;gene=75;product=hypothetical protein;protein_id=YP_008060058.1;transl_table=11
+NC_021335.1	RefSeq	gene	50831	51253	.	-	.	ID=gene75;Dbxref=GeneID:16194592;Name=76;gbkey=Gene;gene=76;gene_biotype=protein_coding;locus_tag=M193_gp098;old_locus_tag=HRTV7_76
+NC_021335.1	RefSeq	CDS	50831	51253	.	-	0	ID=cds74;Parent=gene75;Dbxref=Genbank:YP_008060059.1,GeneID:16194592;Name=YP_008060059.1;Note=HTH domain;gbkey=CDS;gene=76;product=hypothetical protein;protein_id=YP_008060059.1;transl_table=11
+NC_021335.1	RefSeq	gene	51250	51471	.	-	.	ID=gene76;Dbxref=GeneID:16194639;Name=77;gbkey=Gene;gene=77;gene_biotype=protein_coding;locus_tag=M193_gp097;old_locus_tag=HRTV7_77
+NC_021335.1	RefSeq	CDS	51250	51471	.	-	0	ID=cds75;Parent=gene76;Dbxref=Genbank:YP_008060060.1,GeneID:16194639;Name=YP_008060060.1;gbkey=CDS;gene=77;product=hypothetical protein;protein_id=YP_008060060.1;transl_table=11
+NC_021335.1	RefSeq	gene	51468	51647	.	-	.	ID=gene77;Dbxref=GeneID:16194581;Name=78;gbkey=Gene;gene=78;gene_biotype=protein_coding;locus_tag=M193_gp096;old_locus_tag=HRTV7_78
+NC_021335.1	RefSeq	CDS	51468	51647	.	-	0	ID=cds76;Parent=gene77;Dbxref=Genbank:YP_008060061.1,GeneID:16194581;Name=YP_008060061.1;gbkey=CDS;gene=78;product=hypothetical protein;protein_id=YP_008060061.1;transl_table=11
+NC_021335.1	RefSeq	gene	51652	52083	.	-	.	ID=gene78;Dbxref=GeneID:16194627;Name=79;gbkey=Gene;gene=79;gene_biotype=protein_coding;locus_tag=M193_gp095;old_locus_tag=HRTV7_79
+NC_021335.1	RefSeq	CDS	51652	52083	.	-	0	ID=cds77;Parent=gene78;Dbxref=Genbank:YP_008060062.1,GeneID:16194627;Name=YP_008060062.1;gbkey=CDS;gene=79;product=hypothetical protein;protein_id=YP_008060062.1;transl_table=11
+NC_021335.1	RefSeq	gene	52076	52333	.	-	.	ID=gene79;Dbxref=GeneID:16194613;Name=80;gbkey=Gene;gene=80;gene_biotype=protein_coding;locus_tag=M193_gp094;old_locus_tag=HRTV7_80
+NC_021335.1	RefSeq	CDS	52076	52333	.	-	0	ID=cds78;Parent=gene79;Dbxref=Genbank:YP_008060063.1,GeneID:16194613;Name=YP_008060063.1;gbkey=CDS;gene=80;product=hypothetical protein;protein_id=YP_008060063.1;transl_table=11
+NC_021335.1	RefSeq	gene	52380	52679	.	-	.	ID=gene80;Dbxref=GeneID:16194556;Name=81;gbkey=Gene;gene=81;gene_biotype=protein_coding;locus_tag=M193_gp093;old_locus_tag=HRTV7_81
+NC_021335.1	RefSeq	CDS	52380	52679	.	-	0	ID=cds79;Parent=gene80;Dbxref=Genbank:YP_008060064.1,GeneID:16194556;Name=YP_008060064.1;gbkey=CDS;gene=81;product=hypothetical protein;protein_id=YP_008060064.1;transl_table=11
+NC_021335.1	RefSeq	gene	52750	52914	.	-	.	ID=gene81;Dbxref=GeneID:16194580;Name=82;gbkey=Gene;gene=82;gene_biotype=protein_coding;locus_tag=M193_gp092;old_locus_tag=HRTV7_82
+NC_021335.1	RefSeq	CDS	52750	52914	.	-	0	ID=cds80;Parent=gene81;Dbxref=Genbank:YP_008060065.1,GeneID:16194580;Name=YP_008060065.1;gbkey=CDS;gene=82;product=hypothetical protein;protein_id=YP_008060065.1;transl_table=11
+NC_021335.1	RefSeq	gene	52911	53153	.	-	.	ID=gene82;Dbxref=GeneID:16194599;Name=83;gbkey=Gene;gene=83;gene_biotype=protein_coding;locus_tag=M193_gp091;old_locus_tag=HRTV7_83
+NC_021335.1	RefSeq	CDS	52911	53153	.	-	0	ID=cds81;Parent=gene82;Dbxref=Genbank:YP_008060066.1,GeneID:16194599;Name=YP_008060066.1;gbkey=CDS;gene=83;product=hypothetical protein;protein_id=YP_008060066.1;transl_table=11
+NC_021335.1	RefSeq	gene	53160	54584	.	-	.	ID=gene83;Dbxref=GeneID:16194574;Name=84;gbkey=Gene;gene=84;gene_biotype=protein_coding;locus_tag=M193_gp090;old_locus_tag=HRTV7_84
+NC_021335.1	RefSeq	CDS	53160	54584	.	-	0	ID=cds82;Parent=gene83;Dbxref=Genbank:YP_008060067.1,GeneID:16194574;Name=YP_008060067.1;gbkey=CDS;gene=84;product=hypothetical protein;protein_id=YP_008060067.1;transl_table=11
+NC_021335.1	RefSeq	gene	54610	55254	.	-	.	ID=gene84;Dbxref=GeneID:16194637;Name=85;gbkey=Gene;gene=85;gene_biotype=protein_coding;locus_tag=M193_gp089;old_locus_tag=HRTV7_85
+NC_021335.1	RefSeq	CDS	54610	55254	.	-	0	ID=cds83;Parent=gene84;Dbxref=Genbank:YP_008060068.1,GeneID:16194637;Name=YP_008060068.1;Note=LAGLIDADG endonuclease;gbkey=CDS;gene=85;product=LAGLIDADG endonuclease;protein_id=YP_008060068.1;transl_table=11
+NC_021335.1	RefSeq	gene	55299	55493	.	-	.	ID=gene85;Dbxref=GeneID:16194588;Name=86;gbkey=Gene;gene=86;gene_biotype=protein_coding;locus_tag=M193_gp088;old_locus_tag=HRTV7_86
+NC_021335.1	RefSeq	CDS	55299	55493	.	-	0	ID=cds84;Parent=gene85;Dbxref=Genbank:YP_008060069.1,GeneID:16194588;Name=YP_008060069.1;gbkey=CDS;gene=86;product=hypothetical protein;protein_id=YP_008060069.1;transl_table=11
+NC_021335.1	RefSeq	gene	55490	55669	.	-	.	ID=gene86;Dbxref=GeneID:16194595;Name=87;gbkey=Gene;gene=87;gene_biotype=protein_coding;locus_tag=M193_gp087;old_locus_tag=HRTV7_87
+NC_021335.1	RefSeq	CDS	55490	55669	.	-	0	ID=cds85;Parent=gene86;Dbxref=Genbank:YP_008060070.1,GeneID:16194595;Name=YP_008060070.1;gbkey=CDS;gene=87;product=hypothetical protein;protein_id=YP_008060070.1;transl_table=11
+NC_021335.1	RefSeq	gene	55666	55875	.	-	.	ID=gene87;Dbxref=GeneID:16194633;Name=88;gbkey=Gene;gene=88;gene_biotype=protein_coding;locus_tag=M193_gp086;old_locus_tag=HRTV7_88
+NC_021335.1	RefSeq	CDS	55666	55875	.	-	0	ID=cds86;Parent=gene87;Dbxref=Genbank:YP_008060071.1,GeneID:16194633;Name=YP_008060071.1;gbkey=CDS;gene=88;product=hypothetical protein;protein_id=YP_008060071.1;transl_table=11
+NC_021335.1	RefSeq	gene	55872	56330	.	-	.	ID=gene88;Dbxref=GeneID:16194573;Name=89;gbkey=Gene;gene=89;gene_biotype=protein_coding;locus_tag=M193_gp085;old_locus_tag=HRTV7_89
+NC_021335.1	RefSeq	CDS	55872	56330	.	-	0	ID=cds87;Parent=gene88;Dbxref=Genbank:YP_008060072.1,GeneID:16194573;Name=YP_008060072.1;gbkey=CDS;gene=89;product=hypothetical protein;protein_id=YP_008060072.1;transl_table=11
+NC_021335.1	RefSeq	gene	56335	56631	.	-	.	ID=gene89;Dbxref=GeneID:16194585;Name=90;gbkey=Gene;gene=90;gene_biotype=protein_coding;locus_tag=M193_gp084;old_locus_tag=HRTV7_90
+NC_021335.1	RefSeq	CDS	56335	56631	.	-	0	ID=cds88;Parent=gene89;Dbxref=Genbank:YP_008060073.1,GeneID:16194585;Name=YP_008060073.1;gbkey=CDS;gene=90;product=hypothetical protein;protein_id=YP_008060073.1;transl_table=11
+NC_021335.1	RefSeq	gene	56771	57679	.	-	.	ID=gene90;Dbxref=GeneID:16194619;Name=91;gbkey=Gene;gene=91;gene_biotype=protein_coding;locus_tag=M193_gp083;old_locus_tag=HRTV7_91
+NC_021335.1	RefSeq	CDS	56771	57679	.	-	0	ID=cds89;Parent=gene90;Dbxref=Genbank:YP_008060074.1,GeneID:16194619;Name=YP_008060074.1;gbkey=CDS;gene=91;product=hypothetical protein;protein_id=YP_008060074.1;transl_table=11
+NC_021335.1	RefSeq	gene	57776	58465	.	-	.	ID=gene91;Dbxref=GeneID:16194572;Name=92;gbkey=Gene;gene=92;gene_biotype=protein_coding;locus_tag=M193_gp082;old_locus_tag=HRTV7_92
+NC_021335.1	RefSeq	CDS	57776	58465	.	-	0	ID=cds90;Parent=gene91;Dbxref=Genbank:YP_008060075.1,GeneID:16194572;Name=YP_008060075.1;gbkey=CDS;gene=92;product=hypothetical protein;protein_id=YP_008060075.1;transl_table=11
+NC_021335.1	RefSeq	gene	58458	58559	.	-	.	ID=gene92;Dbxref=GeneID:16194624;Name=93;gbkey=Gene;gene=93;gene_biotype=protein_coding;locus_tag=M193_gp081;old_locus_tag=HRTV7_93
+NC_021335.1	RefSeq	CDS	58458	58559	.	-	0	ID=cds91;Parent=gene92;Dbxref=Genbank:YP_008060076.1,GeneID:16194624;Name=YP_008060076.1;gbkey=CDS;gene=93;product=hypothetical protein;protein_id=YP_008060076.1;transl_table=11
+NC_021335.1	RefSeq	gene	58561	61401	.	-	.	ID=gene93;Dbxref=GeneID:16194620;Name=94;gbkey=Gene;gene=94;gene_biotype=protein_coding;locus_tag=M193_gp080;old_locus_tag=HRTV7_94
+NC_021335.1	RefSeq	CDS	58561	61401	.	-	0	ID=cds92;Parent=gene93;Dbxref=Genbank:YP_008060077.1,GeneID:16194620;Name=YP_008060077.1;Note=HSP90 chaperone;gbkey=CDS;gene=94;product=hypothetical protein;protein_id=YP_008060077.1;transl_table=11
+NC_021335.1	RefSeq	gene	61391	61705	.	-	.	ID=gene94;Dbxref=GeneID:16194561;Name=95;gbkey=Gene;gene=95;gene_biotype=protein_coding;locus_tag=M193_gp079;old_locus_tag=HRTV7_95
+NC_021335.1	RefSeq	CDS	61391	61705	.	-	0	ID=cds93;Parent=gene94;Dbxref=Genbank:YP_008060078.1,GeneID:16194561;Name=YP_008060078.1;gbkey=CDS;gene=95;product=hypothetical protein;protein_id=YP_008060078.1;transl_table=11
+NC_021335.1	RefSeq	gene	61769	61942	.	-	.	ID=gene95;Dbxref=GeneID:16194618;Name=96;gbkey=Gene;gene=96;gene_biotype=protein_coding;locus_tag=M193_gp078;old_locus_tag=HRTV7_96
+NC_021335.1	RefSeq	CDS	61769	61942	.	-	0	ID=cds94;Parent=gene95;Dbxref=Genbank:YP_008060079.1,GeneID:16194618;Name=YP_008060079.1;gbkey=CDS;gene=96;product=hypothetical protein;protein_id=YP_008060079.1;transl_table=11
+NC_021335.1	RefSeq	gene	61942	62736	.	-	.	ID=gene96;Dbxref=GeneID:16194568;Name=97;gbkey=Gene;gene=97;gene_biotype=protein_coding;locus_tag=M193_gp077;old_locus_tag=HRTV7_97
+NC_021335.1	RefSeq	CDS	61942	62736	.	-	0	ID=cds95;Parent=gene96;Dbxref=Genbank:YP_008060080.1,GeneID:16194568;Name=YP_008060080.1;gbkey=CDS;gene=97;product=hypothetical protein;protein_id=YP_008060080.1;transl_table=11
+NC_021335.1	RefSeq	gene	62733	62969	.	-	.	ID=gene97;Dbxref=GeneID:16194604;Name=98;gbkey=Gene;gene=98;gene_biotype=protein_coding;locus_tag=M193_gp076;old_locus_tag=HRTV7_98
+NC_021335.1	RefSeq	CDS	62733	62969	.	-	0	ID=cds96;Parent=gene97;Dbxref=Genbank:YP_008060081.1,GeneID:16194604;Name=YP_008060081.1;gbkey=CDS;gene=98;product=hypothetical protein;protein_id=YP_008060081.1;transl_table=11
+NC_021335.1	RefSeq	gene	62966	63256	.	-	.	ID=gene98;Dbxref=GeneID:16194584;Name=99;gbkey=Gene;gene=99;gene_biotype=protein_coding;locus_tag=M193_gp075;old_locus_tag=HRTV7_99
+NC_021335.1	RefSeq	CDS	62966	63256	.	-	0	ID=cds97;Parent=gene98;Dbxref=Genbank:YP_008060082.1,GeneID:16194584;Name=YP_008060082.1;gbkey=CDS;gene=99;product=hypothetical protein;protein_id=YP_008060082.1;transl_table=11
+NC_021335.1	RefSeq	gene	63360	63542	.	-	.	ID=gene99;Dbxref=GeneID:16194598;Name=100;gbkey=Gene;gene=100;gene_biotype=protein_coding;locus_tag=M193_gp074;old_locus_tag=HRTV7_100
+NC_021335.1	RefSeq	CDS	63360	63542	.	-	0	ID=cds98;Parent=gene99;Dbxref=Genbank:YP_008060083.1,GeneID:16194598;Name=YP_008060083.1;gbkey=CDS;gene=100;product=hypothetical protein;protein_id=YP_008060083.1;transl_table=11
+NC_021335.1	RefSeq	gene	63543	63866	.	-	.	ID=gene100;Dbxref=GeneID:16194554;Name=101;gbkey=Gene;gene=101;gene_biotype=protein_coding;locus_tag=M193_gp073;old_locus_tag=HRTV7_101
+NC_021335.1	RefSeq	CDS	63543	63866	.	-	0	ID=cds99;Parent=gene100;Dbxref=Genbank:YP_008060084.1,GeneID:16194554;Name=YP_008060084.1;gbkey=CDS;gene=101;product=hypothetical protein;protein_id=YP_008060084.1;transl_table=11
+NC_021335.1	RefSeq	gene	63859	64137	.	-	.	ID=gene101;Dbxref=GeneID:16194552;Name=102;gbkey=Gene;gene=102;gene_biotype=protein_coding;locus_tag=M193_gp072;old_locus_tag=HRTV7_102
+NC_021335.1	RefSeq	CDS	63859	64137	.	-	0	ID=cds100;Parent=gene101;Dbxref=Genbank:YP_008060085.1,GeneID:16194552;Name=YP_008060085.1;gbkey=CDS;gene=102;product=hypothetical protein;protein_id=YP_008060085.1;transl_table=11
+NC_021335.1	RefSeq	gene	64137	64595	.	-	.	ID=gene102;Dbxref=GeneID:16194596;Name=103;gbkey=Gene;gene=103;gene_biotype=protein_coding;locus_tag=M193_gp071;old_locus_tag=HRTV7_103
+NC_021335.1	RefSeq	CDS	64137	64595	.	-	0	ID=cds101;Parent=gene102;Dbxref=Genbank:YP_008060086.1,GeneID:16194596;Name=YP_008060086.1;gbkey=CDS;gene=103;product=hypothetical protein;protein_id=YP_008060086.1;transl_table=11
+NC_021335.1	RefSeq	gene	64631	65680	.	-	.	ID=gene103;Dbxref=GeneID:16194559;Name=104;gbkey=Gene;gene=104;gene_biotype=protein_coding;locus_tag=M193_gp070;old_locus_tag=HRTV7_104
+NC_021335.1	RefSeq	CDS	64631	65680	.	-	0	ID=cds102;Parent=gene103;Dbxref=Genbank:YP_008060087.1,GeneID:16194559;Name=YP_008060087.1;gbkey=CDS;gene=104;product=hypothetical protein;protein_id=YP_008060087.1;transl_table=11
+NC_021335.1	RefSeq	gene	66025	66168	.	-	.	ID=gene104;Dbxref=GeneID:16194608;Name=105;gbkey=Gene;gene=105;gene_biotype=protein_coding;locus_tag=M193_gp069;old_locus_tag=HRTV7_105
+NC_021335.1	RefSeq	CDS	66025	66168	.	-	0	ID=cds103;Parent=gene104;Dbxref=Genbank:YP_008060088.1,GeneID:16194608;Name=YP_008060088.1;gbkey=CDS;gene=105;product=hypothetical protein;protein_id=YP_008060088.1;transl_table=11
+NC_021335.1	RefSeq	gene	67667	68428	.	-	.	ID=gene105;Dbxref=GeneID:16194605;Name=106;gbkey=Gene;gene=106;gene_biotype=protein_coding;locus_tag=M193_gp068;old_locus_tag=HRTV7_106
+NC_021335.1	RefSeq	CDS	67667	68428	.	-	0	ID=cds104;Parent=gene105;Dbxref=Genbank:YP_008060089.1,GeneID:16194605;Name=YP_008060089.1;gbkey=CDS;gene=106;product=hypothetical protein;protein_id=YP_008060089.1;transl_table=11
+
